@@ -3,16 +3,15 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 04 May 2023 13:33 UTC
-# Version: 2023.0504.1333.09
+# Last modified: 23 May 2023 21:29 UTC
+# Version: 2023.0523.2129.32
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 139
+# Number of entries: 138
 #
 *.search.0xcb.dev
 *.searx.32bitflo.at
 *.search.activemail.de
 *.haku.ahmia.fi
-*.zoek.anchel.nl
 *.search.anonymize.com
 *.recherche.aol.fr
 *.search.aol.ca
