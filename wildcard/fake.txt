@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 May 2023 21:42 UTC
-# Version: 2023.0522.2142.10
+# Last modified: 23 May 2023 21:41 UTC
+# Version: 2023.0523.2141.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12295
+# Number of entries: 12285
 #
 *.100-solarni-lampa-cz.com
 *.11trikots.com
@@ -258,7 +258,6 @@
 *.aix-bicycle.com
 *.aiyinsitby.com
 *.aizen.cz
-*.aizhongzhou.com
 *.ajar.shop
 *.ajaxanywhere.com
 *.ajcenteruss.com
@@ -541,7 +540,6 @@
 *.aorticb.shop
 *.aoshimamodel.com
 *.aoshimatoys.com
-*.apalin.shop
 *.aparipalan.com
 *.apartments-ciric.com
 *.apbcdg.fr
@@ -605,11 +603,8 @@
 *.archivesh.com
 *.archouston.com
 *.arcteryx-outlet.at
-*.arcteryxbundacz.com
-*.arcteryxcanada.com
 *.arcteryxoutlet.at
 *.arcteryxoutletsdeutschland.de
-*.arcteryxzurich.com
 *.arcubev.com
 *.ardentaimeelk.com
 *.ardesign.at
@@ -673,7 +668,6 @@
 *.assertankle.store
 *.asset-consulting-estate.com
 *.asta-barka.com
-*.astgdshop.com
 *.astntg.com
 *.astoriajob.com
 *.astralgfx.de
@@ -779,9 +773,7 @@
 *.avesaleshop.com
 *.aveshoe.com
 *.avisical.shop
-*.avkjr.shop
 *.avrilamaya.com
-*.avstars.in
 *.avttiwa.com
 *.aw-animal.com
 *.aw-handel.de
@@ -1068,7 +1060,6 @@
 *.best24rxonline.shop
 *.best4you.org
 *.new.bestageoffers22.com
-*.bestasateam.top
 *.bestbaba.xyz
 *.bestbasketonline.com
 *.bestbathproduct.com
@@ -1116,7 +1107,6 @@
 *.bestwellbeings.com
 *.bestybikes.de
 *.bestzi.com
-*.betasco.top
 *.betefo.shop
 *.betercscios.com
 *.beterros.com
@@ -1274,6 +1264,10 @@
 *.bitiq.app
 *.bitis.store
 *.bitsoft-360.ai
+*.bitsoft360.app
+*.bitsoft360.com
+*.bitsoft360.io
+*.bitsoft360.net
 *.bitstenali.com
 *.bittoolsale.com
 *.bitypis.com
@@ -1623,7 +1617,6 @@
 *.bydumont.de
 *.byebob.com
 *.byeuys.shop
-*.bygigi.mx
 *.bymarlie.de
 *.byrdgear.shop
 *.byredskauf-de.com
@@ -2172,7 +2165,7 @@
 *.azuki.com.vn
 *.bamboocraft.com.au
 *.bamboocrafts.com.au
-*.bamboofinds.com.au
+*.www.bamboofinds.com.au
 *.brookssverige.com.se
 *.c20.com.br
 *.defcon7.com.br
@@ -2193,7 +2186,7 @@
 *.rsaonlinenow.com.au
 *.singsale.com.sg
 *.sowood.com.au
-*.thegiftyhouse.com.au
+*.www.thegiftyhouse.com.au
 *.virtualgraffiti.com.au
 *.yuanj.com.cn
 *.comba.at
@@ -2730,10 +2723,7 @@
 *.deutschermarkts.com
 *.deutschetroniks.com
 *.developk.shop
-*.handschellen.deveri.de
-*.plastik-mode.deveri.de
-*.schlafoverall.deveri.de
-*.shop.deveri.de
+*.deveri.de
 *.devifoodgrains.com
 *.devinsale.shop
 *.dewemalls.com
@@ -3573,7 +3563,6 @@
 *.exthann.com
 *.extra-surveys.com
 *.extracontroller.co
-*.extradevip.com
 *.extratopia.com
 *.extreme-us.com
 *.extremehonor.com
@@ -3639,7 +3628,8 @@
 *.familyshark.com
 *.familystore.com
 *.familyteacupschihuahuas.com
-*.famoury.com
+*.m.famoury.com
+*.store.famoury.com
 *.famulaturcheck.at
 *.fanaticgarment.com
 *.fanatictool.com
@@ -4825,6 +4815,7 @@
 *.heikojentsch.de
 *.heimatrad.de
 *.heimatverein-museum-boxberg.de
+*.heimeiche.de
 *.heinrich-essing.de
 *.heinzvonheiden-bayern.de
 *.heira-shop.com
@@ -5078,6 +5069,7 @@
 *.hotels-in-tyrol.com
 *.hotelsinperm.ru
 *.hotelsofmenorca.com
+*.hotelsofnewyorkcity.net
 *.hotinzerce.cz
 *.hotjewelry.store
 *.hotkidsplay.com
@@ -7163,8 +7155,7 @@
 *.jne-express.my.id
 *.www.pinjamnow.my.id
 *.yoli.my.id
-*.store.uschse04.my03.com
-*.www.uschse04.my03.com
+*.uschse04.my03.com
 *.mybell-refund.me
 *.myberlinshop.com
 *.mybestautologin567.com
@@ -7190,8 +7181,7 @@
 *.myhomica.com
 *.myhousesproduct.com
 *.g1z0.myinstructus.com
-*.store.kxu.myinstructus.com
-*.www.kxu.myinstructus.com
+*.kxu.myinstructus.com
 *.myisraelsource.com
 *.mykedr.buzz
 *.mykitashop.cz

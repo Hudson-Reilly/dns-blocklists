@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684791720 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1684878060 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 22 May 2023 21:42 UTC
-; Version: 2023.0522.2142.10
+; Last modified: 23 May 2023 21:41 UTC
+; Version: 2023.0523.2141.29
 ; Syntax: RPZ
-; Number of entries: 24590
+; Number of entries: 24570
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -27,6 +27,8 @@ bitcoineer.app CNAME .
 *.bitcoineer.app CNAME .
 bitiq.app CNAME .
 *.bitiq.app CNAME .
+bitsoft360.app CNAME .
+*.bitsoft360.app CNAME .
 chain-reaction.app CNAME .
 *.chain-reaction.app CNAME .
 ledgerliveapps.web.app CNAME .
@@ -1531,8 +1533,8 @@ bamboocraft.com.au CNAME .
 *.bamboocraft.com.au CNAME .
 bamboocrafts.com.au CNAME .
 *.bamboocrafts.com.au CNAME .
-bamboofinds.com.au CNAME .
-*.bamboofinds.com.au CNAME .
+www.bamboofinds.com.au CNAME .
+*.www.bamboofinds.com.au CNAME .
 gadgetfreak.com.au CNAME .
 *.gadgetfreak.com.au CNAME .
 gtmedia.com.au CNAME .
@@ -1545,8 +1547,8 @@ rsaonlinenow.com.au CNAME .
 *.rsaonlinenow.com.au CNAME .
 sowood.com.au CNAME .
 *.sowood.com.au CNAME .
-thegiftyhouse.com.au CNAME .
-*.thegiftyhouse.com.au CNAME .
+www.thegiftyhouse.com.au CNAME .
+*.www.thegiftyhouse.com.au CNAME .
 virtualgraffiti.com.au CNAME .
 *.virtualgraffiti.com.au CNAME .
 monad.be CNAME .
@@ -2203,8 +2205,6 @@ aix-bicycle.com CNAME .
 *.aix-bicycle.com CNAME .
 aiyinsitby.com CNAME .
 *.aiyinsitby.com CNAME .
-aizhongzhou.com CNAME .
-*.aizhongzhou.com CNAME .
 ajaxanywhere.com CNAME .
 *.ajaxanywhere.com CNAME .
 ajcenteruss.com CNAME .
@@ -2561,12 +2561,6 @@ archivesh.com CNAME .
 *.archivesh.com CNAME .
 archouston.com CNAME .
 *.archouston.com CNAME .
-arcteryxbundacz.com CNAME .
-*.arcteryxbundacz.com CNAME .
-arcteryxcanada.com CNAME .
-*.arcteryxcanada.com CNAME .
-arcteryxzurich.com CNAME .
-*.arcteryxzurich.com CNAME .
 arcubev.com CNAME .
 *.arcubev.com CNAME .
 ardentaimeelk.com CNAME .
@@ -2619,8 +2613,6 @@ asset-consulting-estate.com CNAME .
 *.asset-consulting-estate.com CNAME .
 asta-barka.com CNAME .
 *.asta-barka.com CNAME .
-astgdshop.com CNAME .
-*.astgdshop.com CNAME .
 astntg.com CNAME .
 *.astntg.com CNAME .
 astoriajob.com CNAME .
@@ -3219,6 +3211,8 @@ bitcoinwebr.com CNAME .
 *.bitcoinwebr.com CNAME .
 bitiiy.com CNAME .
 *.bitiiy.com CNAME .
+bitsoft360.com CNAME .
+*.bitsoft360.com CNAME .
 bitstenali.com CNAME .
 *.bitstenali.com CNAME .
 bittoolsale.com CNAME .
@@ -5549,8 +5543,6 @@ exthann.com CNAME .
 *.exthann.com CNAME .
 extra-surveys.com CNAME .
 *.extra-surveys.com CNAME .
-extradevip.com CNAME .
-*.extradevip.com CNAME .
 extratopia.com CNAME .
 *.extratopia.com CNAME .
 extreme-us.com CNAME .
@@ -5619,8 +5611,10 @@ familystore.com CNAME .
 *.familystore.com CNAME .
 familyteacupschihuahuas.com CNAME .
 *.familyteacupschihuahuas.com CNAME .
-famoury.com CNAME .
-*.famoury.com CNAME .
+m.famoury.com CNAME .
+*.m.famoury.com CNAME .
+store.famoury.com CNAME .
+*.store.famoury.com CNAME .
 fanaticgarment.com CNAME .
 *.fanaticgarment.com CNAME .
 fanatictool.com CNAME .
@@ -9203,10 +9197,8 @@ mwsgts.com CNAME .
 *.mwsgts.com CNAME .
 mxsania.com CNAME .
 *.mxsania.com CNAME .
-store.uschse04.my03.com CNAME .
-*.store.uschse04.my03.com CNAME .
-www.uschse04.my03.com CNAME .
-*.www.uschse04.my03.com CNAME .
+uschse04.my03.com CNAME .
+*.uschse04.my03.com CNAME .
 myberlinshop.com CNAME .
 *.myberlinshop.com CNAME .
 mybestautologin567.com CNAME .
@@ -9249,10 +9241,8 @@ myhousesproduct.com CNAME .
 *.myhousesproduct.com CNAME .
 g1z0.myinstructus.com CNAME .
 *.g1z0.myinstructus.com CNAME .
-store.kxu.myinstructus.com CNAME .
-*.store.kxu.myinstructus.com CNAME .
-www.kxu.myinstructus.com CNAME .
-*.www.kxu.myinstructus.com CNAME .
+kxu.myinstructus.com CNAME .
+*.kxu.myinstructus.com CNAME .
 myisraelsource.com CNAME .
 *.myisraelsource.com CNAME .
 mymair.com CNAME .
@@ -16509,14 +16499,8 @@ deutscher-experte.de CNAME .
 *.deutscher-experte.de CNAME .
 deutscheritter.de CNAME .
 *.deutscheritter.de CNAME .
-handschellen.deveri.de CNAME .
-*.handschellen.deveri.de CNAME .
-plastik-mode.deveri.de CNAME .
-*.plastik-mode.deveri.de CNAME .
-schlafoverall.deveri.de CNAME .
-*.schlafoverall.deveri.de CNAME .
-shop.deveri.de CNAME .
-*.shop.deveri.de CNAME .
+deveri.de CNAME .
+*.deveri.de CNAME .
 dexia-hyp.de CNAME .
 *.dexia-hyp.de CNAME .
 dfr-hessen.de CNAME .
@@ -17341,6 +17325,8 @@ heimatrad.de CNAME .
 *.heimatrad.de CNAME .
 heimatverein-museum-boxberg.de CNAME .
 *.heimatverein-museum-boxberg.de CNAME .
+heimeiche.de CNAME .
+*.heimeiche.de CNAME .
 heinrich-essing.de CNAME .
 *.heinrich-essing.de CNAME .
 heinzvonheiden-bayern.de CNAME .
@@ -19969,8 +19955,6 @@ pasarkta.pasaruang.id CNAME .
 *.pasarkta.pasaruang.id CNAME .
 smanegeri1-demak.sch.id CNAME .
 *.smanegeri1-demak.sch.id CNAME .
-avstars.in CNAME .
-*.avstars.in CNAME .
 trade.bullinvest.in CNAME .
 *.trade.bullinvest.in CNAME .
 clothesmania.in CNAME .
@@ -20055,6 +20039,8 @@ bitcoinmotion.io CNAME .
 *.bitcoinmotion.io CNAME .
 bitindexprime.io CNAME .
 *.bitindexprime.io CNAME .
+bitsoft360.io CNAME .
+*.bitsoft360.io CNAME .
 g-host.io CNAME .
 *.g-host.io CNAME .
 instant-e-app-for-campaign.github.io CNAME .
@@ -20325,8 +20311,6 @@ okay-world.monster CNAME .
 *.okay-world.monster CNAME .
 trox.monster CNAME .
 *.trox.monster CNAME .
-bygigi.mx CNAME .
-*.bygigi.mx CNAME .
 17aap.net CNAME .
 *.17aap.net CNAME .
 247pharm.net CNAME .
@@ -20365,6 +20349,8 @@ berger-research.net CNAME .
 *.berger-research.net CNAME .
 bitcoin-trader.net CNAME .
 *.bitcoin-trader.net CNAME .
+bitsoft360.net CNAME .
+*.bitsoft360.net CNAME .
 botykeen-cz.net CNAME .
 *.botykeen-cz.net CNAME .
 caprin.net CNAME .
@@ -20477,6 +20463,8 @@ hotelinphuket.net CNAME .
 *.hotelinphuket.net CNAME .
 hotels-colorado.net CNAME .
 *.hotels-colorado.net CNAME .
+hotelsofnewyorkcity.net CNAME .
+*.hotelsofnewyorkcity.net CNAME .
 hyperlook.net CNAME .
 *.hyperlook.net CNAME .
 ibismall.net CNAME .
@@ -21353,8 +21341,6 @@ aocrloib.shop CNAME .
 *.aocrloib.shop CNAME .
 aorticb.shop CNAME .
 *.aorticb.shop CNAME .
-apalin.shop CNAME .
-*.apalin.shop CNAME .
 apromo.shop CNAME .
 *.apromo.shop CNAME .
 arocosi.shop CNAME .
@@ -21377,8 +21363,6 @@ automotivehandtools.shop CNAME .
 *.automotivehandtools.shop CNAME .
 avisical.shop CNAME .
 *.avisical.shop CNAME .
-avkjr.shop CNAME .
-*.avkjr.shop CNAME .
 missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop CNAME .
 *.missmatch3-addressdelivery.mails-5v6i15.aww9lv2.shop CNAME .
 axfritz.shop CNAME .
@@ -23801,12 +23785,8 @@ bagscnshop.top CNAME .
 *.bagscnshop.top CNAME .
 beautifulcity365.top CNAME .
 *.beautifulcity365.top CNAME .
-bestasateam.top CNAME .
-*.bestasateam.top CNAME .
 besterkreditvergleich.top CNAME .
 *.besterkreditvergleich.top CNAME .
-betasco.top CNAME .
-*.betasco.top CNAME .
 bitcllpay.top CNAME .
 *.bitcllpay.top CNAME .
 bluecaft.top CNAME .
