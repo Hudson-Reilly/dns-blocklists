@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 May 2023 21:35 UTC
-# Version: 2023.0522.2135.59
+# Last modified: 23 May 2023 21:36 UTC
+# Version: 2023.0523.2136.14
 # Syntax: Domains (without subdomains)
-# Number of entries: 85252
+# Number of entries: 84862
 #
 000000tyc.com
 00001111hlcp1111.com
@@ -33092,7 +33092,6 @@ shanhe.57577.live
 7566n.com
 7566t.com
 7566yb.com
-75674.org
 756742.com
 7567bet.com
 7568.vip
@@ -33177,8 +33176,6 @@ shanhe.57577.live
 7598j.com
 7598p.com
 7598v.com
-759954.org
-75999.xyz
 7599h.com
 7599t.com
 7599v.com
@@ -33204,7 +33201,6 @@ shanhe.57577.live
 760494.com
 760495.com
 7604yb.com
-76056.org
 76058.vip
 7607x.com
 760858.com
@@ -33326,7 +33322,6 @@ shanhe.57577.live
 7632j.com
 7632t.com
 7633388.com
-763395.org
 7633h.com
 7633n.com
 7633t.com
@@ -33434,7 +33429,6 @@ shanhe.57577.live
 7659n.com
 7659t.com
 765fn.com
-765tk65.net
 7660n.com
 76635n.com
 7663j.com
@@ -33448,7 +33442,6 @@ shanhe.57577.live
 7666s.com
 7666x.com
 7667x.com
-76681.asia
 7668333.com
 7669333.com
 7669yb.com
@@ -33507,7 +33500,6 @@ shanhe.57577.live
 7687yb.com
 7688t.com
 7688yb.com
-76901.org
 769066.com
 7690yb.com
 7692288.com
@@ -33537,7 +33529,6 @@ shanhe.57577.live
 7693v.com
 7693x.com
 7694t.com
-769548.com
 7695p.com
 7695v.com
 7695yb.com
@@ -33549,7 +33540,6 @@ shanhe.57577.live
 7697p.com
 7697yb.com
 7698t.com
-76999.xyz
 7699m.com
 7699yb.com
 769yh.com
@@ -33594,7 +33584,6 @@ shanhe.57577.live
 7712yb.com
 7713388.com
 77138.cm
-7713a.com
 7713f.com
 7713ky.com
 7713n.com
@@ -33631,7 +33620,6 @@ shanhe.57577.live
 7718t.com
 7718v.com
 7718w.com
-7719a.com
 7719ky.com
 7719n.com
 77202820.com
@@ -33698,7 +33686,6 @@ shanhe.57577.live
 7734j.com
 7734w.com
 7735588.com
-773575.net
 7735ky.com
 7736ky.com
 7737ky.com
@@ -33760,7 +33747,6 @@ shanhe.57577.live
 7748j.com
 7748w.com
 7748yb.com
-77497.org
 7749j.com
 7749yb.com
 77503.vip
@@ -33794,13 +33780,10 @@ shanhe.57577.live
 7758h.com
 7758ky.com
 7758x.com
-77598.vip
-7759a.com
 7759ky.com
 7759yb.com
 7760777.com
 7760t.com
-77618.net
 7761f.com
 7761ky.com
 7762c.com
@@ -33897,30 +33880,22 @@ shanhe.57577.live
 77719888.com
 7771vn.com
 77722p.com
-77724.biz
 7772555.com
 7772608.com
 7772vn.com
-77739.biz
 7773f.com
 7773vn.com
 77740.org
 7774384.com
 7774t.com
 7774vn.com
-77751.biz
-77752.biz
 77753.biz
 77755156.com
 777558765.com
 77755p.com
 77755t.com
-77756.biz
-77758.biz
-77759.biz
 7775vn.com
 7775w.com
-77761.biz
 777659000.com
 77765955.com
 7776h.com
@@ -33931,7 +33906,6 @@ shanhe.57577.live
 77771p.com
 7777452.net
 77775316.com
-77775359.com
 7777637.net
 7777661.net
 777770907.com
@@ -33985,7 +33959,6 @@ shanhe.57577.live
 777poca.com
 777slotsbay.com
 777wb9.com
-777webs.com
 777win456.com
 7780.net
 7780666.com
@@ -34007,10 +33980,8 @@ shanhe.57577.live
 7787t.com
 7787yb.com
 77883412.com
-77885359.com
 7788567.com
 7788696.com
-77888web.com
 77888yh.com
 77889966.com
 7788ghm.com
@@ -34119,7 +34090,6 @@ shanhe.57577.live
 7806x.com
 7807666.com
 7808t.com
-780906.com
 7809yb.com
 7810x.com
 7810yb.com
@@ -34217,7 +34187,6 @@ shanhe.57577.live
 7833w.com
 7833yb.com
 783465.com
-7834r98.net
 7834x.com
 78355t.com
 7835v.com
@@ -34256,7 +34225,6 @@ shanhe.57577.live
 7838v.com
 78397.vip
 783yb.com
-784016.net
 7840t.com
 7841t.com
 7842288.com
@@ -34266,7 +34234,6 @@ shanhe.57577.live
 7844t.com
 7844yb.com
 7845t.com
-7845tp.net
 7845yb.com
 7846x.com
 7846yb.com
@@ -34372,7 +34339,6 @@ shanhe.57577.live
 785090.org
 7850yb.com
 78511.org
-785113.vip
 78513.org
 78514.org
 78515.org
@@ -34431,7 +34397,6 @@ shanhe.57577.live
 7859wap18.top
 7859wap8.top
 7859x.com
-785pw3.net
 7860yb.com
 7861t.com
 786277.com
@@ -34445,7 +34410,6 @@ shanhe.57577.live
 7863w.com
 7863yb.com
 7864yb.com
-78653.org
 786544.com
 786566.com
 7866x.com
@@ -34536,7 +34500,6 @@ shanhe.57577.live
 7890333.com
 7891366.com
 78915.bond
-78919.org
 7891t.com
 7891yb.com
 78921.site
@@ -34565,7 +34528,6 @@ shanhe.57577.live
 78939.vip
 7893v.com
 7894066.com
-789413.com
 7894399.com
 7894699.com
 7894799.com
@@ -34667,7 +34629,6 @@ dk.789pro.top
 78cro.com
 78fs4t.net
 78fs4t.vip
-78hc565.net
 78hhgg.com
 78hjd.com
 78k11.com
@@ -34690,9 +34651,7 @@ dk.789pro.top
 78kee.com
 78kff.com
 78mnazz.com
-78qs93.net
 78sfv69.info
-78vn89.net
 78vna.com
 78vnr.com
 78wct.com
@@ -34709,18 +34668,15 @@ dk.789pro.top
 7900v.com
 79011.biz
 7902288.com
-790234.com
 7903t.com
 7904041.com
 7908x.com
 790bet.com
 790ee.wang
-791154.org
 7911yb.com
 7912t.com
 7913t.com
 7913x.com
-79140.vip
 7914t.com
 79155555.com
 7916666.com
@@ -34772,11 +34728,6 @@ dk.789pro.top
 793yh.com
 79409.com
 7941.org
-794151.com
-794152.com
-794154.com
-794157.com
-794159.com
 7941t.com
 794258.com
 7942t.com
@@ -34786,10 +34737,6 @@ dk.789pro.top
 7944t.com
 7944x.com
 7946t.com
-794712.com
-794714.com
-794716.com
-794719.com
 79481.biz
 794850.com
 794f.com
@@ -34806,7 +34753,6 @@ dk.789pro.top
 7953x.com
 79540.com
 79541518.xyz
-79548.monster
 7954t.com
 7954x.com
 7955h.com
@@ -34814,10 +34760,8 @@ dk.789pro.top
 7956t.com
 7957x.com
 7958t.com
-79594.vip
 7959n.com
 7959t.com
-796141.com
 7961n.com
 7961p.com
 7961t.com
@@ -34866,7 +34810,6 @@ dk.789pro.top
 7983n.com
 7984x.com
 798566.com
-79858.vip
 7985j.com
 7985p.com
 7985t.com
@@ -34876,7 +34819,6 @@ dk.789pro.top
 7986t.com
 7987789vi.com
 7987t.com
-79891.org
 798995.com
 7989j.com
 7989t.com
@@ -35106,7 +35048,6 @@ freelive.7mvn.com
 802866.com
 8028d.com
 8028t.com
-80296.biz
 8029832.com
 8029d88.com
 802sf.com
@@ -35116,7 +35057,6 @@ freelive.7mvn.com
 803277.com
 803348.com
 8034555.com
-803598.com
 8035t.com
 80360.com
 8036999.com
@@ -35152,8 +35092,6 @@ freelive.7mvn.com
 805068.com
 805078.com
 8051d.com
-80534.biz
-80539.wang
 8053d.com
 8053t.com
 8055n.com
@@ -35260,7 +35198,6 @@ freelive.7mvn.com
 811ctw.com
 811fun.com
 811z6.com
-81208.wang
 8121x.com
 8122129.com
 8122195.com
@@ -35485,7 +35422,6 @@ freelive.7mvn.com
 8163ss.com
 8163xx.com
 8163yy.com
-816423.com
 8165d.com
 8165n.com
 8165p.com
@@ -35493,7 +35429,6 @@ freelive.7mvn.com
 816601.com
 8166229.com
 816760.com
-81685.vip
 8168d88.com
 8168t.com
 8168x.com
@@ -35655,7 +35590,6 @@ freelive.7mvn.com
 8196878.com
 8197t.com
 8197x.com
-819870.com
 8198d.com
 8198t.com
 8198x.com
@@ -35977,7 +35911,6 @@ freelive.7mvn.com
 8235588.com
 8235t.com
 8236.com
-82360.vip
 823648.com
 8236aa.com
 8236bb.com
@@ -36061,7 +35994,6 @@ freelive.7mvn.com
 82417963.com
 8241x.com
 8242x.com
-824376.com
 8243x.com
 8244n.com
 8244t.com
@@ -36080,7 +36012,6 @@ freelive.7mvn.com
 8252654.com
 825390.com
 8253t.com
-82547.net
 8255h.com
 8256t.com
 8256x.com
@@ -36218,14 +36149,12 @@ freelive.7mvn.com
 83088vip.com
 830yb.com
 831.ee
-831094.com
 8311n.com
 8311t.com
 83124.vip
 83128.vip
 83135.vip
 831390.com
-831462.com
 8315588.com
 8315n.com
 83169.vip
@@ -36242,7 +36171,6 @@ freelive.7mvn.com
 832.ee
 8321t.com
 83222.biz
-832250.com
 8322n.com
 832390.com
 8323n.com
@@ -36270,7 +36198,6 @@ freelive.7mvn.com
 8326h.com
 8326t.com
 8327n.com
-832827.net
 8328x.com
 8329t.com
 8329x.com
@@ -36279,7 +36206,6 @@ freelive.7mvn.com
 83319.net
 83335359.com
 8333dhz.com
-83350.org
 8335n.com
 8335w.com
 83366n.com
@@ -36307,7 +36233,6 @@ freelive.7mvn.com
 83475.com
 834842.com
 8349.org
-834de9.net
 835.ee
 835077.com
 83509.com
@@ -36325,7 +36250,6 @@ freelive.7mvn.com
 83559.wang
 8356t.com
 8357x.com
-83586.wang
 8358t.com
 8359n.com
 8359t.com
@@ -36351,7 +36275,6 @@ freelive.7mvn.com
 836yh8.com
 837.ee
 837084.com
-837156.com
 8371j.com
 837263.com
 8372983.com
@@ -36453,16 +36376,13 @@ freelive.7mvn.com
 8412x.com
 841366.com
 8413x.com
-841477.com
 8414t.com
 8415x.com
-84171.org
 8417555.com
 8419t.com
 8420555.com
 842089.com
 8420t.com
-842156.com
 8421t.com
 842204.com
 84222.bet
@@ -36516,13 +36436,11 @@ freelive.7mvn.com
 8447t.com
 8447v.com
 8447yabo.com
-84499.org
 8449n.com
 8449t.com
 844d.com
 845089.com
 8450yabo.com
-845151.vip
 8451t.com
 845219.com
 845219.net
@@ -36530,7 +36448,6 @@ freelive.7mvn.com
 8453yabo.com
 8454t.com
 84555.bet
-845604.com
 8457t.com
 8460555.com
 8460yabo.com
@@ -36539,10 +36456,6 @@ freelive.7mvn.com
 8462t.com
 8463x.com
 84651.wang
-846512.com
-846513.com
-84654.vip
-846557.vip
 8465t.com
 8465x.com
 84666.bet
@@ -36579,7 +36492,6 @@ freelive.7mvn.com
 848158.com
 8482749.com
 8483634.com
-848389.com
 848390.com
 8483yabo.com
 84847833.com
@@ -36639,7 +36551,6 @@ freelive.7mvn.com
 84895577.com
 84895588.com
 8490t.com
-849162.com
 8491t.com
 849364.com
 8493x.com
@@ -36721,7 +36632,6 @@ freelive.7mvn.com
 8510wm6.app
 8510wx.app
 85110.org
-85119.asia
 8511n.com
 8511s.com
 85124521.com
@@ -36849,7 +36759,6 @@ freelive.7mvn.com
 8544yabo.com
 8545t.com
 8545yabo.com
-854654.com
 8546x.com
 8546yabo.com
 8547213.com
@@ -36963,7 +36872,6 @@ freelive.7mvn.com
 85705.vip
 8571t.com
 8571yabo.com
-857274.com
 8572h.com
 8572j.com
 8572t.com
@@ -37042,7 +36950,6 @@ freelive.7mvn.com
 8604yabo.com
 86053.vip
 860535.com
-86073.org
 8611n.com
 8611s.com
 8611t.com
@@ -37053,7 +36960,6 @@ freelive.7mvn.com
 8613j.com
 8613n.com
 8613t.com
-86144.org
 8614t.com
 8614x.com
 86156.site
@@ -37066,7 +36972,6 @@ freelive.7mvn.com
 8618x.com
 8618yabo.com
 861911.com
-86198.vip
 86199v.com
 8619j.com
 8619p.com
@@ -37087,7 +36992,6 @@ freelive.7mvn.com
 86241075.com
 86241729.com
 86241796.com
-862473.com
 8625t.com
 862653.com
 86271.vip
@@ -37145,7 +37049,6 @@ freelive.7mvn.com
 8642t.com
 864390.com
 8643yabo.com
-86447.org
 8644t.com
 8644w.com
 8644yabo.com
@@ -37221,10 +37124,8 @@ freelive.7mvn.com
 8669933.com
 8669h.com
 866z6.com
-86702.vip
 867079.com
 8670yabo.com
-86716.biz
 8671t.com
 867254797.com
 8672t.com
@@ -37268,7 +37169,6 @@ freelive.7mvn.com
 8685x.com
 86862.app
 86863.app
-868642.com
 86865.app
 86866163.com
 86867.app
@@ -37303,7 +37203,6 @@ freelive.7mvn.com
 86956.wang
 8695j.com
 8695t.com
-86962.wang
 8696567.com
 8696x.com
 8696yabo.com
@@ -37444,7 +37343,6 @@ freelive.7mvn.com
 8719j.com
 8719p.com
 8719t.com
-871m34.net
 87210.vip
 87211.net
 87211.xyz
@@ -37546,8 +37444,6 @@ freelive.7mvn.com
 8743t.com
 87450.com
 87451.wang
-874519.com
-874561.com
 8745t.com
 874628.com
 8746yabo.com
@@ -37564,7 +37460,6 @@ freelive.7mvn.com
 874yb.com
 874yh.com
 8750yabo.com
-875163.com
 8751hh.com
 8751yabo.com
 8752j.com
@@ -37620,7 +37515,6 @@ freelive.7mvn.com
 87765.org
 877653.com
 87766hj.com
-87769.wang
 8776t.com
 87771p.com
 87775359.com
@@ -37721,7 +37615,6 @@ freelive.7mvn.com
 8803888.com
 8803n.com
 8804yabo.com
-8805359.com
 8805n.com
 8805v.com
 8806333.com
@@ -37767,7 +37660,6 @@ freelive.7mvn.com
 8813t.com
 8813w.com
 88151v.com
-8815359.com
 8815d.com
 8815f.com
 881646.com
@@ -37818,16 +37710,13 @@ freelive.7mvn.com
 88239007.com
 88239009.com
 882395.com
-8823a.com
 8823f.com
 8823w.com
 882489.com
-88249.biz
 882495.com
 882496.com
 8824yabo.com
 882504.com
-8825359.com
 882548.com
 882570.com
 8825f.com
@@ -37846,7 +37735,6 @@ freelive.7mvn.com
 8827375.com
 882748.com
 8827f.com
-88287.wang
 8828z.com
 8829g.com
 8829n.com
@@ -37878,7 +37766,6 @@ freelive.7mvn.com
 8834s.com
 8834w.com
 8834x.com
-8835359.com
 8835b.com
 8836f.com
 8836t.com
@@ -37891,7 +37778,6 @@ freelive.7mvn.com
 88399v.com
 8839g.com
 8839ks.com
-8839s.com
 8839t.com
 8839w.com
 883ae888.com
@@ -37910,7 +37796,6 @@ freelive.7mvn.com
 8844999.com
 8844vns.com
 8844wb.com
-8845359.com
 884543.com
 884561.com
 884598.com
@@ -37936,7 +37821,6 @@ freelive.7mvn.com
 88503.biz
 8850n.com
 88511.vip
-885156.vip
 88522.vip
 8852f.com
 8852sun.com
@@ -38011,7 +37895,6 @@ freelive.7mvn.com
 88647.wang
 8864t.com
 8864yabo.com
-8865359.com
 8865f.com
 8865m.com
 8865x.com
@@ -38056,7 +37939,6 @@ freelive.7mvn.com
 887046.com
 887059.com
 887093.com
-8870m.com
 8870n.com
 887148.com
 887149.com
@@ -38080,7 +37962,6 @@ freelive.7mvn.com
 887176.xyz
 887177.xyz
 887178.xyz
-88718.net
 887186.xyz
 8871b.com
 8871f.com
@@ -38129,7 +38010,6 @@ freelive.7mvn.com
 887513.com
 887523.com
 887532.com
-8875359.com
 887536.com
 887537.com
 887563.com
@@ -38182,57 +38062,9 @@ freelive.7mvn.com
 8880376.com
 8880x.com
 888100.vip
-888108.vip
 888111bet365.com
-888140.vip
-888150.vip
-888151.vip
-888152.vip
-888153.vip
-888154.vip
-888155.vip
-888156.vip
-888157.vip
-888159.vip
-888160.vip
 8881608.com
-888161.vip
-888162.vip
 8881629.com
-888163.vip
-888164.vip
-888165.vip
-888166.vip
-888167.vip
-888169.vip
-888170.vip
-888171.vip
-888172.vip
-888173.vip
-888174.vip
-888175.vip
-888176.vip
-888177.vip
-888178.vip
-888179.vip
-888180.vip
-888182.vip
-888183.vip
-888184.vip
-888185.vip
-888186.vip
-888187.vip
-888189.vip
-888190.vip
-888191.vip
-888192.vip
-888193.vip
-888194.vip
-888195.vip
-888196.vip
-888197.vip
-888198.vip
-888199.vip
 8881999b.com
 8881999c.com
 8881999u.com
@@ -38425,7 +38257,6 @@ freelive.7mvn.com
 8888yabo.com
 8888yb.com
 8888yh5.com
-8888yo.com
 8889026.com
 88890998keras.com
 8889106.com
@@ -38537,7 +38368,6 @@ slots.888wetten.de
 8893v.com
 8893yh.com
 889438.com
-88944.org
 889478.com
 88949.com
 88949a.com
@@ -38559,12 +38389,10 @@ slots.888wetten.de
 8894x.com
 8894yh.com
 88953.vip
-8895359.com
 88958.vip
 88959.vip
 8895f.com
 8895ks.com
-8895m.com
 88963.vip
 88965.vip
 8896b.com
@@ -38618,7 +38446,6 @@ slots.888wetten.de
 88f28.com
 88f66.vip
 88f8bet.com
-88f8bet0.com
 88f8betvip.com
 88f98.vip
 88f99.vip
@@ -38800,7 +38627,6 @@ slots.888wetten.de
 88yhbb.com
 88yhn.com
 88yibo.com
-88yo88.com
 88yp6.com
 88yq3.com
 88yq5.com
@@ -39038,7 +38864,6 @@ slots.888wetten.de
 8936t.com
 8936yabo.com
 893756386668.com
-893765.com
 8937p.com
 8937t.com
 8937v.com
@@ -39115,7 +38940,6 @@ slots.888wetten.de
 8971v.com
 8972j.com
 8972v.com
-89738.net
 897390.com
 8973t.com
 8973x.com
@@ -39257,7 +39081,6 @@ slots.888wetten.de
 89yabo.com
 89yc8523.net
 89ylgj.com
-8aa98.com
 8aj6298.com
 8aj9659.com
 8app9659.com
@@ -39284,7 +39107,6 @@ slots.888wetten.de
 8f8bet.store
 8f8bet7777.com
 8f8betvip.com
-8fdds.com
 8ffq.com
 8ffu.com
 8fqqt2m.com
@@ -39330,7 +39152,6 @@ slots.888wetten.de
 8js86.com
 8js89.com
 8k00000.com
-8k102.com
 8k6g3.net
 8kbet.app
 8kbet.fun
@@ -39341,31 +39162,11 @@ slots.888wetten.de
 8kbet08.com
 8kbet38.com
 8kbet8989.com
-8kbetpro.net
 8kbettt.com
 8kbetvip.com
 8kbetwin.top
 8kk100.com
 8kk101.com
-8kk103.com
-8kk104.com
-8kk105.com
-8kk106.com
-8kk107.com
-8kk108.com
-8kk109.com
-8kk110.com
-8kk111.com
-8kk112.com
-8kk113.com
-8kk114.com
-8kk115.com
-8kk116.com
-8kk117.com
-8kk118.com
-8kk119.com
-8kk120.com
-8kk121.com
 8kk50.com
 8kk51.com
 8kk52.com
@@ -39417,7 +39218,6 @@ slots.888wetten.de
 8kkk3.com
 8kkk4.com
 8kkk5.com
-8kkkbet.com
 8live.club
 8live.com
 8live.fun
@@ -39804,7 +39604,6 @@ slots.888wetten.de
 900j1.net
 900mq.com
 900wct.com
-90119.biz
 9012.vip
 9012t.com
 9013x.com
@@ -39823,18 +39622,14 @@ slots.888wetten.de
 9025588.com
 9025x.com
 9025yabo.com
-902900.com
 9029yabo.com
 902caipiao.com
 903049.com
-903079.com
 90326.org
-903286.com
 9034t.com
 9034x.com
 9035588.com
 9035t.com
-90365.org
 9036yabo.com
 9038yabo.com
 9039x.com
@@ -39848,7 +39643,6 @@ slots.888wetten.de
 9045yabo.com
 9046555.com
 9046t.com
-90471.vip
 90472.com
 9047yabo.com
 9049yabo.com
@@ -39864,11 +39658,9 @@ slots.888wetten.de
 905wct.com
 905yb.com
 9060yabo.com
-90614.org
 9062.vip
 9062t.com
 906492.com
-906495.com
 9064yabo.com
 906566.com
 906601.com
@@ -39882,7 +39674,6 @@ slots.888wetten.de
 9075000.com
 9075h.com
 9075yabo.com
-907626.com
 9076b.com
 9076c.com
 9076com.com
@@ -39908,7 +39699,6 @@ slots.888wetten.de
 90823.vip
 90824a.com
 90824b.com
-90832.biz
 9083729.com
 9083yabo.com
 90842.com
@@ -39980,7 +39770,6 @@ slots.888wetten.de
 910c75.com
 910fe.net
 911004.com
-9110778.com
 9110hg.com
 911114.vip
 91112.vip
@@ -40088,7 +39877,6 @@ slots.888wetten.de
 915525.com
 915583.com
 9155t.com
-915634.com
 91566v.com
 9156t.com
 9156yabo.com
@@ -40135,22 +39923,18 @@ slots.888wetten.de
 91682x.com
 91682z.com
 9168t.com
-916929.com
 9169t.com
 916nn.com
 916wct.com
 91708.org
-917136.com
 9171n.com
 9171t.com
 9172t.com
 9172x.com
-917397.org
 9173hg.com
 9173t.com
 9173x.com
 9173yabo.com
-917432.com
 9174t.com
 9175t.com
 9175x.com
@@ -40279,7 +40063,6 @@ slots.888wetten.de
 92010.org
 9201x.com
 9202x.com
-920306.vip
 9203t.com
 9204yabo.com
 920587.com
@@ -40312,7 +40095,6 @@ slots.888wetten.de
 9218n.com
 9218t.com
 9218x.com
-921936.com
 9219t.com
 921wct.com
 9220123.com
@@ -40448,7 +40230,6 @@ slots.888wetten.de
 9245x.com
 9246t.com
 9247t.com
-924896.com
 9248t.com
 9248yabo.com
 9249900.com
@@ -40477,7 +40258,6 @@ slots.888wetten.de
 92499xx.com
 92499yy.com
 924wct.com
-925122.org
 92513.net
 9251t.com
 9251yabo.com
@@ -40493,7 +40273,6 @@ slots.888wetten.de
 925442.com
 9254507.com
 925451.com
-925471.biz
 925475.com
 925482.com
 925495.com
@@ -40599,10 +40378,8 @@ slots.888wetten.de
 9273t.com
 9273x.com
 9273yabo.com
-92754.org
 9275yabo.com
 92760.vip
-927626.com
 927650.com
 927659.com
 9276apphj.com
@@ -40621,7 +40398,6 @@ slots.888wetten.de
 927fu.com
 9281t.com
 9281x.com
-928227.com
 9283772.com
 9283h.com
 92846.biz
@@ -40787,12 +40563,10 @@ slots.888wetten.de
 9309x.com
 930bet.com
 930wct.com
-931035.org
 9311j.com
 9311w.com
 9311x.com
 9311yabo.com
-931203.com
 9312t.com
 93131.com
 93131d.com
@@ -40802,7 +40576,6 @@ slots.888wetten.de
 9314t.com
 9314x.com
 9315588.com
-931572.com
 9315t.com
 9315x.com
 9316n.com
@@ -40881,9 +40654,7 @@ slots.888wetten.de
 9341yabo.com
 9342yabo.com
 934390.com
-934498.com
 9345x.com
-934659.org
 9347555.com
 9347yabo.com
 9348t.com
@@ -40899,7 +40670,6 @@ slots.888wetten.de
 9352x.com
 9353j.com
 9353t.com
-935494.com
 9354t.com
 9355p.com
 9356yabo.com
@@ -40976,7 +40746,6 @@ slots.888wetten.de
 9387x.com
 9388.site
 93881n.com
-93882.asia
 93885v.com
 9388s.com
 9388w.com
@@ -41042,10 +40811,6 @@ slots.888wetten.de
 9410yabo.com
 94116.org
 9413.org
-941345.com
-941346.com
-941347.com
-941348.com
 9414t.com
 9414x.com
 9415t.com
@@ -41067,14 +40832,11 @@ slots.888wetten.de
 9417yabo.com
 9418t.com
 9420555.com
-94206.net
 942390.com
 9423t.com
 9424yabo.com
-942546.com
 9425cca.com
 9425x.com
-942618.com
 9426yabo.com
 9427555.com
 9427yabo.com
@@ -41082,7 +40844,6 @@ slots.888wetten.de
 9428yabo.com
 9429t.com
 9430yabo.com
-943102.com
 943390.com
 9433p.com
 9433x.com
@@ -41103,7 +40864,6 @@ slots.888wetten.de
 9444vn.com
 9445p.com
 9445t.com
-944627.com
 9447n.com
 9447p.com
 9447x.com
@@ -41113,7 +40873,6 @@ slots.888wetten.de
 9449s.com
 944yb.com
 9451t.com
-94531.vip
 945368.com
 945390.com
 9453t.com
@@ -41150,8 +40909,6 @@ slots.888wetten.de
 9473555.com
 947390.com
 9473t.com
-947454.com
-9474892.com
 9476555.com
 9477t.com
 9477v.com
@@ -41169,13 +40926,10 @@ slots.888wetten.de
 9483713.com
 948390.com
 9483t.com
-948496.com
 9488j.com
 9488t.com
-948997.org
 948yb.com
 9490555.com
-94906.vip
 949138.com
 9491t.com
 949299.com
@@ -41191,7 +40945,6 @@ slots.888wetten.de
 94971.com
 949788.com
 9497t.com
-949829.com
 94989498.com
 9499010.com
 9499060.com
@@ -41211,7 +40964,6 @@ slots.888wetten.de
 9499238.com
 9499263.com
 9499278.com
-9499288.com
 9499293.com
 9499343.com
 9499369.com
@@ -41248,7 +41000,6 @@ slots.888wetten.de
 9499997.com
 9499eee.com
 9499ggg.com
-9499iii.com
 9499j.com
 9499jjj.com
 9499kkk.com
@@ -41299,10 +41050,8 @@ slots.888wetten.de
 951156.org
 9511h.com
 9511n.com
-951203.com
 9512t.com
 9512x.com
-95136.vip
 951364.org
 9513t.com
 9514t.com
@@ -41324,7 +41073,6 @@ slots.888wetten.de
 952366.site
 952367.site
 952369.site
-9524165.com
 952481.com
 952481.net
 952482.net
@@ -41373,7 +41121,6 @@ slots.888wetten.de
 9549t.com
 954jjb.com
 954wct.com
-95523.org
 9552w.com
 9553n.com
 9554.org
@@ -41412,10 +41159,6 @@ slots.888wetten.de
 956jgj.com
 956jgj.net
 956yh5.com
-957023.com
-957026.com
-957076.com
-957086.com
 9571t.com
 9571x.com
 9572t.com
@@ -41511,9 +41254,7 @@ slots.888wetten.de
 9604555.com
 960855.com
 961.ee
-961203.com
 9612t.com
-961354.com
 9613j.com
 9613t.com
 961457.com
@@ -41563,7 +41304,6 @@ slots.888wetten.de
 9639t.com
 963fn.com
 9640555.com
-964123.vip
 9642.app
 9642288.com
 9642app.com
@@ -41573,19 +41313,15 @@ slots.888wetten.de
 9644w.com
 96474.tech
 9647555.com
-964783.com
 964uu.wang
-965287.com
 9652x.com
 9652xpj.com
 9653t.com
 9653x.com
-965480.com
 96553.vip
 96561.vip
 965687.com
 9656t.com
-9657346.com
 9657x.com
 965803.com
 96585.vip
@@ -41762,13 +41498,11 @@ slots.888wetten.de
 9693t.com
 9693v.com
 9693x.com
-969416.com
 9695588.com
 9696456.com
 96965156.com
 96966163.com
 96967833.com
-9696kbet.com
 9696mgm.com
 9696vn.com
 9697x.com
@@ -41780,7 +41514,6 @@ slots.888wetten.de
 96p456.com
 96tycag.com
 96udt.xyz
-96w1.com
 96w10.com
 96w11.com
 96w12.com
@@ -41790,7 +41523,6 @@ slots.888wetten.de
 96w16.com
 96w17.com
 96w18.com
-96w2.com
 96w22.com
 96w23.com
 96w24.com
@@ -41806,7 +41538,6 @@ slots.888wetten.de
 96w37.com
 96w38.com
 96w39.com
-96w4.com
 96w40.com
 96w41.com
 96w42.com
@@ -41827,11 +41558,9 @@ slots.888wetten.de
 970011.com
 9700js.com
 9701999.com
-97027.org
 97028.vip
 9703x.com
 9704555.com
-97068.biz
 970855.com
 970889.com
 9709333.com
@@ -41849,7 +41578,6 @@ slots.888wetten.de
 971656.com
 97167.com
 9716x.com
-97176.vip
 9717t.com
 971858.com
 9719h.com
@@ -41869,7 +41597,6 @@ slots.888wetten.de
 9722v.com
 9722x.com
 9723x.com
-972483.com
 9725588.com
 9725n.com
 9725t.com
@@ -41883,7 +41610,6 @@ slots.888wetten.de
 973.ee
 9732333.com
 9732t.com
-97339.org
 9733x.com
 973545.com
 9736v.com
@@ -41900,8 +41626,6 @@ slots.888wetten.de
 9744v.com
 9746.org
 9746555.com
-974736.com
-97488.net
 975.ee
 97510.com
 975132.com
@@ -41915,7 +41639,6 @@ slots.888wetten.de
 9756631.com
 9756973.com
 9756s.com
-975714.biz
 975734.com
 97575.com
 97575app.com
@@ -41979,7 +41702,6 @@ slots.888wetten.de
 9762yy.com
 9762z.com
 9762zz.com
-97648.vip
 9765588.com
 976601.com
 9766t.com
@@ -42029,7 +41751,6 @@ slots.888wetten.de
 978325.com
 9783v.com
 9783x.com
-97848.org
 978519.com
 97854.vip
 9787s.com
@@ -42142,7 +41863,6 @@ slots.888wetten.de
 980408.com
 980468.com
 98054.biz
-980628.com
 980813.com
 981.ee
 981012.vip
@@ -42264,7 +41984,6 @@ slots.888wetten.de
 98498f.com
 9851s.com
 9851x.com
-985208.com
 9852t.com
 9853x.com
 985502.com
@@ -42287,7 +42006,6 @@ slots.888wetten.de
 985592.com
 985594.com
 98565.vip
-9856k6.net
 9856t.com
 9856x.com
 985832.com
@@ -42297,7 +42015,6 @@ slots.888wetten.de
 985hgvip.com
 985kb.com
 985qp8.com
-986064.com
 986068.com
 9862x.com
 98634.host
@@ -42319,7 +42036,6 @@ slots.888wetten.de
 9873t.com
 9873x.com
 9874t.com
-98755.vip
 98756863111.com
 98756863125.com
 98756863333.com
@@ -42331,7 +42047,6 @@ slots.888wetten.de
 98798n.com
 9879t.com
 9879x.com
-987f45.net
 9880t.com
 9881h.com
 9881p.com
@@ -42341,7 +42056,6 @@ slots.888wetten.de
 98832v.com
 9883cc.com
 9885.site
-98857.vip
 988681.com
 9886999.com
 9888.ee
@@ -42353,7 +42067,6 @@ slots.888wetten.de
 988bet.info
 988jsjs.com
 988mq.com
-988yo.com
 9891x.com
 9893v.com
 9893x.com
@@ -42364,7 +42077,6 @@ slots.888wetten.de
 9897t.com
 9897x.com
 98985156.com
-98986.biz
 98986163.com
 9898687.com
 989898.site
@@ -42393,13 +42105,10 @@ slots.888wetten.de
 98yabo.com
 98yy3.com
 98z6.net
-99005359.com
 99007833.com
 99011999.com
 9901314.com
-9901s.com
 990358.com
-9905359.com
 99058.com
 99065o.com
 99065p.com
@@ -42408,10 +42117,8 @@ slots.888wetten.de
 9907375.com
 9907999.com
 9907b.com
-990848.com
 990856.com
 9908b.com
-9908m.com
 990ole.com
 99103.vip
 99113412.com
@@ -42445,12 +42152,10 @@ slots.888wetten.de
 9911x.com
 99122.vip
 9912f.com
-991386.com
 9913999.com
 9913f.com
 9914p.com
 9914t.com
-9915359.com
 9916f.com
 9917.xyz
 9917375.com
@@ -42479,7 +42184,6 @@ slots.888wetten.de
 9923.site
 9923f.com
 9925.site
-9925359.com
 9926.site
 9926f.com
 9926m.com
@@ -42511,7 +42215,6 @@ slots.888wetten.de
 9934p.com
 99353.vip
 9936999.com
-9936a.com
 9936f.com
 9936x.com
 9937375.com
@@ -42519,7 +42222,6 @@ slots.888wetten.de
 99378.vip
 9937999.com
 99383899.com
-99388.org
 99388v.com
 99398.vip
 9939b.com
@@ -42536,12 +42238,10 @@ slots.888wetten.de
 9944n.com
 9944vip.com
 9944wb.com
-9945359.com
 994606.com
 9946243.com
 9946874.com
 9947375.com
-99475.net
 9947p.com
 9947v.com
 994899.com
@@ -42557,7 +42257,6 @@ slots.888wetten.de
 9954x.com
 99551v.com
 99551x.com
-9955359.com
 99553x.com
 99554066.com
 99556633.com
@@ -42590,19 +42289,15 @@ slots.888wetten.de
 9959v.com
 995ole.com
 9960168.com
-996045.org
 996099.vip
 996152.com
 996172.com
 9961f.com
-9961m.com
 9961x.com
 9962999.com
-9962a.com
 9962f.com
 9963999.com
 9963n.com
-9965359.com
 9965999.com
 9965f.com
 99662v.com
@@ -42619,28 +42314,22 @@ slots.888wetten.de
 9966bet.net
 9967375.com
 9967b.com
-9967k.com
 9968996.net
 9968999.com
-9969a.com
 996hhg.com
 996ole.com
 996z6.com
 9970168.com
 9970999.com
-9970a.com
 9971v.com
 9972.com
 997282.com
-9972a.com
 9972app.com
 9972qq.com
 9973931.com
 9973999.com
 9973f.com
-9973m.com
 9973qq.com
-9975359.com
 9975v.com
 997607.com
 997640.com
@@ -42678,7 +42367,6 @@ slots.888wetten.de
 997942.com
 997959.com
 9979797.com
-9979a.com
 997ole.com
 997z6.com
 9980168.com
@@ -42698,7 +42386,6 @@ slots.888wetten.de
 998348.com
 998364.com
 998387.com
-9983a.com
 9983f.com
 9983n.com
 9983x.com
@@ -42708,7 +42395,6 @@ slots.888wetten.de
 998527.com
 998532.com
 998534.com
-9985359.com
 998536.com
 998537.com
 998539.com
@@ -42824,7 +42510,6 @@ slots.888wetten.de
 99994y.com
 99995.biz
 99995.org
-99995359.com
 99995y.com
 99997.biz
 99997375.com
@@ -43152,7 +42837,6 @@ a4w4ntsz.com
 a5.bet
 a5002.com
 a51bet.bet
-a5359.com
 a55555.net
 a5565a.com
 a5688a.com
@@ -43243,7 +42927,6 @@ aa37888.com
 aa39888.com
 aa4071.com
 aa4242.com
-aa5201313.vip
 aa55111.com
 aa55333.com
 aa5551.com
@@ -43512,7 +43195,6 @@ af8bet.com
 af91hg.com
 afa6268.com
 afaieaavuw.com
-afejt723.com
 ic.aff-handler.com
 aff-online.com
 aff-winlotto4d99.com
@@ -43584,7 +43266,6 @@ agks06.com
 agks09.com
 agks10.com
 agks11.com
-agks111.com
 agks113.com
 agks133.com
 agks136.com
@@ -43824,7 +43505,6 @@ alpscasino.com
 alsjfrcphrinkfjruzbmzpnjgabbfi.com
 alwaysonline1b8e8t.com
 alwaysvegas.eu
-am1109.com
 am1255.com
 am171.com
 am17222.com
@@ -43845,7 +43525,6 @@ am267588.com
 am2755.com
 am2855.com
 am2955.com
-am3001.com
 am3155.com
 am3255.com
 am331.com
@@ -43864,19 +43543,15 @@ am376.com
 am3767.com
 am379.com
 am3855.com
-am3930.com
 am3955.com
 am398.com
-am4647.com
 am5136.com
 am5255.com
 am55.cn
 am5604.com
 am5657.com
 am5855.com
-am5900.com
 am596.com
-am6001.com
 am611.com
 am638.com
 am63zn.com
@@ -43885,7 +43560,6 @@ am669.com
 am679.com
 am6855.com
 am6955.com
-am7001.com
 am75877.com
 am75889.com
 am8.com
@@ -44462,23 +44136,12 @@ chrsz.azzgowf.com
 b-18.app
 b-bets.com
 b0014.com
-b0028.com
 b0057.com
-b0098.com
 b010101.com
-b0178.com
-b0198.com
 b0208.com
-b0228.com
 b0229.com
-b0238.com
 b0255.com
-b0258.com
-b0278.com
-b0298.com
-b0318.com
 b0322.com
-b0328.com
 b0330.com
 b0332.com
 b0334.com
@@ -44487,66 +44150,30 @@ b0337.com
 b0338.com
 b0339.com
 b034034.com
-b0358.com
 b03641.com
-b0368.com
 b0377.com
-b0398.com
 b0399.com
-b0408.com
 b0440.com
 b0442.com
 b0446.com
 b0449.com
-b0498.com
-b0508.com
-b0518.com
-b0528.com
-b0538.com
 b0551.com
 b0559.com
-b0568.com
-b0578.com
-b0598.com
-b0608.com
-b0638.com
 b0663.com
 b0667.com
-b0678.com
-b0748.com
-b0758.com
-b0768.com
 b0770.com
 b0774.com
 b0778.com
 b0779.com
-b0798.com
-b0828.com
-b0838.com
-b0848.com
-b0858.com
-b0878.com
 b0884.com
-b0898.com
-b0908.com
-b0918.com
-b0928.com
-b0938.com
-b0948.com
-b0958.com
-b0978.com
 b0997.com
 b1013.com
 b1019.com
-b1028.com
 b103558.com
 b1042.com
 b1045.com
-b1048.com
 b105.vip
-b1058.com
 b1062.com
-b1068.com
 b1077.com
 b108413.com
 b108519.com
@@ -44555,7 +44182,6 @@ b1088.com
 b1089.com
 b1092.com
 b109311.com
-b1098.com
 b1110.com
 b11120052.com
 b111883.com
@@ -44576,7 +44202,6 @@ b116678.com
 b1174.com
 b118119.com
 b12031.com
-b1208.com
 b121258.com
 b1222.com
 b12222.com
@@ -44587,23 +44212,18 @@ b1247.com
 b1249.com
 b125292.com
 b125312.com
-b1268.com
 b1271.com
 b1275.com
 b127780.com
-b1298.com
 b1312.com
-b1318.com
 b1327.com
 b1328.com
 b1329584.com
 b1335.com
 b1339.com
-b1368.com
 b1371.com
 b1372.com
 b1374.com
-b1378.com
 b138.com
 b1386.com
 b1387.com
@@ -44632,14 +44252,11 @@ b1487.com
 b1496688.com
 b1512.com
 b1521.com
-b1528.com
-b1538.com
 b1544.com
 b154849.com
 b1550.com
 b1554.com
 b1567.com
-b1568.com
 b1569.com
 b1583.com
 b1586.com
@@ -44952,7 +44569,6 @@ b5334.com
 b5338.com
 b5339.com
 b5345.com
-b5359.com
 b5374.com
 b53u.com
 b5418.com
@@ -44970,7 +44586,6 @@ b5518.com
 b5535.com
 b554588.com
 b555.com
-b555.vip
 b556888.com
 b557554.com
 b558w.com
@@ -45475,7 +45090,6 @@ bb83455.com
 bb8ag.com
 bb93599.com
 bb9453.com
-bba5566.com
 bbanking12.com
 bbanking34.com
 bbayy.live
@@ -45670,9 +45284,6 @@ bc5066.com
 bc5067.com
 bc5080.com
 bc55.com
-bc5501.com
-bc5502.com
-bc5503.com
 bc5539.com
 bc55a.com
 bc55b.com
@@ -46682,7 +46293,6 @@ betwayvnball.com
 betwayvncasino.com
 betwayxiazhu.com
 betweapon.org
-betwent.com
 betwin-poker.com
 betwin036.com
 betwin2888net.com
