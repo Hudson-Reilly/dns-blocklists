@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 May 2023 21:34 UTC
-# Version: 2023.0522.2134.05
+# Last modified: 23 May 2023 21:34 UTC
+# Version: 2023.0523.2134.18
 # Syntax: DNSMasq
-# Number of entries: 6762
+# Number of entries: 6756
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -418,7 +418,6 @@ address=/amrbd.com/#
 address=/anbudom.net/#
 address=/andr.net/#
 address=/androeed.ru/#
-address=/androidkino.org/#
 address=/androidrookies.com/#
 address=/ani-tsuzuki.net/#
 address=/anicloud.domains/#
@@ -431,7 +430,6 @@ address=/anilinkz.to/#
 address=/animatedchaos.com/#
 address=/anime.com/#
 address=/anime-bt.com/#
-address=/anime-conan.net/#
 address=/anime-faith.com/#
 address=/tracker.anime-fin.net/#
 address=/anime-hq.org/#
@@ -497,7 +495,6 @@ address=/animerush.tv/#
 address=/animes.so/#
 address=/torrents.animes-bg.com/#
 address=/animesa.ga/#
-address=/animeseat.com/#
 address=/animeshow.tv/#
 address=/animesim.com/#
 address=/animesimple.com/#
@@ -642,7 +639,6 @@ address=/audiotracer.com/#
 address=/audiozonetorrents.com/#
 address=/aurora-raws.com/#
 address=/autobitx.com/#
-address=/autocadbmjes.com/#
 address=/autocadbmsa.com/#
 address=/autocadbnaqk.com/#
 address=/autocadgou.com/#
@@ -671,7 +667,6 @@ address=/b2s-share.com/#
 address=/b98.tv/#
 address=/baberepublic.com/#
 address=/babytorrent.ms/#
-address=/babytorrent.se/#
 address=/babytorrent.vip/#
 address=/baconbits.org/#
 address=/badasstorrents.com/#
@@ -750,7 +745,6 @@ address=/bedro.cloud/#
 address=/beeflix.biz/#
 address=/tracker.beeimg.com/#
 address=/beemp3.cc/#
-address=/beemp3.in/#
 address=/beemp3s.org/#
 address=/beetvapk.net/#
 address=/bellator.com/#

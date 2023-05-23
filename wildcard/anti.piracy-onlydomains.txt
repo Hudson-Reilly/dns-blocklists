@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 May 2023 21:34 UTC
-# Version: 2023.0522.2134.05
+# Last modified: 23 May 2023 21:34 UTC
+# Version: 2023.0523.2134.18
 # Syntax: Domains (without subdomains)
-# Number of entries: 6762
+# Number of entries: 6756
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -418,7 +418,6 @@ amrbd.com
 anbudom.net
 andr.net
 androeed.ru
-androidkino.org
 androidrookies.com
 ani-tsuzuki.net
 anicloud.domains
@@ -431,7 +430,6 @@ anilinkz.to
 animatedchaos.com
 anime.com
 anime-bt.com
-anime-conan.net
 anime-faith.com
 tracker.anime-fin.net
 anime-hq.org
@@ -497,7 +495,6 @@ animerush.tv
 animes.so
 torrents.animes-bg.com
 animesa.ga
-animeseat.com
 animeshow.tv
 animesim.com
 animesimple.com
@@ -642,7 +639,6 @@ audiotracer.com
 audiozonetorrents.com
 aurora-raws.com
 autobitx.com
-autocadbmjes.com
 autocadbmsa.com
 autocadbnaqk.com
 autocadgou.com
@@ -671,7 +667,6 @@ b2s-share.com
 b98.tv
 baberepublic.com
 babytorrent.ms
-babytorrent.se
 babytorrent.vip
 baconbits.org
 badasstorrents.com
@@ -750,7 +745,6 @@ bedro.cloud
 beeflix.biz
 tracker.beeimg.com
 beemp3.cc
-beemp3.in
 beemp3s.org
 beetvapk.net
 bellator.com

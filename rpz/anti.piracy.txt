@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1684791240 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1684877640 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 22 May 2023 21:34 UTC
-; Version: 2023.0522.2134.05
+; Last modified: 23 May 2023 21:34 UTC
+; Version: 2023.0523.2134.18
 ; Syntax: RPZ
-; Number of entries: 13524
+; Number of entries: 13512
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1435,8 +1435,6 @@ animepill.com CNAME .
 *.animepill.com CNAME .
 torrents.animes-bg.com CNAME .
 *.torrents.animes-bg.com CNAME .
-animeseat.com CNAME .
-*.animeseat.com CNAME .
 animesim.com CNAME .
 *.animesim.com CNAME .
 animesimple.com CNAME .
@@ -1565,8 +1563,6 @@ aurora-raws.com CNAME .
 *.aurora-raws.com CNAME .
 autobitx.com CNAME .
 *.autobitx.com CNAME .
-autocadbmjes.com CNAME .
-*.autocadbmjes.com CNAME .
 autocadbmsa.com CNAME .
 *.autocadbmsa.com CNAME .
 autocadbnaqk.com CNAME .
@@ -6181,8 +6177,6 @@ tracker.totheglory.im CNAME .
 *.1kino.in CNAME .
 animestream.in CNAME .
 *.animestream.in CNAME .
-beemp3.in CNAME .
-*.beemp3.in CNAME .
 apk-free-full-download.blogspot.in CNAME .
 *.apk-free-full-download.blogspot.in CNAME .
 cracks007.blogspot.in CNAME .
@@ -7839,8 +7833,6 @@ andr.net CNAME .
 *.andr.net CNAME .
 ani-tsuzuki.net CNAME .
 *.ani-tsuzuki.net CNAME .
-anime-conan.net CNAME .
-*.anime-conan.net CNAME .
 tracker.anime-fin.net CNAME .
 *.tracker.anime-fin.net CNAME .
 anime-legion.net CNAME .
@@ -9511,8 +9503,6 @@ alluc.org CNAME .
 *.alluc.org CNAME .
 ambits.org CNAME .
 *.ambits.org CNAME .
-androidkino.org CNAME .
-*.androidkino.org CNAME .
 anime-hq.org CNAME .
 *.anime-hq.org CNAME .
 anime-kraze.org CNAME .
@@ -11683,8 +11673,6 @@ animebam.se CNAME .
 *.animebam.se CNAME .
 avxhm.se CNAME .
 *.avxhm.se CNAME .
-babytorrent.se CNAME .
-*.babytorrent.se CNAME .
 thepiratebays.com.se CNAME .
 *.thepiratebays.com.se CNAME .
 filmehd.se CNAME .
