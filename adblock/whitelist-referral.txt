@@ -295,3 +295,4 @@
 @@||redirect.appmetrica.yandex.*^
 @@||click.zoom.us^
 @@||ndirect.ppro.de^
+@@||click.allkeyshop.com^

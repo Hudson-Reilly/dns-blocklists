@@ -33,6 +33,7 @@ track.cj.akadns.net
 bs.eyeblaster.akadns.net
 goto.algolia.com
 s.click.aliexpress.com
+click.allkeyshop.com
 aax-*-retail-direct.amazon.com
 aax-eu.amazon.ae
 aax-eu.amazon.com

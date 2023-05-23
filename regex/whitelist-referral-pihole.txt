@@ -67,6 +67,7 @@
 (\.|^)clck\.ru$
 (\.|^)clck\.yandex\.ru$
 (\.|^)cl\.exct\.net$
+(\.|^)click\.allkeyshop\.com$
 (\.|^)click\.appcast\.io$
 (\.|^)click\.chp\.kohls\.com$
 (\.|^)click\.cptrack\.de$

@@ -3822,3 +3822,17 @@
 ! KatWarn
 @@||kwrn.eu^
 
+! https://github.com/hagezi/dns-blocklists/issues/1070
+@@|engage.vzw.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1073
+@@|widget.haberler.com^
+@@|widget.yenimedya.com.tr^
+
+! https://github.com/hagezi/dns-blocklists/issues/1072
+@@|c.seznam.cz^
+
+! https://github.com/hagezi/dns-blocklists/issues/1074
+@@|max.com^
+@@|www.max.com^
+
