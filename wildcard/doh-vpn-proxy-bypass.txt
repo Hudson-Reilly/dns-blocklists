@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 14 May 2023 22:05 UTC
-# Version: 2023.0514.2205.03
+# Last modified: 23 May 2023 21:30 UTC
+# Version: 2023.0523.2130.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2137
+# Number of entries: 2135
 #
 *.0000a-fast-proxy.de
 *.ns.00dani.me
@@ -180,7 +180,6 @@
 *.secure.avastdns.com
 *.adguard.avdkishore.dev
 *.avira-vpn.com
-*.avoidance.info
 *.awabo.com
 *.awebproxy.com
 *.awhoer.net
@@ -213,7 +212,6 @@
 *.beepassvpn.com
 *.beevpn.com
 *.adguard.beliefanx.cn
-*.bellproxy.com
 *.dns.belnet.be
 *.dns.benpro.fr
 *.bestfreevpn.com

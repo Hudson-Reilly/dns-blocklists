@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 14 May 2023 22:05 UTC
-# Version: 2023.0514.2205.03
+# Last modified: 23 May 2023 21:30 UTC
+# Version: 2023.0523.2130.29
 # Syntax: DNSMasq
-# Number of entries: 2137
+# Number of entries: 2135
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -180,7 +180,6 @@ address=/vpn.avg.tools.avast.com/#
 address=/secure.avastdns.com/#
 address=/adguard.avdkishore.dev/#
 address=/avira-vpn.com/#
-address=/avoidance.info/#
 address=/awabo.com/#
 address=/awebproxy.com/#
 address=/awhoer.net/#
@@ -213,7 +212,6 @@ address=/bebasid.com/#
 address=/beepassvpn.com/#
 address=/beevpn.com/#
 address=/adguard.beliefanx.cn/#
-address=/bellproxy.com/#
 address=/dns.belnet.be/#
 address=/dns.benpro.fr/#
 address=/bestfreevpn.com/#
