@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 20 May 2023 21:35 UTC
-! Version: 2023.0520.2135.25
+! Last modified: 23 May 2023 21:37 UTC
+! Version: 2023.0523.2137.39
 ! Syntax: AdGuard
 !
 ||agency^$denyallow=battlefield.agency|baam.agency|robotzebra.agency|uphotel.agency|ws.agency
@@ -62,6 +62,6 @@
 ||*.uno^
 ||wiki^$denyallow=namu.wiki
 ||*.work^
-||*.wtf^
-||zip^$denyallow=url.zip
+||wtf^$denyallow=plooshiesaresocute.wtf
+||zip^$denyallow=community.zip|url.zip
 ||zone^$denyallow=amity.zone|autonomous.zone|blahaj.zone|bookwyrm.tilde.zone|borborema.zone|buttplug.zone|carbonnotes.zone|chillpeep.zone|disinfo.zone|dogg.zone|elk.zone|europlus.zone|fioverse.zone|firebird.zone|freeradical.zone|freja.zone|frikiverse.zone|froth.zone|gimon.zone|grafo.zone|greenhill.zone|hda.zone|hotgarbage.zone|hyperboreal.zone|itsm.zone|kidtopia.zone|kinogo.zone|kvlt.zone|lizard.zone|martech.zone|mellow.zone|moth.zone|myhobby.zone|myhome.zone|nelson.zone|nic.zone|nobert.zone|nogafam.zone|ounce.zone|pixelfed.zone|pnw.zone|sakuradancer.zone|saoirse.zone|speedrun.zone|stctp.zone|stoat.zone|strode.zone|subnivean.zone|subversive.zone|taur.zone|tda.zone|teapot.zone|the-cool.zone|thechimp.zone|thecum.zone|thekitty.zone|themystrd.zone|thetake.zone|thewired.zone|tilde.zone|tls.zone|typinggames.zone|ursal.zone|vixen.zone|vulpini.zone|xcloud.zone|xoxo.zone|y2k.zone|zig.zone
