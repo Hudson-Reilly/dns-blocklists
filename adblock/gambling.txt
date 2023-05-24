@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 23 May 2023 21:36 UTC
-! Version: 2023.0523.2136.14
+! Last modified: 24 May 2023 21:41 UTC
+! Version: 2023.0524.2141.49
 ! Syntax: AdBlock
-! Number of entries: 84862
+! Number of entries: 84857
 !
 ||000000tyc.com^
 ||00001111hlcp1111.com^
@@ -46548,7 +46548,6 @@
 ||bii124.com^
 ||bii125.com^
 ||biidnib.com^
-||bijsuo1.com^
 ||biliria.xyz^
 ||bilyoner.com^
 ||bingo.com^
@@ -46773,7 +46772,6 @@
 ||biwei88eurocup.com^
 ||biwei88guanwang.com^
 ||biwei88tiyu.com^
-||biwei89.com^
 ||biwei8989.com^
 ||biwei9.com^
 ||biwei90.com^
@@ -46843,7 +46841,6 @@
 ||bj1258.vip^
 ||bj2l.net^
 ||bj8.bet^
-||bj8234.com^
 ||bje247.com^
 ||bjhyjg.com^
 ||bjj01.com^
@@ -46868,9 +46865,7 @@
 ||bjlapp.com^
 ||bjlyx8.vip^
 ||bjlyyxzcw.com^
-||bjs5.com^
 ||bjs60.com^
-||bjs788.com^
 ||bjs95.com^
 ||bjwlcz.com^
 ||bjwuq.com^
@@ -48520,7 +48515,6 @@
 ||buzbee88.com^
 ||buzz68.com^
 ||buzz724.com^
-||buzzeninteractive.com^
 ||buzzluck.com^
 ||bv3om.xyz^
 ||bv84.com^
@@ -49383,7 +49377,6 @@
 ||c14ab.mom^
 ||c156a.com^
 ||c159c.com^
-||c16888888.vip^
 ||c1887.com^
 ||c188xj.com^
 ||c19789.com^
@@ -49409,7 +49402,6 @@
 ||c4kob.mom^
 ||c5008.com^
 ||c51bet.bet^
-||c5359.com^
 ||c54123.com^
 ||c54373.com^
 ||c54455.com^
@@ -49672,7 +49664,6 @@
 ||casinoastral.me^
 ||casinoaustralia.com^
 ||casinoaustralia-zh.org^
-||casinoauto-77.com^
 ||casinoavalanche.com^
 ||casinobeauty.com^
 ||casinobelgium.be^
@@ -49880,7 +49871,6 @@
 ||cbetway.com^
 ||cbmsport.com^
 ||cbvqddw.xyz^
-||cbwygt7gfd7uzcgh794rb.xyz^
 ||cc0621.com^
 ||cc11h.com^
 ||cc19789.com^
@@ -50109,7 +50099,6 @@
 ||chen8012.com^
 ||chen8019.com^
 ||chen8020.com^
-||chendebao.com^
 ||chengdsadd134.com^
 ||chengduredcross.org^
 ||chengxin117888.com^
@@ -50138,7 +50127,6 @@
 ||chinasoi.com^
 ||chinesebookie.eu^
 ||chisholmbet.com^
-||chj790930.vip^
 ||choang.fun^
 ||chobet.com^
 ||chobet1.com^
@@ -50161,6 +50149,7 @@
 ||choingay66.com^
 ||choingay88.com^
 ||choingayone88.win^
+||choisport.com^
 ||choisv88.live^
 ||choita88.club^
 ||choithethao.tips^
@@ -50690,7 +50679,6 @@
 ||crmbet.com^
 ||crmrvdwnqx.com^
 ||crocastuce.fr^
-||crocokids.net^
 ||croppf.com^
 ||crowin24.com^
 ||crown588.com^
@@ -51190,7 +51178,6 @@
 ||dalulai.com^
 ||damd888.com^
 ||damobaihe.com^
-||dan.com^
 ||danaoxin.com^
 ||dangcapdf.com^
 ||dangky188.com^
@@ -53461,6 +53448,7 @@
 ||fabet.cc^
 ||fabet.com^
 ||fabet.info^
+||fabet.live^
 ||fabet.me^
 ||fabet.tv^
 ||fabet.us^
@@ -55807,6 +55795,7 @@
 ||gameiw.net^
 ||gameiw68.com^
 ||gameiw88.com^
+||gameiwin.asia^
 ||gameiwin.club^
 ||gameiwin.info^
 ||gameiwin.vip^
@@ -59901,6 +59890,7 @@
 ||i9bet59.com^
 ||i9bet6.com^
 ||i9bet62.com^
+||i9bet64.com^
 ||i9bet66.com^
 ||i9bet666.com^
 ||i9bet6688.com^
@@ -64971,6 +64961,7 @@
 ||kingdoithuong.net^
 ||kingdom66.co^
 ||kingdomcasino.com^
+||kingfun2.com^
 ||kingfun247.net^
 ||kingfun99.com^
 ||kingjohnnievip.com^
@@ -65882,6 +65873,7 @@
 ||ku0988.com^
 ||ku10688.com^
 ||ku11.icu^
+||ku11.io^
 ||ku11.link^
 ||ku11.me^
 ||ku11.net^
@@ -66247,6 +66239,7 @@
 ||lczhixin.com^
 ||ld53.vip^
 ||ld56.fun^
+||ld99.club^
 ||ldbook229.com^
 ||ldbuzacf.com^
 ||ldchata288.com^
@@ -77306,6 +77299,7 @@
 ||vf003.xyz^
 ||vf068.com^
 ||vf234.com^
+||vf456.com^
 ||vfun88.com^
 ||vfun88.page^
 ||vfuun.com^
@@ -78655,6 +78649,7 @@
 ||w88goal.com^
 ||w88gocup.com^
 ||w88gofirst.com^
+||w88gp.com^
 ||w88hey.com^
 ||w88hi.net^
 ||w88hn.com^
