@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 22 May 2023 21:31 UTC
-# Version: 2023.0522.2131.24
+# Last modified: 24 May 2023 21:37 UTC
+# Version: 2023.0524.2137.54
 # Syntax: DNSMasq
-# Number of entries: 1557
+# Number of entries: 1556
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -164,7 +164,6 @@ address=/brajkovic.com/#
 address=/brasilia.me/#
 address=/brawlcustommusic.com/#
 address=/briansagar.com/#
-address=/brjlaw.net/#
 address=/broke-it.net/#
 address=/brweb.org/#
 address=/bsn2bsn.com/#

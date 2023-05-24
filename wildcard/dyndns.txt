@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 22 May 2023 21:31 UTC
-# Version: 2023.0522.2131.24
+# Last modified: 24 May 2023 21:37 UTC
+# Version: 2023.0524.2137.54
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 1557
+# Number of entries: 1556
 #
 *.0000000000000000000000.com
 *.0rg.us
@@ -164,7 +164,6 @@
 *.brasilia.me
 *.brawlcustommusic.com
 *.briansagar.com
-*.brjlaw.net
 *.broke-it.net
 *.brweb.org
 *.bsn2bsn.com
