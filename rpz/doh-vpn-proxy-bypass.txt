@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1684877400 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1684964100 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 23 May 2023 21:30 UTC
-; Version: 2023.0523.2130.29
+; Last modified: 24 May 2023 21:35 UTC
+; Version: 2023.0524.2135.35
 ; Syntax: RPZ
-; Number of entries: 4270
+; Number of entries: 4264
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2449,14 +2449,10 @@ bestvpnprovider.info CNAME .
 *.bestvpnprovider.info CNAME .
 bestyoutubeproxy.info CNAME .
 *.bestyoutubeproxy.info CNAME .
-biip.info CNAME .
-*.biip.info CNAME .
 brazilproxy.info CNAME .
 *.brazilproxy.info CNAME .
 broadr.info CNAME .
 *.broadr.info CNAME .
-canadaproxy.info CNAME .
-*.canadaproxy.info CNAME .
 caproxies.info CNAME .
 *.caproxies.info CNAME .
 cblocker.info CNAME .
@@ -2743,8 +2739,6 @@ block.abstergo.it CNAME .
 *.block.abstergo.it CNAME .
 doh.ccb-net.it CNAME .
 *.doh.ccb-net.it CNAME .
-circumvent.it CNAME .
-*.circumvent.it CNAME .
 doh.luigi.nexific.it CNAME .
 *.doh.luigi.nexific.it CNAME .
 tor2web.it CNAME .

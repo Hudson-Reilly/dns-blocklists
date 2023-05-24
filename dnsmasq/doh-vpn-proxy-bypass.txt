@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 23 May 2023 21:30 UTC
-# Version: 2023.0523.2130.29
+# Last modified: 24 May 2023 21:35 UTC
+# Version: 2023.0524.2135.35
 # Syntax: DNSMasq
-# Number of entries: 2135
+# Number of entries: 2132
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -225,7 +225,6 @@ address=/bestvpnssh.com/#
 address=/bestyoutubeproxy.info/#
 address=/betternet.co/#
 address=/bi-tree.ru/#
-address=/biip.info/#
 address=/ns3.bit-trail.nl/#
 address=/dns.bitdefender.net/#
 address=/adguard.bitteeinbyte.de/#
@@ -293,7 +292,6 @@ address=/bypasstunnel.com/#
 address=/bytzvpn.com/#
 address=/c-dns.com/#
 address=/cactusvpn.com/#
-address=/canadaproxy.info/#
 address=/cantblockthis.org/#
 address=/cantfindme.org/#
 address=/caproxies.info/#
@@ -325,7 +323,6 @@ address=/c.cicitt.ch/#
 address=/ciproxy.de/#
 address=/canadianshield.cira.ca/#
 address=/dns.circl.lu/#
-address=/circumvent.it/#
 address=/ciscossh.com/#
 address=/citizenvpn.com/#
 address=/dns.clanless.ovh/#

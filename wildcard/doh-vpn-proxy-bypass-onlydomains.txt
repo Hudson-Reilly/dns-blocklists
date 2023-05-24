@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 23 May 2023 21:30 UTC
-# Version: 2023.0523.2130.29
+# Last modified: 24 May 2023 21:35 UTC
+# Version: 2023.0524.2135.35
 # Syntax: Domains (without subdomains)
-# Number of entries: 2135
+# Number of entries: 2132
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -225,7 +225,6 @@ bestvpnssh.com
 bestyoutubeproxy.info
 betternet.co
 bi-tree.ru
-biip.info
 ns3.bit-trail.nl
 dns.bitdefender.net
 adguard.bitteeinbyte.de
@@ -293,7 +292,6 @@ bypasstunnel.com
 bytzvpn.com
 c-dns.com
 cactusvpn.com
-canadaproxy.info
 cantblockthis.org
 cantfindme.org
 caproxies.info
@@ -325,7 +323,6 @@ c.cicitt.ch
 ciproxy.de
 canadianshield.cira.ca
 dns.circl.lu
-circumvent.it
 ciscossh.com
 citizenvpn.com
 dns.clanless.ovh
