@@ -4,12 +4,35 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 22 May 2023 21:40 UTC
-# Version: 2023.0522.2140.27
+# Last modified: 24 May 2023 21:46 UTC
+# Version: 2023.0524.2146.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 254
+# Number of entries: 365
 #
 *.cdnlog-va-useast2a.byteoversea.com
+*.docs-frontier-sg.byteoversea.com
+*.frontier.byteoversea.com
+*.frontier-prek-room.byteoversea.com
+*.frontier-prek-room-sg.byteoversea.com
+*.frontier-ra-va.byteoversea.com
+*.frontier-sg-edu.byteoversea.com
+*.frontier-sg-edu-edgeac.byteoversea.com
+*.frontier-sgcomm.byteoversea.com
+*.frontier-sgee.byteoversea.com
+*.frontier-va.byteoversea.com
+*.frontier-va-edu.byteoversea.com
+*.frontier-va-edu-edgeac.byteoversea.com
+*.frontier-va-edu-hl.byteoversea.com
+*.frontier-va-edu-hl-useast2a.byteoversea.com
+*.frontier-va-edu-lf.byteoversea.com
+*.frontier-va-edu-lf-useast2a.byteoversea.com
+*.frontier-va-edu-useast1a.byteoversea.com
+*.frontier-va-edu-useast2a.byteoversea.com
+*.frontier-va-useast2a.byteoversea.com
+*.gecko-pangle-sg.byteoversea.com
+*.gecko-sg.byteoversea.com
+*.gecko-va.byteoversea.com
+*.gecko-va-useast2a.byteoversea.com
 *.gplog-sg.byteoversea.com
 *.gplog-va.byteoversea.com
 *.gplog-va-useast2a.byteoversea.com
@@ -17,6 +40,8 @@
 *.gpm-mon-va.byteoversea.com
 *.gpm-mon-va-useast1a.byteoversea.com
 *.gpm-mon-va-useast2a.byteoversea.com
+*.lark-frontier.byteoversea.com
+*.lark-frontier-sg.byteoversea.com
 *.log.byteoversea.com
 *.log15.byteoversea.com
 *.log16.byteoversea.com
@@ -48,6 +73,14 @@
 *.analytics.snssdk.com
 *.applog.snssdk.com
 *.extlog.snssdk.com
+*.frontier.snssdk.com
+*.frontier-aweme.snssdk.com
+*.frontier-aweme-hl.snssdk.com
+*.frontier-toutiao.snssdk.com
+*.gecko.snssdk.com
+*.gecko-pangle-hl.snssdk.com
+*.gecko-pangle-lf.snssdk.com
+*.gecko-pangle-lq.snssdk.com
 *.log.snssdk.com
 *.log-hl.snssdk.com
 *.log-lf.snssdk.com
@@ -58,9 +91,13 @@
 *.mssdk-bu.snssdk.com
 *.os-mon.snssdk.com
 *.pc-mon.snssdk.com
+*.toutiao-frontier.snssdk.com
+*.varticle-frontier.snssdk.com
+*.varticle-frontier-hl.snssdk.com
 *.xlog.snssdk.com
 *.ads.tiktok.com
 *.ads-api.tiktok.com
+*.ads-frontier.tiktok.com
 *.ads-sg.tiktok.com
 *.analytics.tiktok.com
 *.analytics-attribution.tiktok.com
@@ -71,6 +108,7 @@
 *.analytics-sg.tiktok.com
 *.analytics-test.tiktok.com
 *.analytics-useast2a.tiktok.com
+*.business-api.tiktok.com
 *.logistics.tiktok.com
 *.mcs-i18n.tiktok.com
 *.mcs-sg.tiktok.com
@@ -79,6 +117,65 @@
 *.analytics-exp.us.tiktok.com
 *.mcs.us.tiktok.com
 *.mssdk.us.tiktok.com
+*.lf-main-gecko-source.tiktokcdn.com
+*.lf16-gecko-source.tiktokcdn.com
+*.lf16-geckocdn-sg.tiktokcdn.com
+*.lf16-pitayacdn.tiktokcdn.com
+*.lf19-gecko-source.tiktokcdn.com
+*.lf19-geckocdn-sg.tiktokcdn.com
+*.lf19-pitayacdn.tiktokcdn.com
+*.lf21-gecko-source.tiktokcdn.com
+*.lf77-gecko-source.tiktokcdn.com
+*.lf9-geckocdn.tiktokcdn.com
+*.sf16-geckocdn.tiktokcdn.com
+*.sf16m-geckocdn.tiktokcdn.com
+*.sf19-geckocdn.tiktokcdn.com
+*.frontier.tiktokv.com
+*.frontier-i18n.tiktokv.com
+*.frontier-phx.tiktokv.com
+*.frontier-ru.tiktokv.com
+*.frontier-va.tiktokv.com
+*.frontier15-normal.tiktokv.com
+*.frontier15-normal-alisg.tiktokv.com
+*.frontier15-normal-useast1a.tiktokv.com
+*.frontier15-normal-useast2a.tiktokv.com
+*.frontier16-alisg.tiktokv.com
+*.frontier16-normal.tiktokv.com
+*.frontier16-normal-alisg.tiktokv.com
+*.frontier16-normal-useast1a.tiktokv.com
+*.frontier16-normal-useast2a.tiktokv.com
+*.frontier16-useast1a.tiktokv.com
+*.frontier22-normal.tiktokv.com
+*.frontier22-normal-alisg.tiktokv.com
+*.frontier22-normal-useast1a.tiktokv.com
+*.frontier22-normal-useast2a.tiktokv.com
+*.gecko-phx.tiktokv.com
+*.gecko-ru.tiktokv.com
+*.gecko-sg.tiktokv.com
+*.gecko-va.tiktokv.com
+*.gecko15-normal.tiktokv.com
+*.gecko15-normal-alisg.tiktokv.com
+*.gecko15-normal-useast1a.tiktokv.com
+*.gecko15-normal-useast2a.tiktokv.com
+*.gecko16-normal.tiktokv.com
+*.gecko16-normal-alisg.tiktokv.com
+*.gecko16-normal-c-useast1a.tiktokv.com
+*.gecko16-normal-c-useast2a.tiktokv.com
+*.gecko16-normal-useast1a.tiktokv.com
+*.gecko16-normal-useast2a.tiktokv.com
+*.gecko16-platform-ycru.tiktokv.com
+*.gecko16-tmp-normal-useast1a.tiktokv.com
+*.gecko19-normal-alisg.tiktokv.com
+*.gecko19-normal-useast1a.tiktokv.com
+*.gecko19-normal-useast2a.tiktokv.com
+*.gecko22-normal.tiktokv.com
+*.gecko22-normal-alisg.tiktokv.com
+*.gecko22-normal-useast1a.tiktokv.com
+*.gecko22-normal-useast2a.tiktokv.com
+*.gecko31-normal.tiktokv.com
+*.gecko31-normal-alisg.tiktokv.com
+*.gecko31-normal-useast1a.tiktokv.com
+*.gecko31-normal-useast2a.tiktokv.com
 *.log.tiktokv.com
 *.log-i18n.tiktokv.com
 *.log-phx.tiktokv.com
@@ -193,6 +290,14 @@
 *.mssdk22-normal-alisg.tiktokv.com
 *.mssdk22-normal-useast1a.tiktokv.com
 *.mssdk22-normal-useast2a.tiktokv.com
+*.pitaya.tiktokv.com
+*.pitaya-i18n.tiktokv.com
+*.pitaya-sg.tiktokv.com
+*.pitaya-task.tiktokv.com
+*.pitaya-task-i18n.tiktokv.com
+*.pitaya-task-sg.tiktokv.com
+*.pitaya-task-va.tiktokv.com
+*.pitaya-va.tiktokv.com
 *.rtc-logger-i18n.tiktokv.com
 *.rtc-logger-va.tiktokv.com
 *.rtlog.tiktokv.com
@@ -237,6 +342,9 @@
 *.rtlog58-normal-useast1a.tiktokv.com
 *.rtlog58-normal-useast2a.tiktokv.com
 *.tns-sec-log-useast2a.tiktokv.com
+*.frontier.us.tiktokv.com
+*.gecko16-normal-useast8.us.tiktokv.com
+*.gecko16-platform-useast5.us.tiktokv.com
 *.log.us.tiktokv.com
 *.log16-applog-useast5.us.tiktokv.com
 *.log19-applog-useast5.us.tiktokv.com
@@ -247,6 +355,9 @@
 *.mssdk.us.tiktokv.com
 *.mssdk16-normal-useast8.us.tiktokv.com
 *.mssdk16-platform-useast5.us.tiktokv.com
+*.oec-im-frontier.us.tiktokv.com
+*.pitaya.us.tiktokv.com
+*.pitaya-task.us.tiktokv.com
 *.rtc-logger.us.tiktokv.com
 *.rtlog.us.tiktokv.com
 *.rtlog16-applog-useast5.us.tiktokv.com
