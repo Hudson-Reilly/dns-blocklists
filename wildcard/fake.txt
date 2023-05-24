@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 23 May 2023 21:41 UTC
-# Version: 2023.0523.2141.29
+# Last modified: 24 May 2023 21:47 UTC
+# Version: 2023.0524.2147.36
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12285
+# Number of entries: 12280
 #
 *.100-solarni-lampa-cz.com
 *.11trikots.com
@@ -1086,6 +1086,7 @@
 *.bestfemaless.com
 *.bestholz360.com
 *.bestlive.cz
+*.bestmoonshop.com
 *.bestofferintheworld.com
 *.bestparktool.com
 *.bestpromocenter.com
@@ -1297,7 +1298,6 @@
 *.blckrap.com
 *.bleadersci.com
 *.bleubirdfr.com
-*.blghip.ru
 *.blickpunkt24.at
 *.bling-beeswax.com
 *.blinggoodies.com
@@ -1310,11 +1310,9 @@
 *.blomusoutlet.com
 *.bloomessentialsbrand.com
 *.bloomsocks.ca
-*.m.blrkenarizona.com
 *.blucontue.com
 *.blue-immo.com
 *.bluebellalingerie.com
-*.bluecaft.top
 *.bluecrate.de
 *.bluefanc.com
 *.blueflix.de
@@ -1419,7 +1417,6 @@
 *.botyinov-8.cz
 *.botykeen-cz.net
 *.botykeenvyprodej.cz
-*.botyolang.cz
 *.botypikolinoseshop.cz
 *.bouboo.shop
 *.bourkesale.shop
@@ -1608,7 +1605,6 @@
 *.buzzfeedprivacyclaims.com
 *.buzzhence.com
 *.buzzsportz.shop
-*.bvewa.shop
 *.bvp-frobel.de
 *.by-emmamuller.de
 *.byberlin.de
@@ -1975,7 +1971,6 @@
 *.ckonlinesale.store
 *.ckpromotions.store
 *.cktckt.com
-*.m.clabra.com
 *.claimcoderz.live
 *.clairedresses.space
 *.clara-holz.com
@@ -1998,7 +1993,6 @@
 *.cleancarpet.store
 *.cleankarcher.com
 *.cleanvisionnd.com
-*.cleanvisr.com
 *.clearance-bike.com
 *.clearance2021.ru
 *.clearancedrink.com
@@ -2165,7 +2159,6 @@
 *.azuki.com.vn
 *.bamboocraft.com.au
 *.bamboocrafts.com.au
-*.www.bamboofinds.com.au
 *.brookssverige.com.se
 *.c20.com.br
 *.defcon7.com.br
@@ -2186,7 +2179,6 @@
 *.rsaonlinenow.com.au
 *.singsale.com.sg
 *.sowood.com.au
-*.www.thegiftyhouse.com.au
 *.virtualgraffiti.com.au
 *.yuanj.com.cn
 *.comba.at
@@ -2206,7 +2198,6 @@
 *.commodityautomotive.com
 *.commoditygear.com
 *.commodityusmiss.com
-*.communityoffersdaily.com
 *.commuterurbanbike.com
 *.comohot.com
 *.compaaria.com
@@ -2633,6 +2624,7 @@
 *.deinlieblingstier.com
 *.deinspurwechsel.de
 *.deinvest.site
+*.dejonk.de
 *.dekkerstrans.com
 *.dekopause.at
 *.dekuin.com
@@ -3519,6 +3511,7 @@
 *.everlead.net
 *.evermily.com
 *.everyknives.com
+*.everythingkitchens.com
 *.everythingsaltspring.com
 *.eviralstore.com
 *.evitadeutschland.de
@@ -3629,7 +3622,6 @@
 *.familystore.com
 *.familyteacupschihuahuas.com
 *.m.famoury.com
-*.store.famoury.com
 *.famulaturcheck.at
 *.fanaticgarment.com
 *.fanatictool.com
@@ -5473,7 +5465,7 @@
 *.jerseysalesstore.com
 *.jerseyviponline.net
 *.jersport.com
-*.jervae.shop
+*.m.jervae.shop
 *.jessiegreer.shop
 *.jetelern.com
 *.jeuliagold.com
@@ -7180,7 +7172,8 @@
 *.myhealthyblog.com
 *.myhomica.com
 *.myhousesproduct.com
-*.g1z0.myinstructus.com
+*.store.g1z0.myinstructus.com
+*.www.g1z0.myinstructus.com
 *.kxu.myinstructus.com
 *.myisraelsource.com
 *.mykedr.buzz
@@ -9337,7 +9330,7 @@
 *.sauconyshoe.com
 *.savas-reifenhandel.com
 *.scabrality.top
-*.scaleupconsultingau.com
+*.m.scaleupconsultingau.com
 *.scarpaoutlet.com
 *.scarpaschuheoutlet.at
 *.scarpaschuhesale.at
@@ -9795,6 +9788,7 @@
 *.skuttem.com
 *.skyairdrone.com
 *.skyeline.net
+*.skymedia.media
 *.skymorogoods.com
 *.skyoivest.shop
 *.skyquaddrone.com
@@ -9965,6 +9959,7 @@
 *.sozonest.com
 *.spacekeeper.com
 *.spacexmusk.io
+*.spagetlink.com
 *.spainhealthtravel.net
 *.spaire.us
 *.spar-markt.de
@@ -10509,6 +10504,7 @@
 *.teearrow.com
 *.teebi-boutique.com
 *.teecampie.com
+*.teechip.online
 *.teechipshop.com
 *.teefoody.com
 *.teeguys.com
@@ -10569,7 +10565,7 @@
 *.tes-ic.cloud
 *.tesauree.com
 *.tesento.com
-*.tesla-openai.com
+*.store.tesla-openai.com
 *.teslabestfor.com
 *.teslabounce.com
 *.teslabrc.com
@@ -11075,7 +11071,6 @@
 *.triviatrade.com
 *.trockenesholz.com
 *.trodat-cz.cz
-*.tromselementbygg.no
 *.tronicversand.net
 *.trophal.de
 *.tropicaltrends.co
@@ -11263,7 +11258,7 @@
 *.uniquepie.com
 *.uniqueshirt.shop
 *.uniteddeliveryagency.com
-*.unitedexpress.org
+*.m.unitedexpress.org
 *.unitedglobal-logistics.com
 *.unitedmailexpress.com
 *.unitedseniors.de
@@ -11724,7 +11719,7 @@
 *.waresnewfad.com
 *.waresusmiss.com
 *.warmclo.com
-*.warmcreativemall.com
+*.m.warmcreativemall.com
 *.warmhalten.com
 *.warminsun.com
 *.warriordecor.com
@@ -11920,7 +11915,7 @@
 *.wiselux.co
 *.wisereading.store
 *.wiserot.com
-*.wishbone-evaluation.com
+*.m.wishbone-evaluation.com
 *.wittenberger-hof.de
 *.reiseweltat6.wixsite.com
 *.wizgoo.com
@@ -11986,7 +11981,7 @@
 *.workclothesique.de
 *.workfootrest.com
 *.worklife-balance.net
-*.works-steelkiwi.com
+*.m.works-steelkiwi.com
 *.workshop-equip.com
 *.world-of-earnings.com
 *.worldandbitcoin.com
