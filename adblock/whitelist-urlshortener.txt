@@ -104,6 +104,7 @@
 @@||a.co^
 @@||a0.fr^
 @@||a360.co^
+@@||aarp.info^
 @@||ab.co^
 @@||abbr.sk^
 @@||abc.li^
@@ -164,6 +165,7 @@
 @@||amzn.com^
 @@||amzn.to^
 @@||ana.ms^
+@@||anch.co^
 @@||anon.to^
 @@||any.gs^
 @@||anyimage.io^
@@ -569,6 +571,7 @@
 @@||gg.gg^
 @@||gh.io^
 @@||ghkp.us^
+@@||gi.lt^
 @@||gigaz.in^
 @@||git.io^
 @@||github.co^
@@ -597,6 +600,7 @@
 @@||goolink.cc^
 @@||goolnk.com^
 @@||gooo.to^
+@@||gosm.link^
 @@||got.cr^
 @@||got.to^
 @@||gov.tw^
@@ -821,6 +825,7 @@
 @@||lmg.gg^
 @@||lmt.co^
 @@||lmy.de^
+@@||lnk.bz^
 @@||lnk.co^
 @@||lnk.direct^
 @@||lnk.do^
@@ -1270,6 +1275,7 @@
 @@||snip.ly^
 @@||snsw.us^
 @@||snyk.co^
+@@||so.arte^
 @@||soc.cr^
 @@||soch.us^
 @@||sokrati.ru^
@@ -1279,6 +1285,7 @@
 @@||sourl.cn^
 @@||spcne.ws^
 @@||spgrp.sg^
+@@||spigen.co^
 @@||split.to^
 @@||splk.it^
 @@||spn.sr^
@@ -1414,6 +1421,7 @@
 @@||tonyr.co^
 @@||topt.al^
 @@||toyota.us^
+@@||tpc.io^
 @@||tpmr.com^
 @@||tprk.us^
 @@||tr.im^
@@ -1536,6 +1544,7 @@
 @@||vgn.me^
 @@||vi.sa^
 @@||viaalto.me^
+@@||viaja.am^
 @@||viraln.co^
 @@||vivo.tl^
 @@||vk.cc^
@@ -1580,6 +1589,7 @@
 @@||way.to^
 @@||wb.md^
 @@||wb1.eu^
+@@||wbby.co^
 @@||wbur.fm^
 @@||wbze.de^
 @@||wcha.it^
@@ -1664,6 +1674,7 @@
 @@||xvirt.it^
 @@||xxl.frl^
 @@||xy2.eu^
+@@||xyvid.tv^
 @@||y2u.be^
 @@||yadi.sk^
 @@||yagoa.fr^
@@ -1690,6 +1701,7 @@
 @@||yugatech.ph^
 @@||yuk.nu^
 @@||yun.ir^
+@@||yupptv.la^
 @@||yyv.co^
 @@||z23.ru^
 @@||z9.fr^

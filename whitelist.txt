@@ -2591,7 +2591,10 @@ api.loganalytics.io
 assets-secure.applicaster.com
 
 # TikTok
-mcs-va.tiktok*.com
+# mcs-va.tiktok*.com
+*mcs*.tiktok*.com
+*mcs*.byteoversea.com
+*mcs*.snssdk.com
 *frontier*.tiktok*.com
 *frontier*.byteoversea.com
 *frontier*.snssdk.com
@@ -2604,6 +2607,11 @@ mcs-va.tiktok*.com
 *business*.tiktok*.com
 *business*.byteoversea.com
 *business*.snssdk.com
+*mssdk*.tiktok*.com
+*mssdk*.byteoversea.com
+*mssdk*.snssdk.com
+sf*-*.ibytedtos.com
+sf*-*.tiktok*.com
 
 # Live Chat on https://www.coextro.com/
 tawk.to
