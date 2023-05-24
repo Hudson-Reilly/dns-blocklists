@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1684877640 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1684964340 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 23 May 2023 21:34 UTC
-; Version: 2023.0523.2134.18
+; Last modified: 24 May 2023 21:39 UTC
+; Version: 2023.0524.2139.56
 ; Syntax: RPZ
-; Number of entries: 13512
+; Number of entries: 13502
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -1957,8 +1957,6 @@ cgpeers.com CNAME .
 *.cgpeers.com CNAME .
 cheat-gam3.com CNAME .
 *.cheat-gam3.com CNAME .
-cherrytorrents.com CNAME .
-*.cherrytorrents.com CNAME .
 chihiro-subs.com CNAME .
 *.chihiro-subs.com CNAME .
 chilebt.com CNAME .
@@ -1987,8 +1985,6 @@ cinemaapk.com CNAME .
 *.cinemaapk.com CNAME .
 cinemanija.com CNAME .
 *.cinemanija.com CNAME .
-cinestreamz.com CNAME .
-*.cinestreamz.com CNAME .
 cinewhale.com CNAME .
 *.cinewhale.com CNAME .
 city9x.com CNAME .
@@ -2047,8 +2043,6 @@ cosmoneo.com CNAME .
 *.cosmoneo.com CNAME .
 bt.cosxcos.com CNAME .
 *.bt.cosxcos.com CNAME .
-cpleft.com CNAME .
-*.cpleft.com CNAME .
 crack4file.com CNAME .
 *.crack4file.com CNAME .
 crack4patch.com CNAME .
@@ -2085,8 +2079,6 @@ crackmymac.com CNAME .
 *.crackmymac.com CNAME .
 cracknest.com CNAME .
 *.cracknest.com CNAME .
-crackpcsoftware.com CNAME .
-*.crackpcsoftware.com CNAME .
 cracks4download.com CNAME .
 *.cracks4download.com CNAME .
 cracks4software.com CNAME .
@@ -3451,6 +3443,8 @@ mmosite.com CNAME .
 *.mmosite.com CNAME .
 modapkdown.com CNAME .
 *.modapkdown.com CNAME .
+modyolo.com CNAME .
+*.modyolo.com CNAME .
 mojblink.com CNAME .
 *.mojblink.com CNAME .
 mojobb.com CNAME .
@@ -6633,8 +6627,6 @@ torrent.ir CNAME .
 *.1377x.is CNAME .
 1movies.is CNAME .
 *.1movies.is CNAME .
-bmovies.is CNAME .
-*.bmovies.is CNAME .
 cinecalidad.is CNAME .
 *.cinecalidad.is CNAME .
 icc.crictime.is CNAME .
@@ -6843,8 +6835,6 @@ yggtorrent.li CNAME .
 *.123movies4u.life CNAME .
 1movies.life CNAME .
 *.1movies.life CNAME .
-bypassed.life CNAME .
-*.bypassed.life CNAME .
 filmstreaming-de.life CNAME .
 *.filmstreaming-de.life CNAME .
 flixtor.life CNAME .
@@ -8091,6 +8081,8 @@ datascene.net CNAME .
 *.datascene.net CNAME .
 ddlseries.net CNAME .
 *.ddlseries.net CNAME .
+houniao.ddns.net CNAME .
+*.houniao.ddns.net CNAME .
 tracker.ddunlimited.net CNAME .
 *.tracker.ddunlimited.net CNAME .
 deepseek.net CNAME .
@@ -12607,8 +12599,6 @@ batstream.tv CNAME .
 *.batstream.tv CNAME .
 biggapan.tv CNAME .
 *.biggapan.tv CNAME .
-bitt.tv CNAME .
-*.bitt.tv CNAME .
 buffstreams.tv CNAME .
 *.buffstreams.tv CNAME .
 tracker.bwtorrents.tv CNAME .

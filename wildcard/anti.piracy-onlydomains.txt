@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 23 May 2023 21:34 UTC
-# Version: 2023.0523.2134.18
+# Last modified: 24 May 2023 21:39 UTC
+# Version: 2023.0524.2139.56
 # Syntax: Domains (without subdomains)
-# Number of entries: 6756
+# Number of entries: 6751
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -848,7 +848,6 @@ bitsoup.org
 bitsources.com
 bitsparadise.info
 bitspyder.net
-bitt.tv
 tracker.bittor.pw
 tracker.bittor.xyz
 bittorent.biz
@@ -945,7 +944,6 @@ blues-brothers.biz
 bluewarez.pl
 blutopia.xyz
 bmitbd.com
-bmovies.is
 bmovies.nl
 bms-hosxp.com
 bmtorrents.net
@@ -1086,7 +1084,6 @@ buycheapadobesoftware.com
 bwtorrents.com
 tracker.bwtorrents.tv
 byfiles.com
-bypassed.life
 bypassed.zone
 byte.to
 bytecollectors.com
@@ -1148,7 +1145,6 @@ chdtv.net
 cheat-gam3.com
 cheggit.net
 cheops.fm
-cherrytorrents.com
 t1.chfs.ch
 chia-anime.me
 chihaya.de
@@ -1192,7 +1188,6 @@ cinematik.net
 tracker.cinemaz.to
 cinemitas.tv
 cinenews.info
-cinestreamz.com
 cinevood.work
 cinewhale.com
 circleftp.net
@@ -1372,7 +1367,6 @@ cpasbien.sh
 cpasbien.to
 cpasbien3.pro
 cpasbienss.fr
-cpleft.com
 cpturbo.org
 crack.ms
 crack.ru
@@ -1401,7 +1395,6 @@ crackmymac.com
 cracknest.com
 cracknet.net
 cracknets.net
-crackpcsoftware.com
 cracks4download.com
 cracks4software.com
 crackserialkeygen.com
@@ -1570,6 +1563,7 @@ ddlspot.com
 ddlvalley.me
 ddnbd.com
 ddnbd.fun
+houniao.ddns.net
 ddownload.com
 tracker.ddunlimited.net
 deadfrog.us
@@ -3463,6 +3457,7 @@ mobivid.net
 mobtvseries.net
 modapkdown.com
 modok.ru
+modyolo.com
 moe4sale.in
 tracker.moeblog.cn
 tracker.moecat.best
