@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 May 2023 21:41 UTC
-# Version: 2023.0524.2141.49
+# Last modified: 25 May 2023 21:05 UTC
+# Version: 2023.0525.2105.43
 # Syntax: DNSMasq
-# Number of entries: 84857
+# Number of entries: 84823
 #
 address=/000000tyc.com/#
 address=/00001111hlcp1111.com/#
@@ -50950,7 +50950,6 @@ address=/d8878.com/#
 address=/d888396.com/#
 address=/d88880.com/#
 address=/d8888d.com/#
-address=/d888f.com/#
 address=/d889.app/#
 address=/d889.com/#
 address=/d8897.com/#
@@ -51406,7 +51405,6 @@ address=/ddd5604.com/#
 address=/ddd6731.com/#
 address=/ddd6732.com/#
 address=/ddd7337.com/#
-address=/ddd8899.com/#
 address=/ddd9416.com/#
 address=/dddd5454.com/#
 address=/ddduzz.xyz/#
@@ -51562,7 +51560,6 @@ address=/dexiframe.top/#
 address=/deztuyn.xyz/#
 address=/df-access.com/#
 address=/df-app.com/#
-address=/df-ballworld.com/#
 address=/df-bet.com/#
 address=/df-bet.net/#
 address=/df-bet.org/#
@@ -51693,7 +51690,6 @@ address=/dga9988.com/#
 address=/dgfgdg.xyz/#
 address=/dgqcaijing.com/#
 address=/dgrer8.com/#
-address=/dgtuh753.com/#
 address=/dgudgd7788l998.com/#
 address=/dh.bet/#
 address=/dh0622rk1.com/#
@@ -52247,7 +52243,6 @@ address=/dz875.com/#
 address=/dz8777.com/#
 address=/dz881.com/#
 address=/dz8900.com/#
-address=/dzblue999.vip/#
 address=/dzkzgg365.com/#
 address=/dzoescfsdl.com/#
 address=/dzxqicb1j6.com/#
@@ -52279,7 +52274,6 @@ address=/e41667.com/#
 address=/e51.bet/#
 address=/e51234.com/#
 address=/e51bet.bet/#
-address=/e5359.com/#
 address=/e6372.com/#
 address=/e6439.com/#
 address=/e66602.com/#
@@ -52729,32 +52723,6 @@ address=/eclbet02.com/#
 address=/eclbet10.com/#
 address=/eclbet7.com/#
 address=/eclbetnow.com/#
-address=/ecofu01.com/#
-address=/ecofz01.com/#
-address=/ecogb01.com/#
-address=/ecogc01.com/#
-address=/ecogd01.com/#
-address=/ecoge01.com/#
-address=/ecogf01.com/#
-address=/ecogg01.com/#
-address=/ecogi01.com/#
-address=/ecogj01.com/#
-address=/ecogk01.com/#
-address=/ecogl01.com/#
-address=/ecogn01.com/#
-address=/ecogo01.com/#
-address=/ecogp01.com/#
-address=/ecogq01.com/#
-address=/ecogr01.com/#
-address=/ecogt01.com/#
-address=/ecogw01.com/#
-address=/ecogx01.com/#
-address=/ecohf01.com/#
-address=/ecohg01.com/#
-address=/ecohh01.com/#
-address=/ecohl01.com/#
-address=/ecohm01.com/#
-address=/ecoho01.com/#
 address=/ecoxix.xyz/#
 address=/ecoyuer.xyz/#
 address=/ectftop.top/#
@@ -53219,7 +53187,6 @@ address=/f464646.com/#
 address=/f4upr.com/#
 address=/f51bet.bet/#
 address=/f52040.com/#
-address=/f5359.com/#
 address=/f555.vip/#
 address=/f558n.com/#
 address=/f571f.com/#
@@ -54053,7 +54020,6 @@ address=/fibww65x4e.com/#
 address=/fiestacasino.com/#
 address=/fifa0.com/#
 address=/fifa3979.com/#
-address=/fifa500.com/#
 address=/fifa66.com/#
 address=/fifak8.com/#
 address=/fifaonline2.com/#

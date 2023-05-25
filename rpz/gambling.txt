@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1684964460 86400 3600 604800 30
+@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1685048700 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 24 May 2023 21:41 UTC
-; Version: 2023.0524.2141.49
+; Last modified: 25 May 2023 21:05 UTC
+; Version: 2023.0525.2105.43
 ; Syntax: RPZ
-; Number of entries: 169714
+; Number of entries: 169646
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -89887,8 +89887,6 @@ d88880.com CNAME .
 *.d88880.com CNAME .
 d8888d.com CNAME .
 *.d8888d.com CNAME .
-d888f.com CNAME .
-*.d888f.com CNAME .
 d889.com CNAME .
 *.d889.com CNAME .
 d8897.com CNAME .
@@ -90617,8 +90615,6 @@ ddd6732.com CNAME .
 *.ddd6732.com CNAME .
 ddd7337.com CNAME .
 *.ddd7337.com CNAME .
-ddd8899.com CNAME .
-*.ddd8899.com CNAME .
 ddd9416.com CNAME .
 *.ddd9416.com CNAME .
 dddd5454.com CNAME .
@@ -90885,8 +90881,6 @@ df-access.com CNAME .
 *.df-access.com CNAME .
 df-app.com CNAME .
 *.df-app.com CNAME .
-df-ballworld.com CNAME .
-*.df-ballworld.com CNAME .
 df-bet.com CNAME .
 *.df-bet.com CNAME .
 df-client.com CNAME .
@@ -91079,8 +91073,6 @@ dgqcaijing.com CNAME .
 *.dgqcaijing.com CNAME .
 dgrer8.com CNAME .
 *.dgrer8.com CNAME .
-dgtuh753.com CNAME .
-*.dgtuh753.com CNAME .
 dgudgd7788l998.com CNAME .
 *.dgudgd7788l998.com CNAME .
 dh0622rk1.com CNAME .
@@ -92013,8 +92005,6 @@ e41667.com CNAME .
 *.e41667.com CNAME .
 e51234.com CNAME .
 *.e51234.com CNAME .
-e5359.com CNAME .
-*.e5359.com CNAME .
 e6372.com CNAME .
 *.e6372.com CNAME .
 e6439.com CNAME .
@@ -92879,58 +92869,6 @@ eclbet7.com CNAME .
 *.eclbet7.com CNAME .
 eclbetnow.com CNAME .
 *.eclbetnow.com CNAME .
-ecofu01.com CNAME .
-*.ecofu01.com CNAME .
-ecofz01.com CNAME .
-*.ecofz01.com CNAME .
-ecogb01.com CNAME .
-*.ecogb01.com CNAME .
-ecogc01.com CNAME .
-*.ecogc01.com CNAME .
-ecogd01.com CNAME .
-*.ecogd01.com CNAME .
-ecoge01.com CNAME .
-*.ecoge01.com CNAME .
-ecogf01.com CNAME .
-*.ecogf01.com CNAME .
-ecogg01.com CNAME .
-*.ecogg01.com CNAME .
-ecogi01.com CNAME .
-*.ecogi01.com CNAME .
-ecogj01.com CNAME .
-*.ecogj01.com CNAME .
-ecogk01.com CNAME .
-*.ecogk01.com CNAME .
-ecogl01.com CNAME .
-*.ecogl01.com CNAME .
-ecogn01.com CNAME .
-*.ecogn01.com CNAME .
-ecogo01.com CNAME .
-*.ecogo01.com CNAME .
-ecogp01.com CNAME .
-*.ecogp01.com CNAME .
-ecogq01.com CNAME .
-*.ecogq01.com CNAME .
-ecogr01.com CNAME .
-*.ecogr01.com CNAME .
-ecogt01.com CNAME .
-*.ecogt01.com CNAME .
-ecogw01.com CNAME .
-*.ecogw01.com CNAME .
-ecogx01.com CNAME .
-*.ecogx01.com CNAME .
-ecohf01.com CNAME .
-*.ecohf01.com CNAME .
-ecohg01.com CNAME .
-*.ecohg01.com CNAME .
-ecohh01.com CNAME .
-*.ecohh01.com CNAME .
-ecohl01.com CNAME .
-*.ecohl01.com CNAME .
-ecohm01.com CNAME .
-*.ecohm01.com CNAME .
-ecoho01.com CNAME .
-*.ecoho01.com CNAME .
 eczdjdudgi.com CNAME .
 *.eczdjdudgi.com CNAME .
 ed3688.com CNAME .
@@ -93621,8 +93559,6 @@ f4upr.com CNAME .
 *.f4upr.com CNAME .
 f52040.com CNAME .
 *.f52040.com CNAME .
-f5359.com CNAME .
-*.f5359.com CNAME .
 f558n.com CNAME .
 *.f558n.com CNAME .
 f571f.com CNAME .
@@ -95049,8 +94985,6 @@ fifa0.com CNAME .
 *.fifa0.com CNAME .
 fifa3979.com CNAME .
 *.fifa3979.com CNAME .
-fifa500.com CNAME .
-*.fifa500.com CNAME .
 fifa66.com CNAME .
 *.fifa66.com CNAME .
 fifak8.com CNAME .
@@ -163567,8 +163501,6 @@ dvd137986.vip CNAME .
 *.dvd137986.vip CNAME .
 dwf168168.vip CNAME .
 *.dwf168168.vip CNAME .
-dzblue999.vip CNAME .
-*.dzblue999.vip CNAME .
 edan0.vip CNAME .
 *.edan0.vip CNAME .
 edan1.vip CNAME .

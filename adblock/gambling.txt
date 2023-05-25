@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 24 May 2023 21:41 UTC
-! Version: 2023.0524.2141.49
+! Last modified: 25 May 2023 21:05 UTC
+! Version: 2023.0525.2105.43
 ! Syntax: AdBlock
-! Number of entries: 84857
+! Number of entries: 84823
 !
 ||000000tyc.com^
 ||00001111hlcp1111.com^
@@ -50950,7 +50950,6 @@
 ||d888396.com^
 ||d88880.com^
 ||d8888d.com^
-||d888f.com^
 ||d889.app^
 ||d889.com^
 ||d8897.com^
@@ -51406,7 +51405,6 @@
 ||ddd6731.com^
 ||ddd6732.com^
 ||ddd7337.com^
-||ddd8899.com^
 ||ddd9416.com^
 ||dddd5454.com^
 ||ddduzz.xyz^
@@ -51562,7 +51560,6 @@
 ||deztuyn.xyz^
 ||df-access.com^
 ||df-app.com^
-||df-ballworld.com^
 ||df-bet.com^
 ||df-bet.net^
 ||df-bet.org^
@@ -51693,7 +51690,6 @@
 ||dgfgdg.xyz^
 ||dgqcaijing.com^
 ||dgrer8.com^
-||dgtuh753.com^
 ||dgudgd7788l998.com^
 ||dh.bet^
 ||dh0622rk1.com^
@@ -52247,7 +52243,6 @@
 ||dz8777.com^
 ||dz881.com^
 ||dz8900.com^
-||dzblue999.vip^
 ||dzkzgg365.com^
 ||dzoescfsdl.com^
 ||dzxqicb1j6.com^
@@ -52279,7 +52274,6 @@
 ||e51.bet^
 ||e51234.com^
 ||e51bet.bet^
-||e5359.com^
 ||e6372.com^
 ||e6439.com^
 ||e66602.com^
@@ -52729,32 +52723,6 @@
 ||eclbet10.com^
 ||eclbet7.com^
 ||eclbetnow.com^
-||ecofu01.com^
-||ecofz01.com^
-||ecogb01.com^
-||ecogc01.com^
-||ecogd01.com^
-||ecoge01.com^
-||ecogf01.com^
-||ecogg01.com^
-||ecogi01.com^
-||ecogj01.com^
-||ecogk01.com^
-||ecogl01.com^
-||ecogn01.com^
-||ecogo01.com^
-||ecogp01.com^
-||ecogq01.com^
-||ecogr01.com^
-||ecogt01.com^
-||ecogw01.com^
-||ecogx01.com^
-||ecohf01.com^
-||ecohg01.com^
-||ecohh01.com^
-||ecohl01.com^
-||ecohm01.com^
-||ecoho01.com^
 ||ecoxix.xyz^
 ||ecoyuer.xyz^
 ||ectftop.top^
@@ -53219,7 +53187,6 @@
 ||f4upr.com^
 ||f51bet.bet^
 ||f52040.com^
-||f5359.com^
 ||f555.vip^
 ||f558n.com^
 ||f571f.com^
@@ -54053,7 +54020,6 @@
 ||fiestacasino.com^
 ||fifa0.com^
 ||fifa3979.com^
-||fifa500.com^
 ||fifa66.com^
 ||fifak8.com^
 ||fifaonline2.com^
