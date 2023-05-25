@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 May 2023 21:47 UTC
-# Version: 2023.0524.2147.36
+# Last modified: 25 May 2023 21:11 UTC
+# Version: 2023.0525.2111.07
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12280
+# Number of entries: 12267
 #
 *.100-solarni-lampa-cz.com
 *.11trikots.com
@@ -295,7 +295,6 @@
 *.alben-mode.com
 *.albers-reifenversand.com
 *.albertaqualitybeef.com
-*.albi-almont.cz
 *.aldoeshop.cz
 *.aldofashion.com
 *.aldoies.com
@@ -713,6 +712,7 @@
 *.augennstern.com
 *.augenoptik-tomaschek.de
 *.auger-bois.com
+*.augusthenri.be
 *.auiteng.com
 *.aupair-mama.de
 *.aurainfusions.com
@@ -2176,7 +2176,8 @@
 *.nutripur.com.de
 *.optimusconstructora.com.pe
 *.ozkart.com.au
-*.rsaonlinenow.com.au
+*.store.rsaonlinenow.com.au
+*.www.rsaonlinenow.com.au
 *.singsale.com.sg
 *.sowood.com.au
 *.virtualgraffiti.com.au
@@ -2370,7 +2371,7 @@
 *.crueltyspongy.cn
 *.qcqwwih.cryomet.com
 *.crypsome.click
-*.cryptcoinwallet.com
+*.app.cryptcoinwallet.com
 *.cryptmaketrade.com
 *.crypto-mineinvests.com
 *.crypto030.online
@@ -2421,7 +2422,6 @@
 *.customstall.com
 *.customsurveys.guru
 *.cuteearring.shop
-*.cuteelva.com
 *.cutefate.com
 *.cutekittenshomeusa.com
 *.cutleryspyderco.com
@@ -2493,7 +2493,6 @@
 *.damenperuecke.com
 *.danaaman.xyz
 *.danadarurat.net
-*.danainstan.xyz
 *.danapintar.club
 *.danapro.net
 *.danarakyatol.com
@@ -2545,12 +2544,10 @@
 *.daveintheshop.com
 *.davekoflersbichons.com
 *.davesaunderscfo.com
-*.davidkimboyle.net
 *.davidsmovingco.com
 *.daviesshoes.xyz
 *.dawnbaby.shop
 *.daylighty.com
-*.m.dayuse-agent.online
 *.dazsistmeins.at
 *.dbehringer.de
 *.dbhmnp.shop
@@ -2852,7 +2849,6 @@
 *.docsvaporsupply.com
 *.doctordays.com
 *.doctorlights.com
-*.doctormartens.cz
 *.documentsconsultancy.nl
 *.dodecess.com
 *.dodomojo.com
@@ -2992,15 +2988,12 @@
 *.druckfuerdich.de
 *.drunstyle.com
 *.druzycrystal.com
-*.m.drwyatts.com
-*.yqayq.drwyatts.com
 *.drywalltools.shop
 *.dsi-boden.at
 *.dsil24.com
 *.dsingtse.com
 *.dslladen.com
 *.dspqrm.com
-*.dsuleipzig.de
 *.dsvss.com
 *.dt-courier.net
 *.dtchohw.store
@@ -3440,7 +3433,6 @@
 *.etajedi.com
 *.etefera.com
 *.etereme.com
-*.etherost.shop
 *.ethikaosterreich.com
 *.etniesosterreich.at
 *.etnieswien.com
@@ -3581,6 +3573,8 @@
 *.facepets.es
 *.fachmakler-berlin.de
 *.factoryds.com
+*.onlinestores.factorysale2023.com
+*.si.factorysale2023.com
 *.facyline.de
 *.faehigkeiten.at
 *.fahlenberg-kran.at
@@ -3621,7 +3615,6 @@
 *.familyshark.com
 *.familystore.com
 *.familyteacupschihuahuas.com
-*.m.famoury.com
 *.famulaturcheck.at
 *.fanaticgarment.com
 *.fanatictool.com
@@ -3722,7 +3715,6 @@
 *.favornote.com
 *.fcirlich.de
 *.fdeway.com
-*.fdpbuerstadt.de
 *.fdrc-gov.org
 *.featuredshoesale.store
 *.febecool.com
@@ -3838,7 +3830,6 @@
 *.firstaids.shop
 *.firstchocee.com
 *.firstclassbike.space
-*.firstmomentsonline.com
 *.firstorange.net
 *.fischermix.de
 *.fischerrabatt.de
@@ -3899,7 +3890,6 @@
 *.flincheriy.com
 *.fliperzero.shop
 *.flipflix.de
-*.flipitreality.cz
 *.flipperzero.at
 *.flistore.com
 *.flixer.de
@@ -4235,7 +4225,6 @@
 *.gearathena.com
 *.gearclover.com
 *.gearhomies.com
-*.gearhuman.com
 *.gearmarch.com
 *.gearmountaineering.com
 *.gearsg.com
@@ -4649,6 +4638,7 @@
 *.haarpracht-clip.de
 *.haarprofis.com
 *.haberfasher.com
+*.haceroberomaste.com
 *.hachipethouse.com
 *.hacocid.xyz
 *.haeramon.de
@@ -5336,7 +5326,6 @@
 *.intgblockchain.online
 *.inthefuture.shop
 *.intosunning.com
-*.intrendwear.com
 *.intuitivlab.com
 *.inushoes.com
 *.invest-club-de.com
@@ -6947,7 +6936,6 @@
 *.mobiflix.de
 *.mobile-wellnessoase.de
 *.mocilopft.com
-*.modalsaya.xyz
 *.modaonar.com
 *.modchips24.com
 *.mode-1.eu
@@ -7041,7 +7029,6 @@
 *.moratihome.com
 *.morenius.de
 *.morgante.at
-*.morlyes.com
 *.morreysale.space
 *.mosano.de
 *.moser-elektroanlagen.de
@@ -7172,8 +7159,7 @@
 *.myhealthyblog.com
 *.myhomica.com
 *.myhousesproduct.com
-*.store.g1z0.myinstructus.com
-*.www.g1z0.myinstructus.com
+*.g1z0.myinstructus.com
 *.kxu.myinstructus.com
 *.myisraelsource.com
 *.mykedr.buzz
@@ -7480,7 +7466,6 @@
 *.nicdiamond.de
 *.niceina.com
 *.nicelani.com
-*.nicelegant.com
 *.nicenktop.com
 *.nicetechpro.com
 *.nicevipo.com
@@ -11005,6 +10990,7 @@
 *.trade-comp.com
 *.trade-gpt.ai
 *.trade-skins.net
+*.traderminds.com
 *.tradesailorshop.com
 *.tradewomenshoe.com
 *.trading-activity.com
@@ -11071,6 +11057,7 @@
 *.triviatrade.com
 *.trockenesholz.com
 *.trodat-cz.cz
+*.tromselementbygg.no
 *.tronicversand.net
 *.trophal.de
 *.tropicaltrends.co
