@@ -4,20 +4,30 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 May 2023 08:22 UTC
-# Version: 2023.0525.0822.42
+# Last modified: 25 May 2023 12:40 UTC
+# Version: 2023.0525.1240.08
 # Syntax: DNSMasq
-# Number of entries: 156
+# Number of entries: 177
 #
-address=/cdnlog-va-useast2a.byteoversea.com/#
-address=/gplog-sg.byteoversea.com/#
-address=/gplog-va.byteoversea.com/#
-address=/gplog-va-useast2a.byteoversea.com/#
+address=/gpm-mon-sg.byteoversea.com/#
+address=/gpm-mon-va.byteoversea.com/#
+address=/gpm-mon-va-useast1a.byteoversea.com/#
+address=/gpm-mon-va-useast2a.byteoversea.com/#
 address=/log.byteoversea.com/#
 address=/log15.byteoversea.com/#
 address=/log16.byteoversea.com/#
+address=/mon.byteoversea.com/#
+address=/mon-csj-maliva-ios.byteoversea.com/#
+address=/mon-va.byteoversea.com/#
+address=/mon-va-useast2a.byteoversea.com/#
+address=/mssdk-sg.byteoversea.com/#
+address=/mssdk-sg-bu.byteoversea.com/#
+address=/mssdk-va.byteoversea.com/#
+address=/mssdk-va-useast2a.byteoversea.com/#
+address=/pc-mon-va.byteoversea.com/#
 address=/rtlog.byteoversea.com/#
 address=/sgee-log.byteoversea.com/#
+address=/web-mon-useast2a.byteoversea.com/#
 address=/xlog.byteoversea.com/#
 address=/xlog-o.byteoversea.com/#
 address=/xlog-va.byteoversea.com/#
@@ -29,9 +39,15 @@ address=/log.snssdk.com/#
 address=/log-hl.snssdk.com/#
 address=/log-lf.snssdk.com/#
 address=/log-lq.snssdk.com/#
+address=/mon.snssdk.com/#
+address=/mssdk.snssdk.com/#
+address=/mssdk-bu.snssdk.com/#
+address=/os-mon.snssdk.com/#
+address=/pc-mon.snssdk.com/#
 address=/xlog.snssdk.com/#
 address=/ads.tiktok.com/#
 address=/ads-api.tiktok.com/#
+address=/ads-frontier.tiktok.com/#
 address=/ads-sg.tiktok.com/#
 address=/analytics.tiktok.com/#
 address=/analytics-attribution.tiktok.com/#
@@ -42,9 +58,11 @@ address=/analytics-i18n.tiktok.com/#
 address=/analytics-sg.tiktok.com/#
 address=/analytics-test.tiktok.com/#
 address=/analytics-useast2a.tiktok.com/#
+address=/business-api.tiktok.com/#
 address=/logistics.tiktok.com/#
 address=/analytics.us.tiktok.com/#
 address=/analytics-exp.us.tiktok.com/#
+address=/mssdk.us.tiktok.com/#
 address=/log.tiktokv.com/#
 address=/log-i18n.tiktokv.com/#
 address=/log-phx.tiktokv.com/#
@@ -102,6 +120,8 @@ address=/log77-normal-c-useast1a.tiktokv.com/#
 address=/log9-normal-c-alisg.tiktokv.com/#
 address=/log9-normal-c-useast1a.tiktokv.com/#
 address=/logbk.tiktokv.com/#
+address=/mon.tiktokv.com/#
+address=/monbk.tiktokv.com/#
 address=/rtc-logger-i18n.tiktokv.com/#
 address=/rtc-logger-va.tiktokv.com/#
 address=/rtlog.tiktokv.com/#
@@ -145,10 +165,11 @@ address=/rtlog58-normal.tiktokv.com/#
 address=/rtlog58-normal-alisg.tiktokv.com/#
 address=/rtlog58-normal-useast1a.tiktokv.com/#
 address=/rtlog58-normal-useast2a.tiktokv.com/#
-address=/tns-sec-log-useast2a.tiktokv.com/#
 address=/log.us.tiktokv.com/#
 address=/log16-applog-useast5.us.tiktokv.com/#
 address=/log19-applog-useast5.us.tiktokv.com/#
+address=/mon.us.tiktokv.com/#
+address=/mssdk.us.tiktokv.com/#
 address=/rtc-logger.us.tiktokv.com/#
 address=/rtlog.us.tiktokv.com/#
 address=/rtlog16-applog-useast5.us.tiktokv.com/#

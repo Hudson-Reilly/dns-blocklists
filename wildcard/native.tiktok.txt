@@ -4,20 +4,30 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 May 2023 08:22 UTC
-# Version: 2023.0525.0822.42
+# Last modified: 25 May 2023 12:40 UTC
+# Version: 2023.0525.1240.08
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 156
+# Number of entries: 177
 #
-*.cdnlog-va-useast2a.byteoversea.com
-*.gplog-sg.byteoversea.com
-*.gplog-va.byteoversea.com
-*.gplog-va-useast2a.byteoversea.com
+*.gpm-mon-sg.byteoversea.com
+*.gpm-mon-va.byteoversea.com
+*.gpm-mon-va-useast1a.byteoversea.com
+*.gpm-mon-va-useast2a.byteoversea.com
 *.log.byteoversea.com
 *.log15.byteoversea.com
 *.log16.byteoversea.com
+*.mon.byteoversea.com
+*.mon-csj-maliva-ios.byteoversea.com
+*.mon-va.byteoversea.com
+*.mon-va-useast2a.byteoversea.com
+*.mssdk-sg.byteoversea.com
+*.mssdk-sg-bu.byteoversea.com
+*.mssdk-va.byteoversea.com
+*.mssdk-va-useast2a.byteoversea.com
+*.pc-mon-va.byteoversea.com
 *.rtlog.byteoversea.com
 *.sgee-log.byteoversea.com
+*.web-mon-useast2a.byteoversea.com
 *.xlog.byteoversea.com
 *.xlog-o.byteoversea.com
 *.xlog-va.byteoversea.com
@@ -29,9 +39,15 @@
 *.log-hl.snssdk.com
 *.log-lf.snssdk.com
 *.log-lq.snssdk.com
+*.mon.snssdk.com
+*.mssdk.snssdk.com
+*.mssdk-bu.snssdk.com
+*.os-mon.snssdk.com
+*.pc-mon.snssdk.com
 *.xlog.snssdk.com
 *.ads.tiktok.com
 *.ads-api.tiktok.com
+*.ads-frontier.tiktok.com
 *.ads-sg.tiktok.com
 *.analytics.tiktok.com
 *.analytics-attribution.tiktok.com
@@ -42,9 +58,11 @@
 *.analytics-sg.tiktok.com
 *.analytics-test.tiktok.com
 *.analytics-useast2a.tiktok.com
+*.business-api.tiktok.com
 *.logistics.tiktok.com
 *.analytics.us.tiktok.com
 *.analytics-exp.us.tiktok.com
+*.mssdk.us.tiktok.com
 *.log.tiktokv.com
 *.log-i18n.tiktokv.com
 *.log-phx.tiktokv.com
@@ -102,6 +120,8 @@
 *.log9-normal-c-alisg.tiktokv.com
 *.log9-normal-c-useast1a.tiktokv.com
 *.logbk.tiktokv.com
+*.mon.tiktokv.com
+*.monbk.tiktokv.com
 *.rtc-logger-i18n.tiktokv.com
 *.rtc-logger-va.tiktokv.com
 *.rtlog.tiktokv.com
@@ -145,10 +165,11 @@
 *.rtlog58-normal-alisg.tiktokv.com
 *.rtlog58-normal-useast1a.tiktokv.com
 *.rtlog58-normal-useast2a.tiktokv.com
-*.tns-sec-log-useast2a.tiktokv.com
 *.log.us.tiktokv.com
 *.log16-applog-useast5.us.tiktokv.com
 *.log19-applog-useast5.us.tiktokv.com
+*.mon.us.tiktokv.com
+*.mssdk.us.tiktokv.com
 *.rtc-logger.us.tiktokv.com
 *.rtlog.us.tiktokv.com
 *.rtlog16-applog-useast5.us.tiktokv.com

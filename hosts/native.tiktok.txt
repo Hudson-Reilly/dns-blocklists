@@ -4,20 +4,30 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 May 2023 08:22 UTC
-# Version: 2023.0525.0822.42
+# Last modified: 25 May 2023 12:40 UTC
+# Version: 2023.0525.1240.08
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 156
+# Number of entries: 177
 #
-0.0.0.0 cdnlog-va-useast2a.byteoversea.com
-0.0.0.0 gplog-sg.byteoversea.com
-0.0.0.0 gplog-va.byteoversea.com
-0.0.0.0 gplog-va-useast2a.byteoversea.com
+0.0.0.0 gpm-mon-sg.byteoversea.com
+0.0.0.0 gpm-mon-va.byteoversea.com
+0.0.0.0 gpm-mon-va-useast1a.byteoversea.com
+0.0.0.0 gpm-mon-va-useast2a.byteoversea.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log15.byteoversea.com
 0.0.0.0 log16.byteoversea.com
+0.0.0.0 mon.byteoversea.com
+0.0.0.0 mon-csj-maliva-ios.byteoversea.com
+0.0.0.0 mon-va.byteoversea.com
+0.0.0.0 mon-va-useast2a.byteoversea.com
+0.0.0.0 mssdk-sg.byteoversea.com
+0.0.0.0 mssdk-sg-bu.byteoversea.com
+0.0.0.0 mssdk-va.byteoversea.com
+0.0.0.0 mssdk-va-useast2a.byteoversea.com
+0.0.0.0 pc-mon-va.byteoversea.com
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 sgee-log.byteoversea.com
+0.0.0.0 web-mon-useast2a.byteoversea.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog-o.byteoversea.com
 0.0.0.0 xlog-va.byteoversea.com
@@ -29,9 +39,15 @@
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-lf.snssdk.com
 0.0.0.0 log-lq.snssdk.com
+0.0.0.0 mon.snssdk.com
+0.0.0.0 mssdk.snssdk.com
+0.0.0.0 mssdk-bu.snssdk.com
+0.0.0.0 os-mon.snssdk.com
+0.0.0.0 pc-mon.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 ads.tiktok.com
 0.0.0.0 ads-api.tiktok.com
+0.0.0.0 ads-frontier.tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics-attribution.tiktok.com
@@ -42,9 +58,11 @@
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-test.tiktok.com
 0.0.0.0 analytics-useast2a.tiktok.com
+0.0.0.0 business-api.tiktok.com
 0.0.0.0 logistics.tiktok.com
 0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 analytics-exp.us.tiktok.com
+0.0.0.0 mssdk.us.tiktok.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 log-i18n.tiktokv.com
 0.0.0.0 log-phx.tiktokv.com
@@ -102,6 +120,8 @@
 0.0.0.0 log9-normal-c-alisg.tiktokv.com
 0.0.0.0 log9-normal-c-useast1a.tiktokv.com
 0.0.0.0 logbk.tiktokv.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 monbk.tiktokv.com
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtlog.tiktokv.com
@@ -145,10 +165,11 @@
 0.0.0.0 rtlog58-normal-alisg.tiktokv.com
 0.0.0.0 rtlog58-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog58-normal-useast2a.tiktokv.com
-0.0.0.0 tns-sec-log-useast2a.tiktokv.com
 0.0.0.0 log.us.tiktokv.com
 0.0.0.0 log16-applog-useast5.us.tiktokv.com
 0.0.0.0 log19-applog-useast5.us.tiktokv.com
+0.0.0.0 mon.us.tiktokv.com
+0.0.0.0 mssdk.us.tiktokv.com
 0.0.0.0 rtc-logger.us.tiktokv.com
 0.0.0.0 rtlog.us.tiktokv.com
 0.0.0.0 rtlog16-applog-useast5.us.tiktokv.com

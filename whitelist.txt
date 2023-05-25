@@ -80,7 +80,7 @@ d3ag4hukkh62yn.cloudfront.net
 *.pv-cdn.net
 # CNAME cf-trickplay.aux.pv-cdn.net
 d25xi40x97liuc.cloudfront.net
- 
+
 # Apple
 # https://support.apple.com/en-us/HT210060
 *.apps.apple.com
@@ -2591,27 +2591,20 @@ api.loganalytics.io
 assets-secure.applicaster.com
 
 # TikTok
-# mcs-va.tiktok*.com
-*mcs*.tiktok*.com
-*mcs*.byteoversea.com
-*mcs*.snssdk.com
-*frontier*.tiktok*.com
 *frontier*.byteoversea.com
 *frontier*.snssdk.com
-*gecko*.tiktok*.com
+*frontier*.tiktokv.com
 *gecko*.byteoversea.com
 *gecko*.snssdk.com
-*pitaya*.tiktok*.com
+*gecko*.tiktok*.com
+*mcs*.byteoversea.com
+*mcs*.snssdk.com
+*mcs*.tiktok*.com
 *pitaya*.byteoversea.com
 *pitaya*.snssdk.com
-*business*.tiktok*.com
-*business*.byteoversea.com
-*business*.snssdk.com
-*mssdk*.tiktok*.com
-*mssdk*.byteoversea.com
-*mssdk*.snssdk.com
-sf*-*.ibytedtos.com
-sf*-*.tiktok*.com
+*pitaya*.tiktok*.com
+mon*-*.tiktok*.com
+mssdk*-*.tiktok*.com
 
 # Live Chat on https://www.coextro.com/
 tawk.to
@@ -2810,7 +2803,7 @@ gokams.or.kr
 # https://github.com/hagezi/dns-blocklists/issues/647
 *.cdnhwc1.com
 
-# https://github.com/hagezi/dns-blocklists/issues/655 
+# https://github.com/hagezi/dns-blocklists/issues/655
 *-boot.tiktok*.com
 
 # https://github.com/hagezi/dns-blocklists/issues/668
@@ -3201,7 +3194,7 @@ netiq.com
 # https://github.com/hagezi/dns-blocklists/issues/960
 zurl.co
 
-# GTA V online crashes 
+# GTA V online crashes
 prod.telemetry.ros.rockstargames.com
 elb-telemetry-gtav-prod-336243739.us-west-2.elb.amazonaws.com
 
@@ -3520,4 +3513,11 @@ c.seznam.cz
 
 # https://github.com/hagezi/dns-blocklists/issues/1074
 max.com
+
+# Newsletter sign update
+s3.lightboxcdn.com
+
+# Ivanti
+innovators.ivanti.com
+ivantiinnovators.influitive.com
 
