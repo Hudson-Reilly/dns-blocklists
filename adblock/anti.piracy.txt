@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 24 May 2023 21:39 UTC
-! Version: 2023.0524.2139.56
+! Last modified: 25 May 2023 21:03 UTC
+! Version: 2023.0525.2103.38
 ! Syntax: AdBlock
-! Number of entries: 6751
+! Number of entries: 6743
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -1514,7 +1514,6 @@
 ||yts.d4.re^
 ||d4download.com^
 ||daddylive.es^
-||dailydown.net^
 ||damedesuyo.com^
 ||danger.lv^
 ||danimados.com^
@@ -1629,7 +1628,6 @@
 ||mixes.dfx.at^
 ||dhakadownload.com^
 ||dhakaftp.com^
-||dhakaiptv.com^
 ||dhakamovie.com^
 ||dhakasports.com^
 ||dht.dhtclub.com^
@@ -1692,7 +1690,6 @@
 ||tracker.dmcomic.org^
 ||tracker.daydream.dmhy.best^
 ||share.dmhy.org^
-||tracker.dmhy.pw^
 ||u2.dmhy.org^
 ||dnbtracker.org^
 ||dnetbd.com^
@@ -1762,7 +1759,6 @@
 ||dragons-dungeon.com^
 ||drakula.top^
 ||drakula-stream.com^
-||drakulastream.live^
 ||drama-online.pl^
 ||dramacoolfirst.com^
 ||dramago.com^
@@ -1903,7 +1899,6 @@
 ||elitezones.ro^
 ||elsewhere.org^
 ||emaczone.com^
-||emerald-speeds.com^
 ||emiz.biz^
 ||emp3juices.cc^
 ||empire-of-torrents.net^
@@ -2098,7 +2093,6 @@
 ||filefound.com^
 ||filejungle.com^
 ||fileland.pl^
-||fileleechers.info^
 ||filelist.io^
 ||filelist.it^
 ||filelist.org^
@@ -2136,7 +2130,6 @@
 ||kinox.filmi.space^
 ||filmi-torrents.com^
 ||filmitorrent.net^
-||filmitorrent-org.site^
 ||filmlicious.net^
 ||filmobo.com^
 ||filmoff.net^
@@ -2160,7 +2153,6 @@
 ||filser.cc^
 ||reve.filserver.com^
 ||finbytes.org^
-||findmovies.tk^
 ||findnzb.net^
 ||finvip.org^
 ||firebit.net^

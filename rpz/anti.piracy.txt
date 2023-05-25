@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1684964340 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1685048580 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 24 May 2023 21:39 UTC
-; Version: 2023.0524.2139.56
+; Last modified: 25 May 2023 21:03 UTC
+; Version: 2023.0525.2103.38
 ; Syntax: RPZ
-; Number of entries: 13502
+; Number of entries: 13486
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -2255,8 +2255,6 @@ dhakadownload.com CNAME .
 *.dhakadownload.com CNAME .
 dhakaftp.com CNAME .
 *.dhakaftp.com CNAME .
-dhakaiptv.com CNAME .
-*.dhakaiptv.com CNAME .
 dhakamovie.com CNAME .
 *.dhakamovie.com CNAME .
 dhakasports.com CNAME .
@@ -2445,8 +2443,6 @@ elitetorrent1.com CNAME .
 *.elitetorrent1.com CNAME .
 emaczone.com CNAME .
 *.emaczone.com CNAME .
-emerald-speeds.com CNAME .
-*.emerald-speeds.com CNAME .
 encodeking.com CNAME .
 *.encodeking.com CNAME .
 bt.endpot.com CNAME .
@@ -6325,8 +6321,6 @@ erai-raws.info CNAME .
 *.erai-raws.info CNAME .
 evilinc.info CNAME .
 *.evilinc.info CNAME .
-fileleechers.info CNAME .
-*.fileleechers.info CNAME .
 freedownloadable.info CNAME .
 *.freedownloadable.info CNAME .
 fxp-terminal.info CNAME .
@@ -6897,8 +6891,6 @@ citynet.live CNAME .
 *.citynet.live CNAME .
 dflix.live CNAME .
 *.dflix.live CNAME .
-drakulastream.live CNAME .
-*.drakulastream.live CNAME .
 ebox.live CNAME .
 *.ebox.live CNAME .
 filmxy.live CNAME .
@@ -8071,8 +8063,6 @@ cybernetcommunications.net CNAME .
 *.cybernetcommunications.net CNAME .
 cztorrent.net CNAME .
 *.cztorrent.net CNAME .
-dailydown.net CNAME .
-*.dailydown.net CNAME .
 darkdata.net CNAME .
 *.darkdata.net CNAME .
 data-bg.net CNAME .
@@ -11117,8 +11107,6 @@ tracker2.christianbro.pw CNAME .
 *.tracker2.christianbro.pw CNAME .
 demonoid.pw CNAME .
 *.demonoid.pw CNAME .
-tracker.dmhy.pw CNAME .
-*.tracker.dmhy.pw CNAME .
 fileupload.pw CNAME .
 *.fileupload.pw CNAME .
 filmxy.pw CNAME .
@@ -11807,8 +11795,6 @@ elamigos.site CNAME .
 *.elamigos.site CNAME .
 filmguro.site CNAME .
 *.filmguro.site CNAME .
-filmitorrent-org.site CNAME .
-*.filmitorrent-org.site CNAME .
 fitgirl-repacks.site CNAME .
 *.fitgirl-repacks.site CNAME .
 fmoviestv.site CNAME .
@@ -12039,8 +12025,6 @@ datagalaxy.tk CNAME .
 *.datagalaxy.tk CNAME .
 tracker.feb217.tk CNAME .
 *.tracker.feb217.tk CNAME .
-findmovies.tk CNAME .
-*.findmovies.tk CNAME .
 flixtor.tk CNAME .
 *.flixtor.tk CNAME .
 leefafa.tk CNAME .

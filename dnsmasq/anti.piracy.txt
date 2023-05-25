@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 24 May 2023 21:39 UTC
-# Version: 2023.0524.2139.56
+# Last modified: 25 May 2023 21:03 UTC
+# Version: 2023.0525.2103.38
 # Syntax: DNSMasq
-# Number of entries: 6751
+# Number of entries: 6743
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -1514,7 +1514,6 @@ address=/torrentz2.d4.re/#
 address=/yts.d4.re/#
 address=/d4download.com/#
 address=/daddylive.es/#
-address=/dailydown.net/#
 address=/damedesuyo.com/#
 address=/danger.lv/#
 address=/danimados.com/#
@@ -1629,7 +1628,6 @@ address=/dfox.it/#
 address=/mixes.dfx.at/#
 address=/dhakadownload.com/#
 address=/dhakaftp.com/#
-address=/dhakaiptv.com/#
 address=/dhakamovie.com/#
 address=/dhakasports.com/#
 address=/dht.dhtclub.com/#
@@ -1692,7 +1690,6 @@ address=/tracker.dm258.cn/#
 address=/tracker.dmcomic.org/#
 address=/tracker.daydream.dmhy.best/#
 address=/share.dmhy.org/#
-address=/tracker.dmhy.pw/#
 address=/u2.dmhy.org/#
 address=/dnbtracker.org/#
 address=/dnetbd.com/#
@@ -1762,7 +1759,6 @@ address=/dragons-den.net/#
 address=/dragons-dungeon.com/#
 address=/drakula.top/#
 address=/drakula-stream.com/#
-address=/drakulastream.live/#
 address=/drama-online.pl/#
 address=/dramacoolfirst.com/#
 address=/dramago.com/#
@@ -1903,7 +1899,6 @@ address=/elitetorrent1.com/#
 address=/elitezones.ro/#
 address=/elsewhere.org/#
 address=/emaczone.com/#
-address=/emerald-speeds.com/#
 address=/emiz.biz/#
 address=/emp3juices.cc/#
 address=/empire-of-torrents.net/#
@@ -2098,7 +2093,6 @@ address=/filefactory.com/#
 address=/filefound.com/#
 address=/filejungle.com/#
 address=/fileland.pl/#
-address=/fileleechers.info/#
 address=/filelist.io/#
 address=/filelist.it/#
 address=/filelist.org/#
@@ -2136,7 +2130,6 @@ address=/filmheaven.com/#
 address=/kinox.filmi.space/#
 address=/filmi-torrents.com/#
 address=/filmitorrent.net/#
-address=/filmitorrent-org.site/#
 address=/filmlicious.net/#
 address=/filmobo.com/#
 address=/filmoff.net/#
@@ -2160,7 +2153,6 @@ address=/filmzie.com/#
 address=/filser.cc/#
 address=/reve.filserver.com/#
 address=/finbytes.org/#
-address=/findmovies.tk/#
 address=/findnzb.net/#
 address=/finvip.org/#
 address=/firebit.net/#
