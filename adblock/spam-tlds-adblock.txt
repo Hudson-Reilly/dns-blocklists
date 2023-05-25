@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 23 May 2023 21:37 UTC
-! Version: 2023.0523.2137.39
+! Last modified: 25 May 2023 21:07 UTC
+! Version: 2023.0525.2107.28
 ! Syntax: AdBlock
 !
 ||agency^
@@ -23,6 +23,7 @@
 ||buzz^
 ||cf^
 ||cfd^
+||cyou^
 ||dad^
 ||degree^
 ||discount^

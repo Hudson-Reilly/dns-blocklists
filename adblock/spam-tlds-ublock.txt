@@ -7,8 +7,8 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 23 May 2023 21:37 UTC
-! Version: 2023.0523.2137.39
+! Last modified: 25 May 2023 21:07 UTC
+! Version: 2023.0525.2107.28
 ! Syntax: uBlock
 !
 ||agency^$doc,domain=~battlefield.agency|~baam.agency|~robotzebra.agency|~uphotel.agency|~ws.agency
@@ -23,6 +23,7 @@
 ||buzz^$doc,domain=~allthe.buzz|~awful.buzz|~cliq.buzz|~montpellier.buzz|~sideb.buzz|~williamsonday.buzz
 ||cf^$doc,domain=~google.cf|~rths.cf|~acap.cf
 ||cfd^$doc,domain=~frcoal.cfd
+||cyou^$doc
 ||dad^$doc,domain=~classic.dad|~daily.dad|~dear.dad
 ||degree^$doc,domain=~nic.degree|~opf.degree|~three60.degree
 ||discount^$doc
@@ -63,5 +64,5 @@
 ||wiki^$doc,domain=~namu.wiki
 ||work^$doc
 ||wtf^$doc,domain=~plooshiesaresocute.wtf
-||zip^$doc,domain=~community.zip|~url.zip
+||zip^$doc,domain=~community.zip|~financialstatement.zip|~url.zip
 ||zone^$doc,domain=~amity.zone|~autonomous.zone|~blahaj.zone|~bookwyrm.tilde.zone|~borborema.zone|~buttplug.zone|~carbonnotes.zone|~chillpeep.zone|~disinfo.zone|~dogg.zone|~elk.zone|~europlus.zone|~fioverse.zone|~firebird.zone|~freeradical.zone|~freja.zone|~frikiverse.zone|~froth.zone|~gimon.zone|~grafo.zone|~greenhill.zone|~hda.zone|~hotgarbage.zone|~hyperboreal.zone|~itsm.zone|~kidtopia.zone|~kinogo.zone|~kvlt.zone|~lizard.zone|~martech.zone|~mellow.zone|~moth.zone|~myhobby.zone|~myhome.zone|~nelson.zone|~nic.zone|~nobert.zone|~nogafam.zone|~ounce.zone|~pixelfed.zone|~pnw.zone|~sakuradancer.zone|~saoirse.zone|~speedrun.zone|~stctp.zone|~stoat.zone|~strode.zone|~subnivean.zone|~subversive.zone|~taur.zone|~tda.zone|~teapot.zone|~the-cool.zone|~thechimp.zone|~thecum.zone|~thekitty.zone|~themystrd.zone|~thetake.zone|~thewired.zone|~tilde.zone|~tls.zone|~typinggames.zone|~ursal.zone|~vixen.zone|~vulpini.zone|~xcloud.zone|~xoxo.zone|~y2k.zone|~zig.zone
