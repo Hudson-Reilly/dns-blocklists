@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 May 2023 21:03 UTC
-# Version: 2023.0525.2103.38
+# Last modified: 26 May 2023 21:16 UTC
+# Version: 2023.0526.2116.53
 # Syntax: DNSMasq
-# Number of entries: 6743
+# Number of entries: 6733
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -2203,7 +2203,6 @@ address=/fmovie.sc/#
 address=/fmoviefree.net/#
 address=/fmovies.baby/#
 address=/fmovies.cafe/#
-address=/fmovies.coffee/#
 address=/fmovies.date/#
 address=/fmovies.gd/#
 address=/fmovies.org/#
@@ -2231,7 +2230,6 @@ address=/foggystream.com/#
 address=/fonoon.org/#
 address=/tv.foorty.net/#
 address=/football-live.stream/#
-address=/footballstream.to/#
 address=/footybite.com/#
 address=/foreverdrowning.com/#
 address=/tracker.foreverpirates.co/#
@@ -2474,7 +2472,6 @@ address=/goldmovies.to/#
 address=/goldpravda.net/#
 address=/goloady.com/#
 address=/gomoviefree.sc/#
-address=/gomovies.click/#
 address=/gomovies.film/#
 address=/gomovies.guru/#
 address=/gomovies.uno/#
@@ -2509,7 +2506,6 @@ address=/greek-torrent.net/#
 address=/greek-tracker.com/#
 address=/greekshare.net/#
 address=/greencracks.com/#
-address=/greetingsonlinebd.com/#
 address=/tracker.grepler.com/#
 address=/greylodge.org/#
 address=/grifon.info/#
@@ -2522,7 +2518,6 @@ address=/gtorrent.org/#
 address=/gtorrent.ru/#
 address=/guiks.net/#
 address=/gunsnroses.us/#
-address=/gustatv.love/#
 address=/gustatv.to/#
 address=/gutenberg.org/#
 address=/guysmovies.com/#
@@ -2585,7 +2580,6 @@ address=/hdfilmer.net/#
 address=/hdfreaks.cc/#
 address=/hdfrench.com/#
 address=/hdfull.lv/#
-address=/hdgo.to/#
 address=/hdhome.org/#
 address=/hdlivemovies.com/#
 address=/hdm.to/#
@@ -2606,7 +2600,6 @@ address=/hdseries.cc/#
 address=/tracker.hdsky.me/#
 address=/hdsource.biz/#
 address=/hdstar.org/#
-address=/hdstreams.to/#
 address=/tracker.hdstreet.club/#
 address=/tracker.hdtime.org/#
 address=/hdtor.com/#
@@ -2706,7 +2699,6 @@ address=/hurawatch.ru/#
 address=/hydrax.is/#
 address=/hypertorrent.com/#
 address=/hzzwly.gq/#
-address=/i123movies.club/#
 address=/opentracker.i2p.rocks/#
 address=/tracker.iamhansen.xyz/#
 address=/iartbot.ru/#
@@ -2742,7 +2734,6 @@ address=/iitv.info/#
 address=/ikkyonline.com/#
 address=/ilcorsaronero.link/#
 address=/tracker.ilibr.org/#
-address=/illuminatenboard.com/#
 address=/ilovetorrents.com/#
 address=/imacapps.co/#
 address=/imastudios.com/#
@@ -2797,7 +2788,6 @@ address=/iphonebooks.info/#
 address=/iphonecake.com/#
 address=/iplay.ro/#
 address=/iplayplus.net/#
-address=/iplive.club/#
 address=/ipmart-forum.com/#
 address=/iptorrents.com/#
 address=/tracker.ipv6tracker.org/#

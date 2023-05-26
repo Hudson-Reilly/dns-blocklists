@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1685048580 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1685135760 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 25 May 2023 21:03 UTC
-; Version: 2023.0525.2103.38
+; Last modified: 26 May 2023 21:16 UTC
+; Version: 2023.0526.2116.53
 ; Syntax: RPZ
-; Number of entries: 13486
+; Number of entries: 13466
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -845,8 +845,6 @@ torrentparadise.cl CNAME .
 *.torrentparadise.cl CNAME .
 open.tracker.cl CNAME .
 *.open.tracker.cl CNAME .
-gomovies.click CNAME .
-*.gomovies.click CNAME .
 kinox.click CNAME .
 *.kinox.click CNAME .
 lookmovie.click CNAME .
@@ -909,14 +907,10 @@ tracker.halfchub.club CNAME .
 *.tracker.halfchub.club CNAME .
 tracker.hdstreet.club CNAME .
 *.tracker.hdstreet.club CNAME .
-i123movies.club CNAME .
-*.i123movies.club CNAME .
 iboxbd.club CNAME .
 *.iboxbd.club CNAME .
 icouchtuner.club CNAME .
 *.icouchtuner.club CNAME .
-iplive.club CNAME .
-*.iplive.club CNAME .
 kinox.club CNAME .
 *.kinox.club CNAME .
 kkiste.club CNAME .
@@ -1175,8 +1169,6 @@ xenfiles.co CNAME .
 *.123movies.coach CNAME .
 carr.codes CNAME .
 *.carr.codes CNAME .
-fmovies.coffee CNAME .
-*.fmovies.coffee CNAME .
 zer0day.000webhostapp.com CNAME .
 *.zer0day.000webhostapp.com CNAME .
 0123456789nonexistent.com CNAME .
@@ -2833,8 +2825,6 @@ greek-tracker.com CNAME .
 *.greek-tracker.com CNAME .
 greencracks.com CNAME .
 *.greencracks.com CNAME .
-greetingsonlinebd.com CNAME .
-*.greetingsonlinebd.com CNAME .
 tracker.grepler.com CNAME .
 *.tracker.grepler.com CNAME .
 grimhosting.com CNAME .
@@ -2979,8 +2969,6 @@ ihavenotv.com CNAME .
 *.ihavenotv.com CNAME .
 ikkyonline.com CNAME .
 *.ikkyonline.com CNAME .
-illuminatenboard.com CNAME .
-*.illuminatenboard.com CNAME .
 ilovetorrents.com CNAME .
 *.ilovetorrents.com CNAME .
 imastudios.com CNAME .
@@ -7165,8 +7153,6 @@ xmovies8.lol CNAME .
 *.xmovies8.lol CNAME .
 123moviesfree.love CNAME .
 *.123moviesfree.love CNAME .
-gustatv.love CNAME .
-*.gustatv.love CNAME .
 kisscartoon.love CNAME .
 *.kisscartoon.love CNAME .
 yesmovies.love CNAME .
@@ -12161,8 +12147,6 @@ flixtor.to CNAME .
 *.flixtor.to CNAME .
 fmovies.to CNAME .
 *.fmovies.to CNAME .
-footballstream.to CNAME .
-*.footballstream.to CNAME .
 freesoft-board.to CNAME .
 *.freesoft-board.to CNAME .
 fromhot.to CNAME .
@@ -12189,12 +12173,8 @@ gustatv.to CNAME .
 *.gustatv.to CNAME .
 hd-source.to CNAME .
 *.hd-source.to CNAME .
-hdgo.to CNAME .
-*.hdgo.to CNAME .
 hdm.to CNAME .
 *.hdm.to CNAME .
-hdstreams.to CNAME .
-*.hdstreams.to CNAME .
 hif.to CNAME .
 *.hif.to CNAME .
 himovies.to CNAME .

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 May 2023 21:03 UTC
-# Version: 2023.0525.2103.38
+# Last modified: 26 May 2023 21:16 UTC
+# Version: 2023.0526.2116.53
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 6743
+# Number of entries: 6733
 #
 *.zer0day.000webhostapp.com
 *.0123456789nonexistent.com
@@ -2203,7 +2203,6 @@
 *.fmoviefree.net
 *.fmovies.baby
 *.fmovies.cafe
-*.fmovies.coffee
 *.fmovies.date
 *.fmovies.gd
 *.fmovies.org
@@ -2231,7 +2230,6 @@
 *.fonoon.org
 *.tv.foorty.net
 *.football-live.stream
-*.footballstream.to
 *.footybite.com
 *.foreverdrowning.com
 *.tracker.foreverpirates.co
@@ -2474,7 +2472,6 @@
 *.goldpravda.net
 *.goloady.com
 *.gomoviefree.sc
-*.gomovies.click
 *.gomovies.film
 *.gomovies.guru
 *.gomovies.uno
@@ -2509,7 +2506,6 @@
 *.greek-tracker.com
 *.greekshare.net
 *.greencracks.com
-*.greetingsonlinebd.com
 *.tracker.grepler.com
 *.greylodge.org
 *.grifon.info
@@ -2522,7 +2518,6 @@
 *.gtorrent.ru
 *.guiks.net
 *.gunsnroses.us
-*.gustatv.love
 *.gustatv.to
 *.gutenberg.org
 *.guysmovies.com
@@ -2585,7 +2580,6 @@
 *.hdfreaks.cc
 *.hdfrench.com
 *.hdfull.lv
-*.hdgo.to
 *.hdhome.org
 *.hdlivemovies.com
 *.hdm.to
@@ -2606,7 +2600,6 @@
 *.tracker.hdsky.me
 *.hdsource.biz
 *.hdstar.org
-*.hdstreams.to
 *.tracker.hdstreet.club
 *.tracker.hdtime.org
 *.hdtor.com
@@ -2706,7 +2699,6 @@
 *.hydrax.is
 *.hypertorrent.com
 *.hzzwly.gq
-*.i123movies.club
 *.opentracker.i2p.rocks
 *.tracker.iamhansen.xyz
 *.iartbot.ru
@@ -2742,7 +2734,6 @@
 *.ikkyonline.com
 *.ilcorsaronero.link
 *.tracker.ilibr.org
-*.illuminatenboard.com
 *.ilovetorrents.com
 *.imacapps.co
 *.imastudios.com
@@ -2797,7 +2788,6 @@
 *.iphonecake.com
 *.iplay.ro
 *.iplayplus.net
-*.iplive.club
 *.ipmart-forum.com
 *.iptorrents.com
 *.tracker.ipv6tracker.org
