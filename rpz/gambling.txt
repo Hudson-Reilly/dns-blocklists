@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1685048700 86400 3600 604800 30
+@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1685135940 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 25 May 2023 21:05 UTC
-; Version: 2023.0525.2105.43
+; Last modified: 26 May 2023 21:19 UTC
+; Version: 2023.0526.2119.05
 ; Syntax: RPZ
-; Number of entries: 169646
+; Number of entries: 169496
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -2747,8 +2747,6 @@ h1717.biz CNAME .
 *.h1717.biz CNAME .
 hg1717.biz CNAME .
 *.hg1717.biz CNAME .
-hg2522.biz CNAME .
-*.hg2522.biz CNAME .
 jun88bet.biz CNAME .
 *.jun88bet.biz CNAME .
 kubet.biz CNAME .
@@ -95175,18 +95173,6 @@ fn9781me.com CNAME .
 *.fn9781me.com CNAME .
 fn988.com CNAME .
 *.fn988.com CNAME .
-fnaccc.com CNAME .
-*.fnaccc.com CNAME .
-fnachg.com CNAME .
-*.fnachg.com CNAME .
-fnacint.com CNAME .
-*.fnacint.com CNAME .
-fnacoc.com CNAME .
-*.fnacoc.com CNAME .
-fnacss.com CNAME .
-*.fnacss.com CNAME .
-fnacsvip.com CNAME .
-*.fnacsvip.com CNAME .
 fne6l.com CNAME .
 *.fne6l.com CNAME .
 fnfcbted.com CNAME .
@@ -95635,12 +95621,8 @@ fun1016.com CNAME .
 *.fun1016.com CNAME .
 fun1018.com CNAME .
 *.fun1018.com CNAME .
-fun102.com CNAME .
-*.fun102.com CNAME .
 fun1025.com CNAME .
 *.fun1025.com CNAME .
-fun103.com CNAME .
-*.fun103.com CNAME .
 fun1032.com CNAME .
 *.fun1032.com CNAME .
 fun1036.com CNAME .
@@ -95765,8 +95747,6 @@ fun172.com CNAME .
 *.fun172.com CNAME .
 fun173.com CNAME .
 *.fun173.com CNAME .
-fun1738.com CNAME .
-*.fun1738.com CNAME .
 fun176.com CNAME .
 *.fun176.com CNAME .
 fun179.com CNAME .
@@ -95951,8 +95931,6 @@ fun32333.com CNAME .
 *.fun32333.com CNAME .
 fun327.com CNAME .
 *.fun327.com CNAME .
-fun328.com CNAME .
-*.fun328.com CNAME .
 fun3288.com CNAME .
 *.fun3288.com CNAME .
 fun3300.com CNAME .
@@ -98159,8 +98137,6 @@ gb185.com CNAME .
 *.gb185.com CNAME .
 gb2932.com CNAME .
 *.gb2932.com CNAME .
-gb3279.com CNAME .
-*.gb3279.com CNAME .
 gb4unvk.com CNAME .
 *.gb4unvk.com CNAME .
 gb5604.com CNAME .
@@ -98215,42 +98191,6 @@ gcdupgemcjqcjyyjmyauvdjdvqvnzr6957.com CNAME .
 *.gcdupgemcjqcjyyjmyauvdjdvqvnzr6957.com CNAME .
 gceln.com CNAME .
 *.gceln.com CNAME .
-gcex11.com CNAME .
-*.gcex11.com CNAME .
-gcex22.com CNAME .
-*.gcex22.com CNAME .
-gcex26.com CNAME .
-*.gcex26.com CNAME .
-gcex32.com CNAME .
-*.gcex32.com CNAME .
-gcex34.com CNAME .
-*.gcex34.com CNAME .
-gcex35.com CNAME .
-*.gcex35.com CNAME .
-gcex39.com CNAME .
-*.gcex39.com CNAME .
-gcex40.com CNAME .
-*.gcex40.com CNAME .
-gcex41.com CNAME .
-*.gcex41.com CNAME .
-gcex44.com CNAME .
-*.gcex44.com CNAME .
-gcex47.com CNAME .
-*.gcex47.com CNAME .
-gcex48.com CNAME .
-*.gcex48.com CNAME .
-gcex5.com CNAME .
-*.gcex5.com CNAME .
-gcex50.com CNAME .
-*.gcex50.com CNAME .
-gcex52.com CNAME .
-*.gcex52.com CNAME .
-gcex53.com CNAME .
-*.gcex53.com CNAME .
-gcex62.com CNAME .
-*.gcex62.com CNAME .
-gcex73.com CNAME .
-*.gcex73.com CNAME .
 gcfgkk759o.com CNAME .
 *.gcfgkk759o.com CNAME .
 gcfzoe.com CNAME .
@@ -98377,10 +98317,6 @@ getrichkr.com CNAME .
 *.getrichkr.com CNAME .
 geyoutan2021.com CNAME .
 *.geyoutan2021.com CNAME .
-gf3001.com CNAME .
-*.gf3001.com CNAME .
-gf3002.com CNAME .
-*.gf3002.com CNAME .
 gf7d34hj8df734hi89ds2khj3098sdj34k5d7v623jh4cz908.com CNAME .
 *.gf7d34hj8df734hi89ds2khj3098sdj34k5d7v623jh4cz908.com CNAME .
 gf7lq300u0.com CNAME .
@@ -98553,8 +98489,6 @@ ghos5267.com CNAME .
 *.ghos5267.com CNAME .
 ghpt168.com CNAME .
 *.ghpt168.com CNAME .
-ghrfw275.com CNAME .
-*.ghrfw275.com CNAME .
 ghuaujkmpl.com CNAME .
 *.ghuaujkmpl.com CNAME .
 gi8xx.com CNAME .
@@ -98987,8 +98921,6 @@ groupteamnames.com CNAME .
 *.groupteamnames.com CNAME .
 grqbyslpdn.com CNAME .
 *.grqbyslpdn.com CNAME .
-gs3000.com CNAME .
-*.gs3000.com CNAME .
 gs82a12rfi.com CNAME .
 *.gs82a12rfi.com CNAME .
 gsby88.com CNAME .
@@ -99785,16 +99717,10 @@ h2924.com CNAME .
 *.h2924.com CNAME .
 h292tyc.com CNAME .
 *.h292tyc.com CNAME .
-h293tyc.com CNAME .
-*.h293tyc.com CNAME .
 h2946.com CNAME .
 *.h2946.com CNAME .
-h294tyc.com CNAME .
-*.h294tyc.com CNAME .
 h295tyc.com CNAME .
 *.h295tyc.com CNAME .
-h296tyc.com CNAME .
-*.h296tyc.com CNAME .
 h297tyc.com CNAME .
 *.h297tyc.com CNAME .
 h2987.com CNAME .
@@ -99809,26 +99735,14 @@ h3004.com CNAME .
 *.h3004.com CNAME .
 h300tyc.com CNAME .
 *.h300tyc.com CNAME .
-h301tyc.com CNAME .
-*.h301tyc.com CNAME .
 h3029.com CNAME .
 *.h3029.com CNAME .
-h302tyc.com CNAME .
-*.h302tyc.com CNAME .
 h303tyc.com CNAME .
 *.h303tyc.com CNAME .
 h304tyc.com CNAME .
 *.h304tyc.com CNAME .
-h305tyc.com CNAME .
-*.h305tyc.com CNAME .
-h306tyc.com CNAME .
-*.h306tyc.com CNAME .
 h307tyc.com CNAME .
 *.h307tyc.com CNAME .
-h308tyc.com CNAME .
-*.h308tyc.com CNAME .
-h309tyc.com CNAME .
-*.h309tyc.com CNAME .
 h30tyc.com CNAME .
 *.h30tyc.com CNAME .
 h3102.com CNAME .
@@ -99839,8 +99753,6 @@ h311tyc.com CNAME .
 *.h311tyc.com CNAME .
 h3127.com CNAME .
 *.h3127.com CNAME .
-h312tyc.com CNAME .
-*.h312tyc.com CNAME .
 h314tyc.com CNAME .
 *.h314tyc.com CNAME .
 h315tyc.com CNAME .
@@ -100359,8 +100271,6 @@ h5293.com CNAME .
 *.h5293.com CNAME .
 h52tyc.com CNAME .
 *.h52tyc.com CNAME .
-h5359.com CNAME .
-*.h5359.com CNAME .
 h5375.com CNAME .
 *.h5375.com CNAME .
 h5376.com CNAME .
@@ -102391,18 +102301,6 @@ hg999038.com CNAME .
 *.hg999038.com CNAME .
 hgczf.com CNAME .
 *.hgczf.com CNAME .
-hggfa.com CNAME .
-*.hggfa.com CNAME .
-hggfe.com CNAME .
-*.hggfe.com CNAME .
-hggfi.com CNAME .
-*.hggfi.com CNAME .
-hggfp.com CNAME .
-*.hggfp.com CNAME .
-hggfu.com CNAME .
-*.hggfu.com CNAME .
-hggfv.com CNAME .
-*.hggfv.com CNAME .
 hggfvip.com CNAME .
 *.hggfvip.com CNAME .
 hggfyh.com CNAME .
@@ -103621,8 +103519,6 @@ hkcubuhnfu.com CNAME .
 *.hkcubuhnfu.com CNAME .
 hkehg.com CNAME .
 *.hkehg.com CNAME .
-hkfeq372.com CNAME .
-*.hkfeq372.com CNAME .
 hkfnfzgbmr.com CNAME .
 *.hkfnfzgbmr.com CNAME .
 hkj78.com CNAME .
@@ -103637,14 +103533,6 @@ hl-zt.com CNAME .
 *.hl-zt.com CNAME .
 hl006.com CNAME .
 *.hl006.com CNAME .
-hl20223366cp.com CNAME .
-*.hl20223366cp.com CNAME .
-hl20225566cp.com CNAME .
-*.hl20225566cp.com CNAME .
-hl2022666cp.com CNAME .
-*.hl2022666cp.com CNAME .
-hl2022777cp.com CNAME .
-*.hl2022777cp.com CNAME .
 hl3146853.com CNAME .
 *.hl3146853.com CNAME .
 hl7785236.com CNAME .
@@ -103709,8 +103597,6 @@ hlcp202218266.com CNAME .
 *.hlcp202218266.com CNAME .
 hlcp202218855.com CNAME .
 *.hlcp202218855.com CNAME .
-hlcp20223366.com CNAME .
-*.hlcp20223366.com CNAME .
 hlcp20223399.com CNAME .
 *.hlcp20223399.com CNAME .
 hlcp202258136.com CNAME .
@@ -104387,8 +104273,6 @@ hz2050.com CNAME .
 *.hz2050.com CNAME .
 hz977.com CNAME .
 *.hz977.com CNAME .
-hzduolong.com CNAME .
-*.hzduolong.com CNAME .
 hzxhdsy.com CNAME .
 *.hzxhdsy.com CNAME .
 i034034.com CNAME .
@@ -104451,8 +104335,6 @@ i47660.com CNAME .
 *.i47660.com CNAME .
 i5197.com CNAME .
 *.i5197.com CNAME .
-i5359.com CNAME .
-*.i5359.com CNAME .
 i5454.com CNAME .
 *.i5454.com CNAME .
 i5544.com CNAME .
@@ -105033,8 +104915,6 @@ iii9416.com CNAME .
 *.iii9416.com CNAME .
 iiii5454.com CNAME .
 *.iiii5454.com CNAME .
-ijhdq.com CNAME .
-*.ijhdq.com CNAME .
 ijka2.com CNAME .
 *.ijka2.com CNAME .
 ijzgy.com CNAME .
@@ -105069,16 +104949,12 @@ imbanker.com CNAME .
 *.imbanker.com CNAME .
 imbetasia.com CNAME .
 *.imbetasia.com CNAME .
-img-0.com CNAME .
-*.img-0.com CNAME .
 imgsg88.com CNAME .
 *.imgsg88.com CNAME .
 imperialcasino.com CNAME .
 *.imperialcasino.com CNAME .
 imperialpoker.com CNAME .
 *.imperialpoker.com CNAME .
-imperifram.com CNAME .
-*.imperifram.com CNAME .
 in311.com CNAME .
 *.in311.com CNAME .
 in331.com CNAME .
@@ -105159,8 +105035,6 @@ inthb.com CNAME .
 *.inthb.com CNAME .
 intlbetway08.com CNAME .
 *.intlbetway08.com CNAME .
-iogaffiliate.com CNAME .
-*.iogaffiliate.com CNAME .
 ioksun.com CNAME .
 *.ioksun.com CNAME .
 ios1717.com CNAME .
@@ -105793,8 +105667,6 @@ j5352.com CNAME .
 *.j5352.com CNAME .
 j5356.com CNAME .
 *.j5356.com CNAME .
-j5359.com CNAME .
-*.j5359.com CNAME .
 j5362.com CNAME .
 *.j5362.com CNAME .
 j5365.com CNAME .
@@ -106385,8 +106257,6 @@ j9-casino.com CNAME .
 *.j9-casino.com CNAME .
 j9-viet.com CNAME .
 *.j9-viet.com CNAME .
-j9-vn.com CNAME .
-*.j9-vn.com CNAME .
 j90901.com CNAME .
 *.j90901.com CNAME .
 j9169.com CNAME .
@@ -106859,20 +106729,12 @@ j9vn77.com CNAME .
 *.j9vn77.com CNAME .
 j9vn78.com CNAME .
 *.j9vn78.com CNAME .
-j9vn8.com CNAME .
-*.j9vn8.com CNAME .
 j9vn80.com CNAME .
 *.j9vn80.com CNAME .
-j9vn88.com CNAME .
-*.j9vn88.com CNAME .
-j9vn888.com CNAME .
-*.j9vn888.com CNAME .
 j9vna.com CNAME .
 *.j9vna.com CNAME .
 j9vnbongda.com CNAME .
 *.j9vnbongda.com CNAME .
-j9vncasino.com CNAME .
-*.j9vncasino.com CNAME .
 j9vnfun.com CNAME .
 *.j9vnfun.com CNAME .
 j9vng.com CNAME .
@@ -157341,8 +157203,6 @@ gresort.space CNAME .
 *.gresort.space CNAME .
 holidaywin.space CNAME .
 *.holidaywin.space CNAME .
-hxty1.space CNAME .
-*.hxty1.space CNAME .
 k8vn.space CNAME .
 *.k8vn.space CNAME .
 kyqp.space CNAME .
@@ -163847,8 +163707,6 @@ heji68.vip CNAME .
 *.heji68.vip CNAME .
 heji86.vip CNAME .
 *.heji86.vip CNAME .
-hezhendong.vip CNAME .
-*.hezhendong.vip CNAME .
 hg0315.vip CNAME .
 *.hg0315.vip CNAME .
 hg108.vip CNAME .
@@ -165457,8 +165315,6 @@ fortuna8.win CNAME .
 *.fortuna8.win CNAME .
 game69.win CNAME .
 *.game69.win CNAME .
-play.gameric.win CNAME .
-*.play.gameric.win CNAME .
 gnbet.win CNAME .
 *.gnbet.win CNAME .
 goal123.win CNAME .
@@ -167513,12 +167369,6 @@ fmyl.xyz CNAME .
 *.fmyl.xyz CNAME .
 fnacappxz.xyz CNAME .
 *.fnacappxz.xyz CNAME .
-fnaccc.xyz CNAME .
-*.fnaccc.xyz CNAME .
-fnachg.xyz CNAME .
-*.fnachg.xyz CNAME .
-fnacint.xyz CNAME .
-*.fnacint.xyz CNAME .
 fnacsp.xyz CNAME .
 *.fnacsp.xyz CNAME .
 fokcity.xyz CNAME .

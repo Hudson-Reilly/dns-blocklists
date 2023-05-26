@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 25 May 2023 21:05 UTC
-! Version: 2023.0525.2105.43
+! Last modified: 26 May 2023 21:19 UTC
+! Version: 2023.0526.2119.05
 ! Syntax: AdBlock
-! Number of entries: 84823
+! Number of entries: 84748
 !
 ||000000tyc.com^
 ||00001111hlcp1111.com^
@@ -54193,16 +54193,7 @@
 ||fn9781me.com^
 ||fn988.com^
 ||fnacappxz.xyz^
-||fnaccc.com^
-||fnaccc.xyz^
-||fnachg.com^
-||fnachg.xyz^
-||fnacint.com^
-||fnacint.xyz^
-||fnacoc.com^
 ||fnacsp.xyz^
-||fnacss.com^
-||fnacsvip.com^
 ||fne6l.com^
 ||fnfcbted.com^
 ||fngpxqhsci.com^
@@ -54464,9 +54455,7 @@
 ||fun1015.com^
 ||fun1016.com^
 ||fun1018.com^
-||fun102.com^
 ||fun1025.com^
-||fun103.com^
 ||fun1032.com^
 ||fun1036.com^
 ||fun1039.com^
@@ -54530,7 +54519,6 @@
 ||fun171.com^
 ||fun172.com^
 ||fun173.com^
-||fun1738.com^
 ||fun176.com^
 ||fun179.com^
 ||fun180.com^
@@ -54623,7 +54611,6 @@
 ||fun3222.com^
 ||fun32333.com^
 ||fun327.com^
-||fun328.com^
 ||fun3288.com^
 ||fun3300.com^
 ||fun3338.com^
@@ -55776,7 +55763,6 @@
 ||gamequyong.site^
 ||gamequyong.xyz^
 ||gamereldo.xyz^
-||play.gameric.win^
 ||gamerikvip.live^
 ||gamerjackpot.com^
 ||games2p.xyz^
@@ -55855,7 +55841,6 @@
 ||gaynupt.com^
 ||gb185.com^
 ||gb2932.com^
-||gb3279.com^
 ||gb4unvk.com^
 ||gb5604.com^
 ||gb6350.com^
@@ -55887,24 +55872,6 @@
 ||gcdupgemcjqcjyyjmyauvdjdvqvnzr6957.com^
 ||gceln.com^
 ||gcex.vip^
-||gcex11.com^
-||gcex22.com^
-||gcex26.com^
-||gcex32.com^
-||gcex34.com^
-||gcex35.com^
-||gcex39.com^
-||gcex40.com^
-||gcex41.com^
-||gcex44.com^
-||gcex47.com^
-||gcex48.com^
-||gcex5.com^
-||gcex50.com^
-||gcex52.com^
-||gcex53.com^
-||gcex62.com^
-||gcex73.com^
 ||gcfgkk759o.com^
 ||gcfzoe.com^
 ||gclub888888auto.com^
@@ -55986,8 +55953,6 @@
 ||getoy.xyz^
 ||getrichkr.com^
 ||geyoutan2021.com^
-||gf3001.com^
-||gf3002.com^
 ||gf7d34hj8df734hi89ds2khj3098sdj34k5d7v623jh4cz908.com^
 ||gf7lq300u0.com^
 ||gfbx57skfn12hbd9f7ks.com^
@@ -56141,7 +56106,6 @@
 ||ghngp.com^
 ||ghos5267.com^
 ||ghpt168.com^
-||ghrfw275.com^
 ||ghuaujkmpl.com^
 ||gi8.info^
 ||gi8.us^
@@ -56583,7 +56547,6 @@
 ||growice.xyz^
 ||grqbyslpdn.com^
 ||gs123.vip^
-||gs3000.com^
 ||gs82a12rfi.com^
 ||gsby88.com^
 ||gscasinos.com^
@@ -57019,11 +56982,8 @@
 ||h2919.com^
 ||h2924.com^
 ||h292tyc.com^
-||h293tyc.com^
 ||h2946.com^
-||h294tyc.com^
 ||h295tyc.com^
-||h296tyc.com^
 ||h297tyc.com^
 ||h2987.com^
 ||h298tyc.com^
@@ -57031,22 +56991,15 @@
 ||h29tyc.com^
 ||h3004.com^
 ||h300tyc.com^
-||h301tyc.com^
 ||h3029.com^
-||h302tyc.com^
 ||h303tyc.com^
 ||h304tyc.com^
-||h305tyc.com^
-||h306tyc.com^
 ||h307tyc.com^
-||h308tyc.com^
-||h309tyc.com^
 ||h30tyc.com^
 ||h3102.com^
 ||h3119.com^
 ||h311tyc.com^
 ||h3127.com^
-||h312tyc.com^
 ||h314tyc.com^
 ||h315tyc.com^
 ||h3164.com^
@@ -57310,7 +57263,6 @@
 ||h5235.com^
 ||h5293.com^
 ||h52tyc.com^
-||h5359.com^
 ||h5375.com^
 ||h5376.com^
 ||h53tyc.com^
@@ -58097,7 +58049,6 @@
 ||heyingxin.com^
 ||heypoker.com^
 ||heyspin.com^
-||hezhendong.vip^
 ||hf331026828.com^
 ||hf3659.com^
 ||hf55181.com^
@@ -58226,7 +58177,6 @@
 ||hg22.site^
 ||hg22002.com^
 ||hg2425.com^
-||hg2522.biz^
 ||hg2600.com^
 ||hg2772.com^
 ||hg2772.net^
@@ -58521,12 +58471,6 @@
 ||hggf.net^
 ||hggf.org^
 ||hggf.shop^
-||hggfa.com^
-||hggfe.com^
-||hggfi.com^
-||hggfp.com^
-||hggfu.com^
-||hggfv.com^
 ||hggfvip.com^
 ||hggfyh.com^
 ||hghghg.org^
@@ -59181,7 +59125,6 @@
 ||hkcqdak.xyz^
 ||hkcubuhnfu.com^
 ||hkehg.com^
-||hkfeq372.com^
 ||hkfnfzgbmr.com^
 ||hkj78.com^
 ||bet.hkjc.com^
@@ -59195,10 +59138,6 @@
 ||hkunnof.xyz^
 ||hl-zt.com^
 ||hl006.com^
-||hl20223366cp.com^
-||hl20225566cp.com^
-||hl2022666cp.com^
-||hl2022777cp.com^
 ||hl3146853.com^
 ||hl3146853.net^
 ||hl7785236.com^
@@ -59239,7 +59178,6 @@
 ||hlcp20221199.com^
 ||hlcp202218266.com^
 ||hlcp202218855.com^
-||hlcp20223366.com^
 ||hlcp20223399.com^
 ||hlcp202258136.com^
 ||hlcp202258138.com^
@@ -59516,7 +59454,6 @@
 ||hxpp9.com^
 ||hxpt8.com^
 ||hxsb6.com^
-||hxty1.space^
 ||hxxzzh.xyz^
 ||hxyp8.com^
 ||hy3499.com^
@@ -59650,7 +59587,6 @@
 ||hyu8dfbdvt856.com^
 ||hz2050.com^
 ||hz977.com^
-||hzduolong.com^
 ||hzxhdsy.com^
 ||i034034.com^
 ||i03641.com^
@@ -59684,7 +59620,6 @@
 ||i47660.com^
 ||i5197.com^
 ||i51bet.bet^
-||i5359.com^
 ||i5454.com^
 ||i5544.com^
 ||i6439.com^
@@ -60023,7 +59958,6 @@
 ||iiii5454.com^
 ||iiwerus.xyz^
 ||iiyttq.xyz^
-||ijhdq.com^
 ||ijka2.com^
 ||ijzgy.com^
 ||ik5604.com^
@@ -60051,14 +59985,12 @@
 ||imbanker.com^
 ||imbetasia.com^
 ||imdbpwa.xyz^
-||img-0.com^
 ||imgcdnbet.live^
 ||imgsg88.com^
 ||imlottery.cn^
 ||imnubh-mv.sbs^
 ||imperialcasino.com^
 ||imperialpoker.com^
-||imperifram.com^
 ||in311.com^
 ||in331.com^
 ||in724.com^
@@ -60115,7 +60047,6 @@
 ||inthb.com^
 ||intlbetway08.com^
 ||into-aksjck48789com-19789co.org^
-||iogaffiliate.com^
 ||ioksun.com^
 ||ionwin88.net^
 ||ios1717.com^
@@ -60478,7 +60409,6 @@
 ||j5349.com^
 ||j5352.com^
 ||j5356.com^
-||j5359.com^
 ||j5362.com^
 ||j5365.com^
 ||j5372.com^
@@ -60785,7 +60715,6 @@
 ||j9-btc.com^
 ||j9-casino.com^
 ||j9-viet.com^
-||j9-vn.com^
 ||j90901.com^
 ||j9169.com^
 ||j91hg.com^
@@ -61046,18 +60975,14 @@
 ||j9vn76.com^
 ||j9vn77.com^
 ||j9vn78.com^
-||j9vn8.com^
 ||j9vn80.com^
 ||j9vn80.net^
-||j9vn88.com^
 ||j9vn88.net^
-||j9vn888.com^
 ||j9vn89.net^
 ||j9vn98.net^
 ||j9vn99.net^
 ||j9vna.com^
 ||j9vnbongda.com^
-||j9vncasino.com^
 ||j9vnfun.com^
 ||j9vng.com^
 ||j9vnj.com^
