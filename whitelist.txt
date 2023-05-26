@@ -3521,3 +3521,6 @@ s3.lightboxcdn.com
 innovators.ivanti.com
 ivantiinnovators.influitive.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1083
+playhydrax.com
+
