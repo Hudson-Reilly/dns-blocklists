@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1684964100 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1685135520 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 24 May 2023 21:35 UTC
-; Version: 2023.0524.2135.35
+; Last modified: 26 May 2023 21:12 UTC
+; Version: 2023.0526.2112.52
 ; Syntax: RPZ
-; Number of entries: 4264
+; Number of entries: 4256
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -275,8 +275,6 @@ dns.weixin.qq.com.cn CNAME .
 *.dns.weixin.qq.com.cn CNAME .
 dns.tuna.tsinghua.edu.cn CNAME .
 *.dns.tuna.tsinghua.edu.cn CNAME .
-free-vpn.cn CNAME .
-*.free-vpn.cn CNAME .
 dns.muxinghe.cn CNAME .
 *.dns.muxinghe.cn CNAME .
 dns.mzrme.cn CNAME .
@@ -785,8 +783,6 @@ flyvpn.com CNAME .
 *.flyvpn.com CNAME .
 fortinet.com CNAME .
 *.fortinet.com CNAME .
-foundhide.com CNAME .
-*.foundhide.com CNAME .
 dns.frank-ruan.com CNAME .
 *.dns.frank-ruan.com CNAME .
 free-proxy.com CNAME .
@@ -801,8 +797,6 @@ freebypassproxy.com CNAME .
 *.freebypassproxy.com CNAME .
 freecanadavpn.com CNAME .
 *.freecanadavpn.com CNAME .
-freecavpn.com CNAME .
-*.freecavpn.com CNAME .
 freecloudvpn.com CNAME .
 *.freecloudvpn.com CNAME .
 freedevpn.com CNAME .
@@ -819,8 +813,6 @@ freesafeip.com CNAME .
 *.freesafeip.com CNAME .
 freesupervpn.com CNAME .
 *.freesupervpn.com CNAME .
-freesurfproxy.com CNAME .
-*.freesurfproxy.com CNAME .
 freetrialvpn.com CNAME .
 *.freetrialvpn.com CNAME .
 freeukvpn.com CNAME .

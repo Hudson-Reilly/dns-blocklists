@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 24 May 2023 21:35 UTC
-# Version: 2023.0524.2135.35
+# Last modified: 26 May 2023 21:12 UTC
+# Version: 2023.0526.2112.52
 # Syntax: DNSMasq
-# Number of entries: 2132
+# Number of entries: 2128
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -673,7 +673,6 @@ address=/for-privacy.net/#
 address=/fortinet.com/#
 address=/fortinet.net/#
 address=/fortiwebcloud.net/#
-address=/foundhide.com/#
 address=/fproxy.net/#
 address=/dns.frank-ruan.com/#
 address=/free-proxy.com/#
@@ -682,12 +681,10 @@ address=/free-proxy.xyz/#
 address=/free-proxy-list.net/#
 address=/free-proxyserver.com/#
 address=/free-proxysite.com/#
-address=/free-vpn.cn/#
 address=/free-vpn.xyz/#
 address=/freeanimesonline.com/#
 address=/freebypassproxy.com/#
 address=/freecanadavpn.com/#
-address=/freecavpn.com/#
 address=/freecloudvpn.com/#
 address=/freedevpn.com/#
 address=/freedom.cx/#
@@ -706,7 +703,6 @@ address=/freeproxyserver.co/#
 address=/freeproxyweb.net/#
 address=/freesafeip.com/#
 address=/freesupervpn.com/#
-address=/freesurfproxy.com/#
 address=/freetrialvpn.com/#
 address=/freeukvpn.com/#
 address=/freevideoproxy.com/#

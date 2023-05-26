@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 24 May 2023 21:35 UTC
-# Version: 2023.0524.2135.35
+# Last modified: 26 May 2023 21:12 UTC
+# Version: 2023.0526.2112.52
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 2132
+# Number of entries: 2128
 #
 *.0000a-fast-proxy.de
 *.ns.00dani.me
@@ -673,7 +673,6 @@
 *.fortinet.com
 *.fortinet.net
 *.fortiwebcloud.net
-*.foundhide.com
 *.fproxy.net
 *.dns.frank-ruan.com
 *.free-proxy.com
@@ -682,12 +681,10 @@
 *.free-proxy-list.net
 *.free-proxyserver.com
 *.free-proxysite.com
-*.free-vpn.cn
 *.free-vpn.xyz
 *.freeanimesonline.com
 *.freebypassproxy.com
 *.freecanadavpn.com
-*.freecavpn.com
 *.freecloudvpn.com
 *.freedevpn.com
 *.freedom.cx
@@ -706,7 +703,6 @@
 *.freeproxyweb.net
 *.freesafeip.com
 *.freesupervpn.com
-*.freesurfproxy.com
 *.freetrialvpn.com
 *.freeukvpn.com
 *.freevideoproxy.com
