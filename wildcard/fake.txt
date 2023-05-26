@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 May 2023 21:11 UTC
-# Version: 2023.0525.2111.07
+# Last modified: 26 May 2023 21:24 UTC
+# Version: 2023.0526.2124.58
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12267
+# Number of entries: 12244
 #
 *.100-solarni-lampa-cz.com
 *.11trikots.com
@@ -2176,8 +2176,7 @@
 *.nutripur.com.de
 *.optimusconstructora.com.pe
 *.ozkart.com.au
-*.store.rsaonlinenow.com.au
-*.www.rsaonlinenow.com.au
+*.rsaonlinenow.com.au
 *.singsale.com.sg
 *.sowood.com.au
 *.virtualgraffiti.com.au
@@ -2901,7 +2900,7 @@
 *.donovan.store
 *.dooyshy.com
 *.dopasowani.at
-*.dopemelaninart.com
+*.m.dopemelaninart.com
 *.dopeskijacke.at
 *.dopeskijacke.de
 *.dopesnowjacke.de
@@ -3503,7 +3502,6 @@
 *.everlead.net
 *.evermily.com
 *.everyknives.com
-*.everythingkitchens.com
 *.everythingsaltspring.com
 *.eviralstore.com
 *.evitadeutschland.de
@@ -3790,6 +3788,7 @@
 *.fiewatch.com
 *.fightingequip.com
 *.figliazza.de
+*.filedenzu.com
 *.fillinger.shop
 *.filmara.de
 *.filmbakery.at
@@ -4056,7 +4055,6 @@
 *.fshoppingo.com
 *.fsoacu.com
 *.3.ftd-best.bond
-*.ftx-store.de
 *.fuchs-versand.shop
 *.fuchspreis.com
 *.fuechsefussball.de
@@ -4077,13 +4075,9 @@
 *.fundcash.id
 *.fundfconsult.at
 *.funfunlego.com
-*.fungalor.com
 *.funkeln-tech.de
 *.funkeln-technik.de
 *.funkelnelektronik.de
-*.funkenlb.com
-*.m.gtsec.funstuffmail.com
-*.www.gtsec.funstuffmail.com
 *.funswan.de
 *.funtali.com
 *.funwelt.at
@@ -4131,7 +4125,6 @@
 *.galaxuv.com
 *.galerie-menzel.de
 *.galerieoswald.de
-*.galileofx.com
 *.galleria-versand.de
 *.galyu.com
 *.gamadino.com
@@ -4225,6 +4218,7 @@
 *.gearathena.com
 *.gearclover.com
 *.gearhomies.com
+*.gearhuman.com
 *.gearmarch.com
 *.gearmountaineering.com
 *.gearsg.com
@@ -4389,7 +4383,6 @@
 *.gma-2015.de
 *.gmapros.co
 *.gmethopoth.com
-*.gmtpcy.com
 *.gnfse.shop
 *.gninim.com
 *.gnomesdogo.com
@@ -4412,7 +4405,6 @@
 *.godeskonettbutikk.com
 *.godlightsus.com
 *.goebv.com
-*.goertz-graef.de
 *.goetzwache.de
 *.goexpressparcel.com
 *.gofamilygift.com
@@ -4491,7 +4483,6 @@
 *.goods-outdoor.com
 *.goodscutter.com
 *.goodsdining.com
-*.goodservicss.top
 *.goodshoescheap.com
 *.goodstoreus.shop
 *.goodvibesgifthouse.com
@@ -4513,7 +4504,6 @@
 *.goyourheart.com
 *.shoptr2.gpec-bd.org
 *.gpjholzdesign.de
-*.gplate.de
 *.gpypll.com
 *.gradmalaysia.com
 *.graduan.com
@@ -4596,10 +4586,8 @@
 *.guessosterreich.at
 *.guglerhof.at
 *.guides-eu.com
-*.guilaiyoushe.com
 *.de.guillaume-marie.com
 *.guillermocraig.shop
-*.guiltyb.com
 *.guitarsale.store
 *.gummistiefelhunter.de
 *.gunstee.com
@@ -4618,7 +4606,6 @@
 *.gutes-angebot.net
 *.gutes-brennholz.com
 *.gutesbestes.com
-*.gutgegrillt.com
 *.guy-mulhen.com
 *.gvs-usa.com
 *.gws-powercell.de
@@ -4638,7 +4625,6 @@
 *.haarpracht-clip.de
 *.haarprofis.com
 *.haberfasher.com
-*.haceroberomaste.com
 *.hachipethouse.com
 *.hacocid.xyz
 *.haeramon.de
@@ -4723,7 +4709,6 @@
 *.hasegawamodel.com
 *.hasunec.shop
 *.hatbabiie.com
-*.hatgaos.com
 *.hati-onlineshop.de
 *.haufeltd.com
 *.hauptapotheke.com
@@ -4747,7 +4732,6 @@
 *.haushaltswaren-vries.de
 *.haushaltswolf.de
 *.hauskaminofen.com
-*.hausprodukte.shop
 *.hausromantica.at
 *.haustechnik-muenchen.de
 *.haustierbedarf-friedman.com
@@ -4901,7 +4885,6 @@
 *.hk6986.com
 *.hklaccessoriesstore.com
 *.hkls.at
-*.hkriostur.shop
 *.hlmotion.com
 *.hlninms.com
 *.hltieefet.shop
@@ -4924,7 +4907,6 @@
 *.hoerstern.at
 *.hofner-versand.shop
 *.hoftlix.us
-*.hoglundelh.shop
 *.hoisbandl.at
 *.hoistreplacementparts.com
 *.hoka-us.com
@@ -4958,7 +4940,6 @@
 *.holofor.com
 *.holophore.fr
 *.holsingar.com
-*.vlor.holycrossmoravianchurch.com
 *.holydogwater.de
 *.holz-heizung-shop.com
 *.holz-und-heizung.com
@@ -5015,7 +4996,6 @@
 *.honk-projekt.de
 *.hontaiautoparts.com
 *.honzovyslevy.cz
-*.hoodap.shop
 *.hookahheroes.com
 *.hookcan.com
 *.hookestore.online
@@ -5157,7 +5137,6 @@
 *.i-translogistics.com
 *.i-vaya.de
 *.matfide.iai-shop.com
-*.iamgru.top
 *.iamkamu.de
 *.iamsogood.shop
 *.iancheer.com
@@ -5223,7 +5202,6 @@
 *.illuminated-ebooks.com
 *.illuminationz.co
 *.illuminatisofficial.com
-*.ilnmy.top
 *.ilomobe.xyz
 *.ilovephp.top
 *.ilpollenza-sorso23.it
@@ -5380,7 +5358,6 @@
 *.iteraco.com
 *.itmdom.pl
 *.itrade.gg
-*.itribely.com
 *.flash.iubqx.com
 *.shop.iubqx.com
 *.iued.ch
@@ -10550,7 +10527,7 @@
 *.tes-ic.cloud
 *.tesauree.com
 *.tesento.com
-*.store.tesla-openai.com
+*.tesla-openai.com
 *.teslabestfor.com
 *.teslabounce.com
 *.teslabrc.com

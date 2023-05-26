@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1685049060 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1685136240 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 25 May 2023 21:11 UTC
-; Version: 2023.0525.2111.07
+; Last modified: 26 May 2023 21:24 UTC
+; Version: 2023.0526.2124.58
 ; Syntax: RPZ
-; Number of entries: 24534
+; Number of entries: 24488
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1541,10 +1541,8 @@ myspotifygifts.com.au CNAME .
 *.myspotifygifts.com.au CNAME .
 ozkart.com.au CNAME .
 *.ozkart.com.au CNAME .
-store.rsaonlinenow.com.au CNAME .
-*.store.rsaonlinenow.com.au CNAME .
-www.rsaonlinenow.com.au CNAME .
-*.www.rsaonlinenow.com.au CNAME .
+rsaonlinenow.com.au CNAME .
+*.rsaonlinenow.com.au CNAME .
 sowood.com.au CNAME .
 *.sowood.com.au CNAME .
 virtualgraffiti.com.au CNAME .
@@ -4889,8 +4887,8 @@ donnasharpbed.com CNAME .
 *.donnasharpbed.com CNAME .
 dooyshy.com CNAME .
 *.dooyshy.com CNAME .
-dopemelaninart.com CNAME .
-*.dopemelaninart.com CNAME .
+m.dopemelaninart.com CNAME .
+*.m.dopemelaninart.com CNAME .
 dopesnowosterreich.com CNAME .
 *.dopesnowosterreich.com CNAME .
 doremusicexport.com CNAME .
@@ -5479,8 +5477,6 @@ evermily.com CNAME .
 *.evermily.com CNAME .
 everyknives.com CNAME .
 *.everyknives.com CNAME .
-everythingkitchens.com CNAME .
-*.everythingkitchens.com CNAME .
 everythingsaltspring.com CNAME .
 *.everythingsaltspring.com CNAME .
 eviralstore.com CNAME .
@@ -5813,6 +5809,8 @@ fiewatch.com CNAME .
 *.fiewatch.com CNAME .
 fightingequip.com CNAME .
 *.fightingequip.com CNAME .
+filedenzu.com CNAME .
+*.filedenzu.com CNAME .
 filmero-de.com CNAME .
 *.filmero-de.com CNAME .
 filminihdizle.com CNAME .
@@ -6095,14 +6093,6 @@ fumekart.com CNAME .
 *.fumekart.com CNAME .
 funfunlego.com CNAME .
 *.funfunlego.com CNAME .
-fungalor.com CNAME .
-*.fungalor.com CNAME .
-funkenlb.com CNAME .
-*.funkenlb.com CNAME .
-m.gtsec.funstuffmail.com CNAME .
-*.m.gtsec.funstuffmail.com CNAME .
-www.gtsec.funstuffmail.com CNAME .
-*.www.gtsec.funstuffmail.com CNAME .
 funtali.com CNAME .
 *.funtali.com CNAME .
 funwol.com CNAME .
@@ -6157,8 +6147,6 @@ galaxiarch.com CNAME .
 *.galaxiarch.com CNAME .
 galaxuv.com CNAME .
 *.galaxuv.com CNAME .
-galileofx.com CNAME .
-*.galileofx.com CNAME .
 galyu.com CNAME .
 *.galyu.com CNAME .
 gamadino.com CNAME .
@@ -6241,6 +6229,8 @@ gearclover.com CNAME .
 *.gearclover.com CNAME .
 gearhomies.com CNAME .
 *.gearhomies.com CNAME .
+gearhuman.com CNAME .
+*.gearhuman.com CNAME .
 gearmarch.com CNAME .
 *.gearmarch.com CNAME .
 gearmountaineering.com CNAME .
@@ -6455,8 +6445,6 @@ glucksladen.com CNAME .
 *.glucksladen.com CNAME .
 gmethopoth.com CNAME .
 *.gmethopoth.com CNAME .
-gmtpcy.com CNAME .
-*.gmtpcy.com CNAME .
 gninim.com CNAME .
 *.gninim.com CNAME .
 gnomesdogo.com CNAME .
@@ -6667,12 +6655,8 @@ guessczonline.com CNAME .
 *.guessczonline.com CNAME .
 guides-eu.com CNAME .
 *.guides-eu.com CNAME .
-guilaiyoushe.com CNAME .
-*.guilaiyoushe.com CNAME .
 de.guillaume-marie.com CNAME .
 *.de.guillaume-marie.com CNAME .
-guiltyb.com CNAME .
-*.guiltyb.com CNAME .
 gunstee.com CNAME .
 *.gunstee.com CNAME .
 guntiony.com CNAME .
@@ -6693,8 +6677,6 @@ gutes-brennholz.com CNAME .
 *.gutes-brennholz.com CNAME .
 gutesbestes.com CNAME .
 *.gutesbestes.com CNAME .
-gutgegrillt.com CNAME .
-*.gutgegrillt.com CNAME .
 guy-mulhen.com CNAME .
 *.guy-mulhen.com CNAME .
 gvs-usa.com CNAME .
@@ -6713,8 +6695,6 @@ haarprofis.com CNAME .
 *.haarprofis.com CNAME .
 haberfasher.com CNAME .
 *.haberfasher.com CNAME .
-haceroberomaste.com CNAME .
-*.haceroberomaste.com CNAME .
 hachipethouse.com CNAME .
 *.hachipethouse.com CNAME .
 hagomann.com CNAME .
@@ -6785,8 +6765,6 @@ hasegawamodel.com CNAME .
 *.hasegawamodel.com CNAME .
 hatbabiie.com CNAME .
 *.hatbabiie.com CNAME .
-hatgaos.com CNAME .
-*.hatgaos.com CNAME .
 haufeltd.com CNAME .
 *.haufeltd.com CNAME .
 hauptapotheke.com CNAME .
@@ -7003,8 +6981,6 @@ holofor.com CNAME .
 *.holofor.com CNAME .
 holsingar.com CNAME .
 *.holsingar.com CNAME .
-vlor.holycrossmoravianchurch.com CNAME .
-*.vlor.holycrossmoravianchurch.com CNAME .
 holz-heizung-shop.com CNAME .
 *.holz-heizung-shop.com CNAME .
 holz-und-heizung.com CNAME .
@@ -7449,8 +7425,6 @@ itemsmerge.com CNAME .
 *.itemsmerge.com CNAME .
 iteraco.com CNAME .
 *.iteraco.com CNAME .
-itribely.com CNAME .
-*.itribely.com CNAME .
 flash.iubqx.com CNAME .
 *.flash.iubqx.com CNAME .
 shop.iubqx.com CNAME .
@@ -13253,8 +13227,8 @@ tesauree.com CNAME .
 *.tesauree.com CNAME .
 tesento.com CNAME .
 *.tesento.com CNAME .
-store.tesla-openai.com CNAME .
-*.store.tesla-openai.com CNAME .
+tesla-openai.com CNAME .
+*.tesla-openai.com CNAME .
 teslabestfor.com CNAME .
 *.teslabestfor.com CNAME .
 teslabounce.com CNAME .
@@ -16965,8 +16939,6 @@ friseur-schuberts.de CNAME .
 *.friseur-schuberts.de CNAME .
 fritzelektro.de CNAME .
 *.fritzelektro.de CNAME .
-ftx-store.de CNAME .
-*.ftx-store.de CNAME .
 fuechsefussball.de CNAME .
 *.fuechsefussball.de CNAME .
 fuehrungszeugnis-online-beantragen.de CNAME .
@@ -17097,8 +17069,6 @@ gma-2015.de CNAME .
 *.gma-2015.de CNAME .
 gobuybest.de CNAME .
 *.gobuybest.de CNAME .
-goertz-graef.de CNAME .
-*.goertz-graef.de CNAME .
 goetzwache.de CNAME .
 *.goetzwache.de CNAME .
 gohlke-shop.de CNAME .
@@ -17167,8 +17137,6 @@ goronti.de CNAME .
 *.goronti.de CNAME .
 gpjholzdesign.de CNAME .
 *.gpjholzdesign.de CNAME .
-gplate.de CNAME .
-*.gplate.de CNAME .
 grecoguitars.de CNAME .
 *.grecoguitars.de CNAME .
 greentec-handel.de CNAME .
@@ -21885,8 +21853,6 @@ harmanli-elektronik.shop CNAME .
 *.harmanli-elektronik.shop CNAME .
 hasunec.shop CNAME .
 *.hasunec.shop CNAME .
-hausprodukte.shop CNAME .
-*.hausprodukte.shop CNAME .
 haynestool.shop CNAME .
 *.haynestool.shop CNAME .
 hazelbath.shop CNAME .
@@ -21905,14 +21871,10 @@ herrerafood.shop CNAME .
 *.herrerafood.shop CNAME .
 hesjk.shop CNAME .
 *.hesjk.shop CNAME .
-hkriostur.shop CNAME .
-*.hkriostur.shop CNAME .
 hltieefet.shop CNAME .
 *.hltieefet.shop CNAME .
 hofner-versand.shop CNAME .
 *.hofner-versand.shop CNAME .
-hoglundelh.shop CNAME .
-*.hoglundelh.shop CNAME .
 hokaoneoneus.shop CNAME .
 *.hokaoneoneus.shop CNAME .
 hokasstore.shop CNAME .
@@ -21925,8 +21887,6 @@ homeyhaven.shop CNAME .
 *.homeyhaven.shop CNAME .
 honeying.shop CNAME .
 *.honeying.shop CNAME .
-hoodap.shop CNAME .
-*.hoodap.shop CNAME .
 hqbag.shop CNAME .
 *.hqbag.shop CNAME .
 hunomahome.shop CNAME .
@@ -23837,8 +23797,6 @@ giftmarket.top CNAME .
 *.giftmarket.top CNAME .
 giveproducts.top CNAME .
 *.giveproducts.top CNAME .
-goodservicss.top CNAME .
-*.goodservicss.top CNAME .
 groupinpolitics.top CNAME .
 *.groupinpolitics.top CNAME .
 happyish.top CNAME .
@@ -23847,12 +23805,8 @@ helptobuybest.top CNAME .
 *.helptobuybest.top CNAME .
 homeworkisnice.top CNAME .
 *.homeworkisnice.top CNAME .
-iamgru.top CNAME .
-*.iamgru.top CNAME .
 idonotlikewait.top CNAME .
 *.idonotlikewait.top CNAME .
-ilnmy.top CNAME .
-*.ilnmy.top CNAME .
 ilovephp.top CNAME .
 *.ilovephp.top CNAME .
 imedilove.top CNAME .
