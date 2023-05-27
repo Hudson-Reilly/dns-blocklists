@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 May 2023 21:16 UTC
-# Version: 2023.0526.2116.53
+# Last modified: 27 May 2023 21:11 UTC
+# Version: 2023.0527.2111.05
 # Syntax: Domains (without subdomains)
-# Number of entries: 6733
+# Number of entries: 6738
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -412,6 +412,7 @@ tracker.altrosky.nl
 amaderftp.net
 amateur-hour.net
 amazing-news.se
+ec2-18-191-163-220.us-east-2.compute.amazonaws.com
 ambits.org
 americansoccerarchives.com
 amrbd.com
@@ -1691,6 +1692,7 @@ tracker.dmcomic.org
 tracker.daydream.dmhy.best
 share.dmhy.org
 u2.dmhy.org
+dmitrynegoda.com
 dnbtracker.org
 dnetbd.com
 dnetdrive.com
@@ -1812,6 +1814,7 @@ tracker.dxdhd.com
 dylan-park.com
 irrenhaus.dyndns.dk
 aam-bt.dyns.cx
+thitgaluoc.dynu.net
 dyxz.org
 dzot.com
 e-booksland.com
@@ -2171,6 +2174,7 @@ flashbit.cc
 flashnetbd.com
 flashtorrents.org
 smtp.flawcra.cc
+fleira.no
 flenix.net
 flextorrents.com
 flixdump.com
@@ -2258,6 +2262,7 @@ freecracksoftwares.net
 freecrackzone.com
 freecztorrent.eu
 freedocumentaries.org
+freedomalternative.com
 freedomonlinebd.com
 freedownloadable.info
 freedownloadbd.com
@@ -2779,6 +2784,7 @@ ioshaven.com
 iosninja.io
 iosvizor.com
 ns331480.ip-37-187-121.eu
+ns575949.ip-51-222-82.net
 47.ip-51-68-199.eu
 ns349743.ip-91-121-106.eu
 ipacrack.com
@@ -2994,7 +3000,6 @@ kinomix.tv
 kinomob.com
 kinorun.com
 kinos.to
-kinotorrent.me
 kinotracker.org
 kinox.am
 kinox.bz
@@ -3114,7 +3119,6 @@ les-freres-ainsworth.com
 lesbians4u.org
 letitbit.net
 letiziagolosa.com
-bt1.letpo.com
 letsdecentralize.org
 letsroll911.org
 letsupload.co
@@ -3132,7 +3136,6 @@ licensekeys.org
 licensesnkey.com
 lickmytaint.com
 lien-torrent.com
-lifanmoe.net
 ligaxxi.xyz
 tracker.lilithraws.cf
 tracker.lilithraws.org
@@ -3221,7 +3224,6 @@ loushao.net
 tracker01.loveapp.com
 lovethescene.net
 warez.loxblog.com
-luckystarcomputer.net
 lumpysoft.com
 lumsoft.us
 lunchflix.com
@@ -3273,7 +3275,6 @@ magnetoo.io
 mahirbd.com
 mahou.org
 mahou-shoujo.moe
-majaa.net
 majomparade.com
 malacka.com
 mamahd.es
@@ -3317,7 +3318,6 @@ me-4u.com
 fs1.mebd.net
 mechopirate.com
 medbit.ru
-media-sharing.com
 media-torrent.org
 mediaboxbd.com
 mediaboxhd.net
@@ -3384,7 +3384,6 @@ midiplex.net
 midnight-scene.com
 midnight-torrents.com
 mikkisays.net
-milliontorrent.pl
 mindwarppavilion.org
 bt.mindwerks.net
 newvoyages.mine.nu
@@ -3409,7 +3408,6 @@ mixfiend.com
 mixonbd.com
 mixsoftware.ru
 mixtapetorrent.com
-mizzamy.com
 mkfs.ru
 mkvcage.bid
 mkvcage.com
@@ -3420,7 +3418,6 @@ mlbstreams.to
 mlcboard.com
 mlmsoftwarez.in
 trackers.mlsub.net
-mlwbd.life
 mlwbd.pw
 mma-core.com
 mma-torrents.com
@@ -3455,6 +3452,7 @@ tracker.monitorit4.me
 monkeystream.net
 w14.monkrus.ws
 zephir.monocul.us
+ns1.monolithindustries.com
 mononoke-bt.org
 monoschinos.com
 monova.org
@@ -3768,6 +3766,7 @@ netcomisp.net
 netemx.pl
 netexpressbd.com
 netinfobd.com
+netmap.top
 netmatrixbd.com
 netonlinebd.com
 netplusbd.com
@@ -3856,6 +3855,7 @@ nod321.com
 nod32sky.com
 nodata.tv
 htz3.noho.st
+ssb14.nohost.me
 nolatapers.org
 noobdownload.com
 noobsubs.com
@@ -3905,6 +3905,7 @@ nulljungle.com
 nullphp.net
 nullphpscript.com
 nullscriptfullz.com
+nullzone.fr
 nunuyy.cc
 nutorrent.com
 nw0.info
@@ -4319,6 +4320,7 @@ pollyflix.com
 polskitorrent.pl
 polycracks.com
 tracker.pomf.se
+62-210-114-129.rev.poneytelecom.eu
 popcorn-time.ch
 popcorn-time.se
 public.popcorn-tracker.org
@@ -4360,6 +4362,7 @@ predb.org
 predb.ovh
 predb.pw
 prefiles.com
+1c.premierzal.ru
 premium4free.org
 premiumwarez.com
 prescene.com
@@ -4376,6 +4379,7 @@ primewire.tf
 primewirestatus.org
 privatebits.org
 privatehd.to
+region.nl1.privex.cc
 privtracker.com
 prmovies.ch
 pro-evolution.org
@@ -5014,6 +5018,7 @@ smilestv.net
 smiritycable.com
 smokingintherain.us
 dn42.smrsh.net
+smurfsoft.com
 snagfilms.com
 snahp.it
 snakebytewarez.net

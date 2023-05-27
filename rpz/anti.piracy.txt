@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1685135760 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1685221860 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 26 May 2023 21:16 UTC
-; Version: 2023.0526.2116.53
+; Last modified: 27 May 2023 21:11 UTC
+; Version: 2023.0527.2111.05
 ; Syntax: RPZ
-; Number of entries: 13466
+; Number of entries: 13476
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -655,6 +655,8 @@ piratebay.cc CNAME .
 *.piratebay.cc CNAME .
 point-blank.cc CNAME .
 *.point-blank.cc CNAME .
+region.nl1.privex.cc CNAME .
+*.region.nl1.privex.cc CNAME .
 putlocker9.cc CNAME .
 *.putlocker9.cc CNAME .
 radioarchive.cc CNAME .
@@ -1373,6 +1375,8 @@ alt-torrent.com CNAME .
 *.alt-torrent.com CNAME .
 alterupload.com CNAME .
 *.alterupload.com CNAME .
+ec2-18-191-163-220.us-east-2.compute.amazonaws.com CNAME .
+*.ec2-18-191-163-220.us-east-2.compute.amazonaws.com CNAME .
 americansoccerarchives.com CNAME .
 *.americansoccerarchives.com CNAME .
 amrbd.com CNAME .
@@ -2301,6 +2305,8 @@ tracker.dler.com CNAME .
 *.tracker.dler.com CNAME .
 tracker2.dler.com CNAME .
 *.tracker2.dler.com CNAME .
+dmitrynegoda.com CNAME .
+*.dmitrynegoda.com CNAME .
 dnetbd.com CNAME .
 *.dnetbd.com CNAME .
 dnetdrive.com CNAME .
@@ -2635,6 +2641,8 @@ freecrackpatch.com CNAME .
 *.freecrackpatch.com CNAME .
 freecrackzone.com CNAME .
 *.freecrackzone.com CNAME .
+freedomalternative.com CNAME .
+*.freedomalternative.com CNAME .
 freedomonlinebd.com CNAME .
 *.freedomonlinebd.com CNAME .
 freedownloadbd.com CNAME .
@@ -3217,8 +3225,6 @@ les-freres-ainsworth.com CNAME .
 *.les-freres-ainsworth.com CNAME .
 letiziagolosa.com CNAME .
 *.letiziagolosa.com CNAME .
-bt1.letpo.com CNAME .
-*.bt1.letpo.com CNAME .
 libble.com CNAME .
 *.libble.com CNAME .
 licensesnkey.com CNAME .
@@ -3351,8 +3357,6 @@ me-4u.com CNAME .
 *.me-4u.com CNAME .
 mechopirate.com CNAME .
 *.mechopirate.com CNAME .
-media-sharing.com CNAME .
-*.media-sharing.com CNAME .
 mediaboxbd.com CNAME .
 *.mediaboxbd.com CNAME .
 mediafire.com CNAME .
@@ -3413,8 +3417,6 @@ mixonbd.com CNAME .
 *.mixonbd.com CNAME .
 mixtapetorrent.com CNAME .
 *.mixtapetorrent.com CNAME .
-mizzamy.com CNAME .
-*.mizzamy.com CNAME .
 mkvcage.com CNAME .
 *.mkvcage.com CNAME .
 mlcboard.com CNAME .
@@ -3433,6 +3435,8 @@ mojblink.com CNAME .
 *.mojblink.com CNAME .
 mojobb.com CNAME .
 *.mojobb.com CNAME .
+ns1.monolithindustries.com CNAME .
+*.ns1.monolithindustries.com CNAME .
 monoschinos.com CNAME .
 *.monoschinos.com CNAME .
 mooslo.com CNAME .
@@ -4335,6 +4339,8 @@ smartserials.com CNAME .
 *.smartserials.com CNAME .
 smiritycable.com CNAME .
 *.smiritycable.com CNAME .
+smurfsoft.com CNAME .
+*.smurfsoft.com CNAME .
 snagfilms.com CNAME .
 *.snagfilms.com CNAME .
 tracker.sneakyvidz.com CNAME .
@@ -5779,6 +5785,8 @@ olevod.eu CNAME .
 *.olevod.eu CNAME .
 pitbulltorrent.eu CNAME .
 *.pitbulltorrent.eu CNAME .
+62-210-114-129.rev.poneytelecom.eu CNAME .
+*.62-210-114-129.rev.poneytelecom.eu CNAME .
 predb.eu CNAME .
 *.predb.eu CNAME .
 prescene.eu CNAME .
@@ -5901,6 +5909,8 @@ lloria.fr CNAME .
 *.lloria.fr CNAME .
 megadl.fr CNAME .
 *.megadl.fr CNAME .
+nullzone.fr CNAME .
+*.nullzone.fr CNAME .
 psyco.fr CNAME .
 *.psyco.fr CNAME .
 rlsbb.fr CNAME .
@@ -6823,8 +6833,6 @@ flixtor.life CNAME .
 *.flixtor.life CNAME .
 tracker.jiesen.life CNAME .
 *.tracker.jiesen.life CNAME .
-mlwbd.life CNAME .
-*.mlwbd.life CNAME .
 piratebay.life CNAME .
 *.piratebay.life CNAME .
 yts.life CNAME .
@@ -7325,8 +7333,6 @@ javtorrent.me CNAME .
 *.javtorrent.me CNAME .
 jokerlivestream.me CNAME .
 *.jokerlivestream.me CNAME .
-kinotorrent.me CNAME .
-*.kinotorrent.me CNAME .
 kinox.me CNAME .
 *.kinox.me CNAME .
 kissseries.me CNAME .
@@ -7365,6 +7371,8 @@ tracker.nitrix.me CNAME .
 *.tracker.nitrix.me CNAME .
 nnm-club.me CNAME .
 *.nnm-club.me CNAME .
+ssb14.nohost.me CNAME .
+*.ssb14.nohost.me CNAME .
 tracker.nrx.me CNAME .
 *.tracker.nrx.me CNAME .
 omgtorrent.me CNAME .
@@ -8131,6 +8139,8 @@ duckwad.net CNAME .
 *.duckwad.net CNAME .
 dvdriprl.net CNAME .
 *.dvdriprl.net CNAME .
+thitgaluoc.dynu.net CNAME .
+*.thitgaluoc.dynu.net CNAME .
 tracker.e-utp.net CNAME .
 *.tracker.e-utp.net CNAME .
 eagletorrents.net CNAME .
@@ -8335,6 +8345,8 @@ media.infobd.net CNAME .
 *.media.infobd.net CNAME .
 tracker.internetwarriors.net CNAME .
 *.tracker.internetwarriors.net CNAME .
+ns575949.ip-51-222-82.net CNAME .
+*.ns575949.ip-51-222-82.net CNAME .
 iplayplus.net CNAME .
 *.iplayplus.net CNAME .
 ir2media.net CNAME .
@@ -8389,8 +8401,6 @@ letitbit.net CNAME .
 *.letitbit.net CNAME .
 libitina.net CNAME .
 *.libitina.net CNAME .
-lifanmoe.net CNAME .
-*.lifanmoe.net CNAME .
 linkgalleries.net CNAME .
 *.linkgalleries.net CNAME .
 linkinnet.net CNAME .
@@ -8405,8 +8415,6 @@ loushao.net CNAME .
 *.loushao.net CNAME .
 lovethescene.net CNAME .
 *.lovethescene.net CNAME .
-luckystarcomputer.net CNAME .
-*.luckystarcomputer.net CNAME .
 mabula.net CNAME .
 *.mabula.net CNAME .
 mac-torrent-download.net CNAME .
@@ -8417,8 +8425,6 @@ macwarez.net CNAME .
 *.macwarez.net CNAME .
 tracker.madassnews.net CNAME .
 *.tracker.madassnews.net CNAME .
-majaa.net CNAME .
-*.majaa.net CNAME .
 204.79.238.89.in-addr.arpa.manitu.net CNAME .
 *.204.79.238.89.in-addr.arpa.manitu.net CNAME .
 maroctorrent.net CNAME .
@@ -9299,6 +9305,8 @@ seehd.nl CNAME .
 *.seehd.nl CNAME .
 alpha.torrenttracker.nl CNAME .
 *.alpha.torrenttracker.nl CNAME .
+fleira.no CNAME .
+*.fleira.no CNAME .
 justpaid.co.nr CNAME .
 *.justpaid.co.nr CNAME .
 cuevana.nu CNAME .
@@ -10955,8 +10963,6 @@ hdseans.pl CNAME .
 *.hdseans.pl CNAME .
 megatorrent.pl CNAME .
 *.megatorrent.pl CNAME .
-milliontorrent.pl CNAME .
-*.milliontorrent.pl CNAME .
 netemx.pl CNAME .
 *.netemx.pl CNAME .
 rstorrent.org.pl CNAME .
@@ -11507,6 +11513,8 @@ pavv.ru CNAME .
 *.pavv.ru CNAME .
 pc-software.ru CNAME .
 *.pc-software.ru CNAME .
+1c.premierzal.ru CNAME .
+*.1c.premierzal.ru CNAME .
 prosmotr-filmov.ru CNAME .
 *.prosmotr-filmov.ru CNAME .
 pspstrana.ru CNAME .
@@ -12475,6 +12483,8 @@ mirrorbay.top CNAME .
 *.mirrorbay.top CNAME .
 motv.top CNAME .
 *.motv.top CNAME .
+netmap.top CNAME .
+*.netmap.top CNAME .
 piratbit.top CNAME .
 *.piratbit.top CNAME .
 piratebayproxy.top CNAME .
