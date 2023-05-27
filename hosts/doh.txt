@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 14 May 2023 22:06 UTC
-# Version: 2023.0514.2206.27
+# Last modified: 27 May 2023 21:08 UTC
+# Version: 2023.0527.2108.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 886
+# Number of entries: 885
 #
 0.0.0.0 ns.00dani.me
 0.0.0.0 dns.0ooo.icu
@@ -56,7 +56,6 @@
 0.0.0.0 family.adguard-dns.com
 0.0.0.0 unfiltered.adguard-dns.com
 0.0.0.0 adguard-server.cf
-0.0.0.0 adguardh.ga
 0.0.0.0 sg.adhole.org
 0.0.0.0 uk.adhole.org
 0.0.0.0 us-central.adhole.org

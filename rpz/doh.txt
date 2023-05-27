@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1684101960 86400 3600 604800 30
+@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1685221680 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 14 May 2023 22:06 UTC
-; Version: 2023.0514.2206.27
+; Last modified: 27 May 2023 21:08 UTC
+; Version: 2023.0527.2108.03
 ; Syntax: RPZ
-; Number of entries: 1522
+; Number of entries: 1520
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -752,8 +752,6 @@ pates.services.sfr.fr.casepp.sfr.fr CNAME .
 *.pates.services.sfr.fr.casepp.sfr.fr CNAME .
 axaxa.fun CNAME .
 *.axaxa.fun CNAME .
-adguardh.ga CNAME .
-*.adguardh.ga CNAME .
 cossxiu.ga CNAME .
 *.cossxiu.ga CNAME .
 groupy.ga CNAME .
