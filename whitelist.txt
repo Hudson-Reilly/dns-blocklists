@@ -3524,3 +3524,9 @@ ivantiinnovators.influitive.com
 # https://github.com/hagezi/dns-blocklists/issues/1083
 playhydrax.com
 
+# https://github.com/hagezi/dns-blocklists/issues/1086
+freeprivacypolicy.com
+
+# https://github.com/hagezi/dns-blocklists/issues/1085
+scotts-grotto.org
+

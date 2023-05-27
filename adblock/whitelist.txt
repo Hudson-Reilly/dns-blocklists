@@ -3848,3 +3848,11 @@
 @@|playhydrax.com^
 @@|www.playhydrax.com^
 
+! https://github.com/hagezi/dns-blocklists/issues/1086
+@@|freeprivacypolicy.com^
+@@|www.freeprivacypolicy.com^
+
+! https://github.com/hagezi/dns-blocklists/issues/1085
+@@|scotts-grotto.org^
+@@|www.scotts-grotto.org^
+
