@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 May 2023 21:19 UTC
-# Version: 2023.0526.2119.05
+# Last modified: 27 May 2023 21:13 UTC
+# Version: 2023.0527.2113.00
 # Syntax: Domains (without subdomains)
-# Number of entries: 84748
+# Number of entries: 84683
 #
 000000tyc.com
 00001111hlcp1111.com
@@ -61730,7 +61730,6 @@ jdb66.vip
 jdb66b.com
 jdb66d.com
 jdb66k.com
-jdbw18.com
 jdj777.com
 jdl3388.com
 jds7yxaw.vip
@@ -62015,7 +62014,6 @@ jjx2021.com
 jjxvip1.com
 jjxvip2.com
 jjzxff.xyz
-jjzzxy.com
 jk1597.com
 jk2569.com
 jkad551kdnv52cks.com
@@ -62685,7 +62683,6 @@ k6631.vip
 k6632.vip
 k6637.vip
 k6652.vip
-k6657.vip
 k6662.vip
 k6665.vip
 k6669.vip
@@ -62749,7 +62746,6 @@ k8.games
 k8.reviews
 k8.social
 k8-im-ap02.com
-k8-vn.com
 k800800.com
 k800a.com
 k800l.com
@@ -63527,16 +63523,6 @@ k8thbet.com
 k8thbet.net
 k8thethao.com
 k8thethao.net
-k8thethaok8.com
-k8thethaok801.com
-k8thethaok802.com
-k8thethaok803.com
-k8thethaok804.com
-k8thethaok805.com
-k8thethaok806.com
-k8thethaok807.com
-k8thethaok808.com
-k8thethaok809.com
 k8thethaovua.com
 k8tip.com
 k8tip01.com
@@ -64128,7 +64114,6 @@ k8vn.space
 k8vn.website
 k8vn.work
 k8vn.world
-k8vn-casino.com
 k8vn001.com
 k8vn002.com
 k8vn003.com
@@ -64188,46 +64173,20 @@ k8vn33.com
 k8vn36.com
 k8vn365.com
 k8vn37.com
-k8vn38.com
-k8vn39.com
-k8vn50.com
 k8vn5001.com
 k8vn5002.com
 k8vn5003.com
 k8vn5005.com
-k8vn51.com
-k8vn52.com
-k8vn53.com
-k8vn54.com
-k8vn55.com
-k8vn56.com
 k8vn568.com
-k8vn57.com
-k8vn58.com
 k8vn588.com
-k8vn59.com
-k8vn60.com
-k8vn61.com
-k8vn62.com
-k8vn63.com
-k8vn64.com
-k8vn65.com
 k8vn66.com
 k8vn666.com
 k8vn6688.com
-k8vn67.com
 k8vn68.com
 k8vn68.net
-k8vn80.com
-k8vn80.net
-k8vn86.net
 k8vn88.com
-k8vn88.net
 k8vn888.com
 k8vn8888.com
-k8vn89.net
-k8vn96.net
-k8vn98.net
 k8vn99.com
 k8vn999.com
 k8vn9999.com
@@ -64540,12 +64499,10 @@ kaboo.com
 kaerka07.com
 kah6bd.com
 kai79cc.com
-kaidag.com
 kaifalali.com
 kaigeba8.com
 kaijeow.com
 kailingke.com
-kaipaoche.com
 kaiserslots.com
 kaishi05.com
 kaishi07.com
@@ -64838,8 +64795,6 @@ kimsa98.com
 m.kimsa9888.com
 kimvegas.com
 king460.com
-king66.vin
-king668.vip
 king96.net
 kingbet86.app
 kingbet86.com
@@ -65405,7 +65360,6 @@ klik4d.asia
 klik4d.club
 klik4d.com
 klik4d.link
-klik4d.top
 klik4d.xyz
 klik4donline.com
 klik4dtogel.net
@@ -65707,7 +65661,6 @@ ksvip15.com
 kt46.com
 kt88.pro
 ktcaijing.com
-ktgsq723.com
 ktnjvue.com
 kto.asia
 kto.com
@@ -65745,7 +65698,6 @@ ktovn.app
 ktovn.com
 ktovn.net
 ktovn.org
-ktovn.xyz
 ktowc.com
 ktowc2022.com
 kts9l.com
@@ -65831,7 +65783,6 @@ ku8289.com
 ku8468.com
 ku86868.com
 ku888.one
-ku888club.mobi
 ku89.fun
 ku89.icu
 ku90688.com
@@ -65967,13 +65918,11 @@ ky29.cn
 ky29.com
 ky29.top
 ky45672.com
-ky5187.com
 ky58277.com
 ky65h1.com
 ky65h2.com
 ky65h3.com
 ky68qk.com
-ky8-9.com
 ky82811.com
 ky83088.com
 ky88188.com
@@ -65991,8 +65940,6 @@ kyqp555.com
 kyqp666.com
 kyqp9460.vip
 kyqp999.com
-kyty013.com
-kyty022.com
 kyty11.app
 kyty12.app
 kyty13.app
@@ -66035,7 +65982,6 @@ l4y73mvif.com
 l51.bet
 l51234.com
 l51bet.bet
-l5359.com
 l5454.com
 l6439.com
 l69.me
@@ -66077,7 +66023,6 @@ lai52.com
 lai777.com
 lai85.com
 laifun88.com
-lailiao.top
 laite89.com
 laiting120.com
 laixin66.com
@@ -66136,7 +66081,6 @@ ldbuzacf.com
 ldchata288.com
 ldfunny723.com
 ldkai.com
-ldm951231.vip
 ldowo839.com
 ldsport305.com
 ldss888.com
@@ -66544,11 +66488,8 @@ lll9416.com
 lllgll.xyz
 llll5454.com
 llmccm.xyz
-llmmd005.com
-llmmd006.com
 llmmd55.com
 llqljq.xyz
-llyq8866.com
 llyq9988.com
 lm01tv.com
 lm02tv.com
@@ -67502,7 +67443,6 @@ m4ze97p.com
 m51.bet
 m5328423.xyz
 m5342616.xyz
-m5359.com
 m54647832.xyz
 m5587u.click
 m574191.xyz
@@ -67679,9 +67619,6 @@ maibpenrai.com
 maidsda1232.com
 mailingcent.site
 mailingcent.xyz
-maimai888a.xyz
-maimai888b.xyz
-maimaiappa.xyz
 maimaiappaa.xyz
 maimaiappab.xyz
 main580.com
@@ -67778,7 +67715,6 @@ maqyj.com
 marathonbet.com
 mariacasino.com
 markjarvisbet.com
-markloz3.net
 marlasvegas.com
 maroonwater238.com
 marparty.xyz
@@ -67795,7 +67731,6 @@ match-point.it
 matchbets.com
 matchbook.com
 mathuong.com
-mavibet561.com
 max4ball.com
 max68.club
 maxbet.id

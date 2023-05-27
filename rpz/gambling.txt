@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1685135940 86400 3600 604800 30
+@ SOA rpz.hagezi.gambling. hostmaster.hagezi.gambling. 1685221980 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Gambling DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 26 May 2023 21:19 UTC
-; Version: 2023.0526.2119.05
+; Last modified: 27 May 2023 21:13 UTC
+; Version: 2023.0527.2113.00
 ; Syntax: RPZ
-; Number of entries: 169496
+; Number of entries: 169366
 ;
 kubet.ac CNAME .
 *.kubet.ac CNAME .
@@ -108133,8 +108133,6 @@ jdb66d.com CNAME .
 *.jdb66d.com CNAME .
 jdb66k.com CNAME .
 *.jdb66k.com CNAME .
-jdbw18.com CNAME .
-*.jdbw18.com CNAME .
 jdj777.com CNAME .
 *.jdj777.com CNAME .
 jdl3388.com CNAME .
@@ -108629,8 +108627,6 @@ jjxvip1.com CNAME .
 *.jjxvip1.com CNAME .
 jjxvip2.com CNAME .
 *.jjxvip2.com CNAME .
-jjzzxy.com CNAME .
-*.jjzzxy.com CNAME .
 jk1597.com CNAME .
 *.jk1597.com CNAME .
 jk2569.com CNAME .
@@ -109835,8 +109831,6 @@ k789365.com CNAME .
 *.k789365.com CNAME .
 k8-im-ap02.com CNAME .
 *.k8-im-ap02.com CNAME .
-k8-vn.com CNAME .
-*.k8-vn.com CNAME .
 k800800.com CNAME .
 *.k800800.com CNAME .
 k800a.com CNAME .
@@ -111321,26 +111315,6 @@ k8thbet.com CNAME .
 *.k8thbet.com CNAME .
 k8thethao.com CNAME .
 *.k8thethao.com CNAME .
-k8thethaok8.com CNAME .
-*.k8thethaok8.com CNAME .
-k8thethaok801.com CNAME .
-*.k8thethaok801.com CNAME .
-k8thethaok802.com CNAME .
-*.k8thethaok802.com CNAME .
-k8thethaok803.com CNAME .
-*.k8thethaok803.com CNAME .
-k8thethaok804.com CNAME .
-*.k8thethaok804.com CNAME .
-k8thethaok805.com CNAME .
-*.k8thethaok805.com CNAME .
-k8thethaok806.com CNAME .
-*.k8thethaok806.com CNAME .
-k8thethaok807.com CNAME .
-*.k8thethaok807.com CNAME .
-k8thethaok808.com CNAME .
-*.k8thethaok808.com CNAME .
-k8thethaok809.com CNAME .
-*.k8thethaok809.com CNAME .
 k8thethaovua.com CNAME .
 *.k8thethaovua.com CNAME .
 k8tip.com CNAME .
@@ -112479,8 +112453,6 @@ k8vivip99.com CNAME .
 *.k8vivip99.com CNAME .
 k8vn.com CNAME .
 *.k8vn.com CNAME .
-k8vn-casino.com CNAME .
-*.k8vn-casino.com CNAME .
 k8vn001.com CNAME .
 *.k8vn001.com CNAME .
 k8vn002.com CNAME .
@@ -112599,12 +112571,6 @@ k8vn365.com CNAME .
 *.k8vn365.com CNAME .
 k8vn37.com CNAME .
 *.k8vn37.com CNAME .
-k8vn38.com CNAME .
-*.k8vn38.com CNAME .
-k8vn39.com CNAME .
-*.k8vn39.com CNAME .
-k8vn50.com CNAME .
-*.k8vn50.com CNAME .
 k8vn5001.com CNAME .
 *.k8vn5001.com CNAME .
 k8vn5002.com CNAME .
@@ -112613,52 +112579,18 @@ k8vn5003.com CNAME .
 *.k8vn5003.com CNAME .
 k8vn5005.com CNAME .
 *.k8vn5005.com CNAME .
-k8vn51.com CNAME .
-*.k8vn51.com CNAME .
-k8vn52.com CNAME .
-*.k8vn52.com CNAME .
-k8vn53.com CNAME .
-*.k8vn53.com CNAME .
-k8vn54.com CNAME .
-*.k8vn54.com CNAME .
-k8vn55.com CNAME .
-*.k8vn55.com CNAME .
-k8vn56.com CNAME .
-*.k8vn56.com CNAME .
 k8vn568.com CNAME .
 *.k8vn568.com CNAME .
-k8vn57.com CNAME .
-*.k8vn57.com CNAME .
-k8vn58.com CNAME .
-*.k8vn58.com CNAME .
 k8vn588.com CNAME .
 *.k8vn588.com CNAME .
-k8vn59.com CNAME .
-*.k8vn59.com CNAME .
-k8vn60.com CNAME .
-*.k8vn60.com CNAME .
-k8vn61.com CNAME .
-*.k8vn61.com CNAME .
-k8vn62.com CNAME .
-*.k8vn62.com CNAME .
-k8vn63.com CNAME .
-*.k8vn63.com CNAME .
-k8vn64.com CNAME .
-*.k8vn64.com CNAME .
-k8vn65.com CNAME .
-*.k8vn65.com CNAME .
 k8vn66.com CNAME .
 *.k8vn66.com CNAME .
 k8vn666.com CNAME .
 *.k8vn666.com CNAME .
 k8vn6688.com CNAME .
 *.k8vn6688.com CNAME .
-k8vn67.com CNAME .
-*.k8vn67.com CNAME .
 k8vn68.com CNAME .
 *.k8vn68.com CNAME .
-k8vn80.com CNAME .
-*.k8vn80.com CNAME .
 k8vn88.com CNAME .
 *.k8vn88.com CNAME .
 k8vn888.com CNAME .
@@ -113269,8 +113201,6 @@ kah6bd.com CNAME .
 *.kah6bd.com CNAME .
 kai79cc.com CNAME .
 *.kai79cc.com CNAME .
-kaidag.com CNAME .
-*.kaidag.com CNAME .
 kaifalali.com CNAME .
 *.kaifalali.com CNAME .
 kaigeba8.com CNAME .
@@ -113279,8 +113209,6 @@ kaijeow.com CNAME .
 *.kaijeow.com CNAME .
 kailingke.com CNAME .
 *.kailingke.com CNAME .
-kaipaoche.com CNAME .
-*.kaipaoche.com CNAME .
 kaiserslots.com CNAME .
 *.kaiserslots.com CNAME .
 kaishi05.com CNAME .
@@ -115353,8 +115281,6 @@ kt46.com CNAME .
 *.kt46.com CNAME .
 ktcaijing.com CNAME .
 *.ktcaijing.com CNAME .
-ktgsq723.com CNAME .
-*.ktgsq723.com CNAME .
 ktnjvue.com CNAME .
 *.ktnjvue.com CNAME .
 kto.com CNAME .
@@ -115611,8 +115537,6 @@ ky29.com CNAME .
 *.ky29.com CNAME .
 ky45672.com CNAME .
 *.ky45672.com CNAME .
-ky5187.com CNAME .
-*.ky5187.com CNAME .
 ky58277.com CNAME .
 *.ky58277.com CNAME .
 ky65h1.com CNAME .
@@ -115623,8 +115547,6 @@ ky65h3.com CNAME .
 *.ky65h3.com CNAME .
 ky68qk.com CNAME .
 *.ky68qk.com CNAME .
-ky8-9.com CNAME .
-*.ky8-9.com CNAME .
 ky82811.com CNAME .
 *.ky82811.com CNAME .
 ky83088.com CNAME .
@@ -115641,10 +115563,6 @@ kyqp666.com CNAME .
 *.kyqp666.com CNAME .
 kyqp999.com CNAME .
 *.kyqp999.com CNAME .
-kyty013.com CNAME .
-*.kyty013.com CNAME .
-kyty022.com CNAME .
-*.kyty022.com CNAME .
 kyun52.com CNAME .
 *.kyun52.com CNAME .
 kyun53.com CNAME .
@@ -115699,8 +115617,6 @@ l4y73mvif.com CNAME .
 *.l4y73mvif.com CNAME .
 l51234.com CNAME .
 *.l51234.com CNAME .
-l5359.com CNAME .
-*.l5359.com CNAME .
 l5454.com CNAME .
 *.l5454.com CNAME .
 l6439.com CNAME .
@@ -116413,14 +116329,8 @@ lll9416.com CNAME .
 *.lll9416.com CNAME .
 llll5454.com CNAME .
 *.llll5454.com CNAME .
-llmmd005.com CNAME .
-*.llmmd005.com CNAME .
-llmmd006.com CNAME .
-*.llmmd006.com CNAME .
 llmmd55.com CNAME .
 *.llmmd55.com CNAME .
-llyq8866.com CNAME .
-*.llyq8866.com CNAME .
 llyq9988.com CNAME .
 *.llyq9988.com CNAME .
 lm01tv.com CNAME .
@@ -117961,8 +117871,6 @@ m464646.com CNAME .
 *.m464646.com CNAME .
 m4ze97p.com CNAME .
 *.m4ze97p.com CNAME .
-m5359.com CNAME .
-*.m5359.com CNAME .
 m5hash.com CNAME .
 *.m5hash.com CNAME .
 m6439.com CNAME .
@@ -118401,8 +118309,6 @@ matchbook.com CNAME .
 *.matchbook.com CNAME .
 mathuong.com CNAME .
 *.mathuong.com CNAME .
-mavibet561.com CNAME .
-*.mavibet561.com CNAME .
 max4ball.com CNAME .
 *.max4ball.com CNAME .
 maxbetmaxbetmaxbet.com CNAME .
@@ -148309,8 +148215,6 @@ jbo.mobi CNAME .
 *.jbo.mobi CNAME .
 ktokto.mobi CNAME .
 *.ktokto.mobi CNAME .
-ku888club.mobi CNAME .
-*.ku888club.mobi CNAME .
 kubet.mobi CNAME .
 *.kubet.mobi CNAME .
 kucasino.mobi CNAME .
@@ -151445,18 +151349,6 @@ k8vip88.net CNAME .
 *.k8vip88.net CNAME .
 k8vn68.net CNAME .
 *.k8vn68.net CNAME .
-k8vn80.net CNAME .
-*.k8vn80.net CNAME .
-k8vn86.net CNAME .
-*.k8vn86.net CNAME .
-k8vn88.net CNAME .
-*.k8vn88.net CNAME .
-k8vn89.net CNAME .
-*.k8vn89.net CNAME .
-k8vn96.net CNAME .
-*.k8vn96.net CNAME .
-k8vn98.net CNAME .
-*.k8vn98.net CNAME .
 k8vnaaa111.net CNAME .
 *.k8vnaaa111.net CNAME .
 k8win888.net CNAME .
@@ -151793,8 +151685,6 @@ majorbet.net CNAME .
 *.majorbet.net CNAME .
 manclub1.net CNAME .
 *.manclub1.net CNAME .
-markloz3.net CNAME .
-*.markloz3.net CNAME .
 maxpharm.net CNAME .
 *.maxpharm.net CNAME .
 mayclub.net CNAME .
@@ -158037,16 +157927,12 @@ j49449.top CNAME .
 *.j49449.top CNAME .
 j76776.top CNAME .
 *.j76776.top CNAME .
-klik4d.top CNAME .
-*.klik4d.top CNAME .
 kucasino.top CNAME .
 *.kucasino.top CNAME .
 ky29.top CNAME .
 *.ky29.top CNAME .
 kypek.top CNAME .
 *.kypek.top CNAME .
-lailiao.top CNAME .
-*.lailiao.top CNAME .
 ligangmeiyudh.top CNAME .
 *.ligangmeiyudh.top CNAME .
 linkslot7000.top CNAME .
@@ -159085,8 +158971,6 @@ jun88.vin CNAME .
 *.jun88.vin CNAME .
 kc99.vin CNAME .
 *.kc99.vin CNAME .
-king66.vin CNAME .
-*.king66.vin CNAME .
 kubet11.vin CNAME .
 *.kubet11.vin CNAME .
 lucky88.vin CNAME .
@@ -163921,8 +163805,6 @@ k6637.vip CNAME .
 *.k6637.vip CNAME .
 k6652.vip CNAME .
 *.k6652.vip CNAME .
-k6657.vip CNAME .
-*.k6657.vip CNAME .
 k6662.vip CNAME .
 *.k6662.vip CNAME .
 k6665.vip CNAME .
@@ -163973,8 +163855,6 @@ keyone.vip CNAME .
 *.keyone.vip CNAME .
 kimhaksoo.vip CNAME .
 *.kimhaksoo.vip CNAME .
-king668.vip CNAME .
-*.king668.vip CNAME .
 ks1.vip CNAME .
 *.ks1.vip CNAME .
 ks117.vip CNAME .
@@ -164019,8 +163899,6 @@ la66.vip CNAME .
 *.la66.vip CNAME .
 ld53.vip CNAME .
 *.ld53.vip CNAME .
-ldm951231.vip CNAME .
-*.ldm951231.vip CNAME .
 lghn.vip CNAME .
 *.lghn.vip CNAME .
 lhx0003.vip CNAME .
@@ -167737,8 +167615,6 @@ krrkkr.xyz CNAME .
 *.krrkkr.xyz CNAME .
 ktovie.xyz CNAME .
 *.ktovie.xyz CNAME .
-ktovn.xyz CNAME .
-*.ktovn.xyz CNAME .
 kucudia.xyz CNAME .
 *.kucudia.xyz CNAME .
 kuuuxl.xyz CNAME .
@@ -167919,12 +167795,6 @@ m97482.xyz CNAME .
 *.m97482.xyz CNAME .
 mailingcent.xyz CNAME .
 *.mailingcent.xyz CNAME .
-maimai888a.xyz CNAME .
-*.maimai888a.xyz CNAME .
-maimai888b.xyz CNAME .
-*.maimai888b.xyz CNAME .
-maimaiappa.xyz CNAME .
-*.maimaiappa.xyz CNAME .
 maimaiappaa.xyz CNAME .
 *.maimaiappaa.xyz CNAME .
 maimaiappab.xyz CNAME .
