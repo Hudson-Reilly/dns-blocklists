@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 26 May 2023 21:24 UTC
-# Version: 2023.0526.2124.58
+# Last modified: 27 May 2023 21:18 UTC
+# Version: 2023.0527.2118.31
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12244
+# Number of entries: 12220
 #
 *.100-solarni-lampa-cz.com
 *.11trikots.com
@@ -1036,7 +1036,6 @@
 *.berlinbaum.com
 *.berlinbeardeal.de
 *.berliner-laden.de
-*.berlinermode.shop
 *.berlinosa.de
 *.berlinpellets.com
 *.berndundgiselarenz.de
@@ -3288,7 +3287,7 @@
 *.elsacraft.shop
 *.elsaster.com
 *.elsnerholz.com
-*.elspeth.top
+*.m.elspeth.top
 *.eltordotango.com
 *.eluxuryonline.com
 *.elvira.top
@@ -5388,7 +5387,6 @@
 *.jakkesalgs.com
 *.jakkesnorge.com
 *.jalpakhabar.com
-*.m.jamilabra.net
 *.jampastey.com
 *.jamunto.de
 *.janainalbenafsij.com
@@ -5403,7 +5401,6 @@
 *.jaygeesj.com
 *.jazzfantasy.it
 *.jbfilm.pl
-*.jbjqzssht.com
 *.jdfashionstore.com
 *.jdsportt.com
 *.jdsportwearz.com
@@ -5431,7 +5428,6 @@
 *.jerseysalesstore.com
 *.jerseyviponline.net
 *.jersport.com
-*.m.jervae.shop
 *.jessiegreer.shop
 *.jetelern.com
 *.jeuliagold.com
@@ -5455,7 +5451,6 @@
 *.jjhaka.top
 *.jjohnjagler.shop
 *.jjslight.com
-*.jkarnil.com
 *.jkihommag.shop
 *.jlbreuer-shop.de
 *.jlgdr.shop
@@ -5477,7 +5472,6 @@
 *.johnghoops.com
 *.joiceclothing.shop
 *.join2musk.com
-*.joinyous.com
 *.joival.us
 *.jojocrystal.com
 *.jojolikes.com
@@ -5549,7 +5543,6 @@
 *.jvp-amstetten.at
 *.jw-boutique.com
 *.jxac.shop
-*.k-nj.com
 *.k-tozluxury.shop
 *.k2skigear.com
 *.k3fenster.at
@@ -5580,7 +5573,6 @@
 *.kamagradokter.nl
 *.kaminholzgmbh.com
 *.kaminholzholzofen.de
-*.kaminsky-shop.de
 *.kammerjaeger7d.at
 *.kamoni.de
 *.kamuhane.com
@@ -5603,7 +5595,6 @@
 *.karate-innsbruck.at
 *.karcherdepo.com
 *.karcheroutlets.com
-*.karchgeraete.com
 *.karen-vuong.com
 *.karicatie.com
 *.karin-selest.com
@@ -5684,7 +5675,6 @@
 *.kenmoy.com
 *.kennelschmengersandalen.de
 *.kentoca.com
-*.kernekom.com
 *.kernrad.de
 *.kerrypigment.xyz
 *.kessl-teufel.at
@@ -5804,7 +5794,6 @@
 *.kleider-24.de
 *.kleine-freundin.com
 *.kleinesschaetzchen.de
-*.kleinheidt.de
 *.klempner-notdienst.net
 *.kletternalpinismus.de
 *.klgm-eiche.de
@@ -5933,7 +5922,6 @@
 *.kundigenbei.at
 *.kunstpanorama.de
 *.kunstzeit-ruhr.de
-*.m.kuosern.com
 *.kupferstadl.at
 *.kupparfem.com
 *.kurpiezielone.pl
@@ -5948,7 +5936,6 @@
 *.kyoshorc.com
 *.kzv-kirdorf.de
 *.labetcod.com
-*.labogi.com
 *.laboitenomade.de
 *.labormall9us.com
 *.laborversorger.de
@@ -6009,7 +5996,6 @@
 *.landrope.com
 *.lanelamps.shop
 *.langhtwait.top
-*.lanka-money-transfer.de
 *.lankagrandtours.com
 *.lapadeal.com
 *.lappjantan.com
@@ -6123,7 +6109,6 @@
 *.leoclothing.shop
 *.leohome.shop
 *.leonacraig.shop
-*.leonstadler.de
 *.leopold-mode.com
 *.lericettedifrancy74.com
 *.lertters.com
@@ -6241,7 +6226,6 @@
 *.littlemaryshoe.com
 *.littleroo.us
 *.littlesraintoy.shop
-*.liudadaa.com
 *.liveidu.com
 *.livelearningzone.com
 *.livetimee.com
@@ -6363,7 +6347,6 @@
 *.lucklby.com
 *.luckmoons.com
 *.lucknocker.com
-*.luckycafe.store
 *.luckydaybet99.com
 *.luckylliquidation.com
 *.luckysaleonline.com
@@ -6440,7 +6423,6 @@
 *.mach-finca-urlaub.com
 *.machart-durlach.de
 *.maclakshmeshwar.com
-*.macoser.top
 *.mad-max-vd-brunnengaerten.de
 *.madeinusas.com
 *.madrasbazaar.com
@@ -6505,7 +6487,6 @@
 *.manpillen.de
 *.mansworldde.com
 *.manualsguru.com
-*.manuela-ley.de
 *.mapping-utilities.at
 *.marashhome.de
 *.marcellomielno.pl
@@ -6647,7 +6628,6 @@
 *.medianeptun.com
 *.mediascreen.at
 *.mediashopch.com
-*.medicalbasic.de
 *.medicine-online.org
 *.medicphytos.com
 *.medics-shop.net
@@ -6668,8 +6648,6 @@
 *.medirezept.net
 *.medirezept.shop
 *.medivaa.com
-*.medizin-rezeptfrei.net
-*.medlines.fr
 *.medplay.de
 *.meds24.top
 *.meertickets.de
@@ -6707,7 +6685,6 @@
 *.meinehilfe.at
 *.meineprojektoren.com
 *.meinkleinesdepot.com
-*.meinoel24.com
 *.meinshirts.de
 *.meisteralles.de
 *.meisterb.top
@@ -6921,7 +6898,6 @@
 *.mode-stern.com
 *.modeackermann.de
 *.modebogner.de
-*.modeboutique.store
 *.modeengels.de
 *.modefinds.com
 *.modehaus-muenchen.de
