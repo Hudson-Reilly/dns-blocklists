@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 26 May 2023 21:12 UTC
-# Version: 2023.0526.2112.52
+# Last modified: 27 May 2023 21:06 UTC
+# Version: 2023.0527.2106.30
 # Syntax: DNSMasq
-# Number of entries: 2128
+# Number of entries: 2127
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -88,7 +88,6 @@ address=/dns-unfiltered.adguard.com/#
 address=/adguard-dns.com/#
 address=/adguard-server.cf/#
 address=/adguard-vpn.com/#
-address=/adguardh.ga/#
 address=/sg.adhole.org/#
 address=/uk.adhole.org/#
 address=/us-central.adhole.org/#
