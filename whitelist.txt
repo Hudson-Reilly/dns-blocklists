@@ -3530,3 +3530,6 @@ freeprivacypolicy.com
 # https://github.com/hagezi/dns-blocklists/issues/1085
 scotts-grotto.org
 
+#
+boyter.org
+
