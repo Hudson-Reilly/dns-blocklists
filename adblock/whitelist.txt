@@ -3856,7 +3856,14 @@
 @@|scotts-grotto.org^
 @@|www.scotts-grotto.org^
 
-!
+! Blog
 @@|boyter.org^
 @@|www.boyter.org^
+
+! https://github.com/hagezi/dns-blocklists/issues/1087
+@@|cmp.osano.com^
+
+! Testing glasses on misterspex.de
+@@||api.ditto.com^
+
 
