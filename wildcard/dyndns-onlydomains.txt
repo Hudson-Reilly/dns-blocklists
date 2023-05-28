@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 24 May 2023 21:37 UTC
-# Version: 2023.0524.2137.54
+# Last modified: 28 May 2023 21:09 UTC
+# Version: 2023.0528.2109.16
 # Syntax: Domains (without subdomains)
-# Number of entries: 1556
+# Number of entries: 1555
 #
 0000000000000000000000.com
 0rg.us
@@ -1168,7 +1168,6 @@ pgafan.net
 phenixs.org
 photo-cult.com
 photo-frame.com
-php-dev.net
 pibase.net
 pics.mu
 pihpc.com
