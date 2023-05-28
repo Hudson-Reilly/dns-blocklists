@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1685221560 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1685307960 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 27 May 2023 21:06 UTC
-; Version: 2023.0527.2106.30
+; Last modified: 28 May 2023 21:06 UTC
+; Version: 2023.0528.2106.16
 ; Syntax: RPZ
-; Number of entries: 4254
+; Number of entries: 4244
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -2965,8 +2965,6 @@ odoh-target-noads-se.alekberg.net CNAME .
 *.odoh-target-noads-se.alekberg.net CNAME .
 odoh-target-se.alekberg.net CNAME .
 *.odoh-target-se.alekberg.net CNAME .
-adguard.ambiya.net CNAME .
-*.adguard.ambiya.net CNAME .
 anchorfree.net CNAME .
 *.anchorfree.net CNAME .
 anonymous-proxies.net CNAME .
@@ -3459,8 +3457,6 @@ zenvpn.net CNAME .
 *.zenvpn.net CNAME .
 zscalertwo.net CNAME .
 *.zscalertwo.net CNAME .
-dns.edgy.network CNAME .
-*.dns.edgy.network CNAME .
 freedom.mydns.network CNAME .
 *.freedom.mydns.network CNAME .
 dns.unerror.network CNAME .
@@ -3675,8 +3671,6 @@ vpn.mozilla.org CNAME .
 *.vpn.mozilla.org CNAME .
 myproxysite.org CNAME .
 *.myproxysite.org CNAME .
-myspace-unblocker.org CNAME .
-*.myspace-unblocker.org CNAME .
 area51.mywire.org CNAME .
 *.area51.mywire.org CNAME .
 dns.neutopia.org CNAME .
@@ -4241,10 +4235,6 @@ pantavv.xyz CNAME .
 *.pantavv.xyz CNAME .
 pantoto.xyz CNAME .
 *.pantoto.xyz CNAME .
-panyyhh.xyz CNAME .
-*.panyyhh.xyz CNAME .
-panzend.xyz CNAME .
-*.panzend.xyz CNAME .
 ag.ssrahul96.xyz CNAME .
 *.ag.ssrahul96.xyz CNAME .
 securedns.vendorvista.xyz CNAME .

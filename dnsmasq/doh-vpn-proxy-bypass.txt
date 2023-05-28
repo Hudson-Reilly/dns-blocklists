@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 27 May 2023 21:06 UTC
-# Version: 2023.0527.2106.30
+# Last modified: 28 May 2023 21:06 UTC
+# Version: 2023.0528.2106.16
 # Syntax: DNSMasq
-# Number of entries: 2127
+# Number of entries: 2122
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -121,7 +121,6 @@ address=/tunnelbear.s3.amazonaws.com/#
 address=/outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com/#
 address=/i4frgxs0s5.execute-api.us-east-1.amazonaws.com/#
 address=/dsl-app.s3.us-east-2.amazonaws.com/#
-address=/adguard.ambiya.net/#
 address=/mailer.amlegion.org/#
 address=/anchorfree.net/#
 address=/anchorfree.us/#
@@ -583,7 +582,6 @@ address=/easyhandshake.com/#
 address=/ebumna.net/#
 address=/ecxs.asia/#
 address=/dns.eddi.net/#
-address=/dns.edgy.network/#
 address=/edgy-dns.com/#
 address=/dns.edison42.dev/#
 address=/dns.tuna.tsinghua.edu.cn/#
@@ -1106,7 +1104,6 @@ address=/myprivateproxy.net/#
 address=/myproxy.ca/#
 address=/myproxy.info/#
 address=/myproxysite.org/#
-address=/myspace-unblocker.org/#
 address=/myspaceunlock.com/#
 address=/vm.mytm.cc/#
 address=/mytunneling.com/#
@@ -1272,8 +1269,6 @@ address=/panskeet.xyz/#
 address=/dns.panszelescik.pl/#
 address=/pantavv.xyz/#
 address=/pantoto.xyz/#
-address=/panyyhh.xyz/#
-address=/panzend.xyz/#
 address=/parrotsec.org/#
 address=/doh.gcp.pathofgrace.com/#
 address=/rpz-public-resolver1.rrdns.pch.net/#

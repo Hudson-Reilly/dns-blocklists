@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 27 May 2023 21:06 UTC
-# Version: 2023.0527.2106.30
+# Last modified: 28 May 2023 21:06 UTC
+# Version: 2023.0528.2106.16
 # Syntax: Domains (without subdomains)
-# Number of entries: 2127
+# Number of entries: 2122
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -121,7 +121,6 @@ tunnelbear.s3.amazonaws.com
 outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com
 i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 dsl-app.s3.us-east-2.amazonaws.com
-adguard.ambiya.net
 mailer.amlegion.org
 anchorfree.net
 anchorfree.us
@@ -583,7 +582,6 @@ easyhandshake.com
 ebumna.net
 ecxs.asia
 dns.eddi.net
-dns.edgy.network
 edgy-dns.com
 dns.edison42.dev
 dns.tuna.tsinghua.edu.cn
@@ -1106,7 +1104,6 @@ myprivateproxy.net
 myproxy.ca
 myproxy.info
 myproxysite.org
-myspace-unblocker.org
 myspaceunlock.com
 vm.mytm.cc
 mytunneling.com
@@ -1272,8 +1269,6 @@ panskeet.xyz
 dns.panszelescik.pl
 pantavv.xyz
 pantoto.xyz
-panyyhh.xyz
-panzend.xyz
 parrotsec.org
 doh.gcp.pathofgrace.com
 rpz-public-resolver1.rrdns.pch.net
