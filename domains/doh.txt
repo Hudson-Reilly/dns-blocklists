@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 May 2023 21:08 UTC
-# Version: 2023.0527.2108.03
+# Last modified: 28 May 2023 21:07 UTC
+# Version: 2023.0528.2107.58
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 885
+# Number of entries: 883
 #
 ns.00dani.me
 dns.0ooo.icu
@@ -99,7 +99,6 @@ httpdns-sc.aliyuncs.com
 dns.alloxr.info
 dns.almir1904.eu
 dns.alvosec.com
-adguard.ambiya.net
 mailer.amlegion.org
 dns.andrewnw.xyz
 dns.anonymous.pw
@@ -396,7 +395,6 @@ gustamadh.dynv6.net
 dnscache.e-utp.net
 easyhandshake.com
 dns.eddi.net
-dns.edgy.network
 edgy-dns.com
 dns.edison42.dev
 dns.tuna.tsinghua.edu.cn

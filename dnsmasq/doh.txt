@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 May 2023 21:08 UTC
-# Version: 2023.0527.2108.03
+# Last modified: 28 May 2023 21:07 UTC
+# Version: 2023.0528.2107.58
 # Syntax: DNSMasq
-# Number of entries: 760
+# Number of entries: 758
 #
 address=/ns.00dani.me/#
 address=/dns.0ooo.icu/#
@@ -72,7 +72,6 @@ address=/httpdns-sc.aliyuncs.com/#
 address=/dns.alloxr.info/#
 address=/dns.almir1904.eu/#
 address=/dns.alvosec.com/#
-address=/adguard.ambiya.net/#
 address=/mailer.amlegion.org/#
 address=/dns.andrewnw.xyz/#
 address=/dns.anonymous.pw/#
@@ -299,7 +298,6 @@ address=/gustamadh.dynv6.net/#
 address=/dnscache.e-utp.net/#
 address=/easyhandshake.com/#
 address=/dns.eddi.net/#
-address=/dns.edgy.network/#
 address=/edgy-dns.com/#
 address=/dns.edison42.dev/#
 address=/dns.tuna.tsinghua.edu.cn/#
