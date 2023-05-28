@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1685221860 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1685308260 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 27 May 2023 21:11 UTC
-; Version: 2023.0527.2111.05
+; Last modified: 28 May 2023 21:11 UTC
+; Version: 2023.0528.2111.52
 ; Syntax: RPZ
-; Number of entries: 13476
+; Number of entries: 13456
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -273,8 +273,6 @@ softwarez.best CNAME .
 *.softwarez.best CNAME .
 cricfree.unblocked.best CNAME .
 *.cricfree.unblocked.best CNAME .
-myflixer.bet CNAME .
-*.myflixer.bet CNAME .
 alluc.unblckd.bet CNAME .
 *.alluc.unblckd.bet CNAME .
 cucirca.unblckd.bet CNAME .
@@ -765,8 +763,6 @@ what.cd CNAME .
 *.what.cd CNAME .
 myflixer.center CNAME .
 *.myflixer.center CNAME .
-piratebay.center CNAME .
-*.piratebay.center CNAME .
 tracker.baka-sub.cf CNAME .
 *.tracker.baka-sub.cf CNAME .
 tracker.crawfish.cf CNAME .
@@ -777,6 +773,8 @@ tracker.lilithraws.cf CNAME .
 *.tracker.lilithraws.cf CNAME .
 web.open-tracker.cf CNAME .
 *.web.open-tracker.cf CNAME .
+public-tracker.cf CNAME .
+*.public-tracker.cf CNAME .
 tracker.quix.cf CNAME .
 *.tracker.quix.cf CNAME .
 zdownloadx475.cf CNAME .
@@ -813,8 +811,6 @@ openloadmovies.ch CNAME .
 *.openloadmovies.ch CNAME .
 tracker.packetstorm.ch CNAME .
 *.tracker.packetstorm.ch CNAME .
-popcorn-time.ch CNAME .
-*.popcorn-time.ch CNAME .
 prmovies.ch CNAME .
 *.prmovies.ch CNAME .
 publictracker.ch CNAME .
@@ -1081,8 +1077,6 @@ moviesdvdr.co CNAME .
 *.moviesdvdr.co CNAME .
 moviesgo.co CNAME .
 *.moviesgo.co CNAME .
-movieshd.co CNAME .
-*.movieshd.co CNAME .
 movietorrent.co CNAME .
 *.movietorrent.co CNAME .
 moviewetrust.co CNAME .
@@ -3771,8 +3765,6 @@ otakuworks.com CNAME .
 *.otakuworks.com CNAME .
 oteupload.com CNAME .
 *.oteupload.com CNAME .
-otorrent2.com CNAME .
-*.otorrent2.com CNAME .
 otorrent4.com CNAME .
 *.otorrent4.com CNAME .
 otorrents.com CNAME .
@@ -3783,8 +3775,6 @@ oxtorrent.com CNAME .
 *.oxtorrent.com CNAME .
 oxygen-warez.com CNAME .
 *.oxygen-warez.com CNAME .
-oxygenwarez.com CNAME .
-*.oxygenwarez.com CNAME .
 p2pbg.com CNAME .
 *.p2pbg.com CNAME .
 p2pdl.com CNAME .
@@ -3861,8 +3851,6 @@ piratebaylive.com CNAME .
 *.piratebaylive.com CNAME .
 piratebayproxyz.com CNAME .
 *.piratebayproxyz.com CNAME .
-piratebayy.com CNAME .
-*.piratebayy.com CNAME .
 piratebrowser.com CNAME .
 *.piratebrowser.com CNAME .
 pirateiro.com CNAME .
@@ -10287,8 +10275,6 @@ nsw2u.org CNAME .
 *.nsw2u.org CNAME .
 nulledwarez.org CNAME .
 *.nulledwarez.org CNAME .
-nxtgn.org CNAME .
-*.nxtgn.org CNAME .
 nyaatorrents.org CNAME .
 *.nyaatorrents.org CNAME .
 nfo.nydus.org CNAME .
@@ -12273,8 +12259,6 @@ mp3juice.to CNAME .
 *.mp3juice.to CNAME .
 mp3juices.to CNAME .
 *.mp3juices.to CNAME .
-mp3skulls.to CNAME .
-*.mp3skulls.to CNAME .
 myauto.to CNAME .
 *.myauto.to CNAME .
 myflixer.to CNAME .
@@ -12307,8 +12291,6 @@ ogladaj.to CNAME .
 *.ogladaj.to CNAME .
 ololo.to CNAME .
 *.ololo.to CNAME .
-onionplay.to CNAME .
-*.onionplay.to CNAME .
 pelis24.to CNAME .
 *.pelis24.to CNAME .
 tracker.pimpmyworld.to CNAME .
@@ -12487,8 +12469,6 @@ netmap.top CNAME .
 *.netmap.top CNAME .
 piratbit.top CNAME .
 *.piratbit.top CNAME .
-piratebayproxy.top CNAME .
-*.piratebayproxy.top CNAME .
 piratebayz.top CNAME .
 *.piratebayz.top CNAME .
 sportsbay.top CNAME .

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 May 2023 21:11 UTC
-# Version: 2023.0527.2111.05
+# Last modified: 28 May 2023 21:11 UTC
+# Version: 2023.0528.2111.52
 # Syntax: Domains (without subdomains)
-# Number of entries: 6738
+# Number of entries: 6728
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -3541,7 +3541,6 @@ moviesdvdr.com
 movieserver.net
 moviesfoundonline.com
 moviesgo.co
-movieshd.co
 moviesjoy.net
 moviesjoy.one
 moviesjoy.onl
@@ -3604,7 +3603,6 @@ mp3skull.is
 mp3skull.me
 mp3skull.site
 mp3skulls.info
-mp3skulls.to
 mp3songs.us
 mp3sparks.com
 mp3tx.com
@@ -3668,7 +3666,6 @@ mycujoo.tv
 mycybernest.com
 myfeed2all.eu
 myflixer.ac
-myflixer.bet
 myflixer.center
 myflixer.com
 myflixer.is
@@ -3910,7 +3907,6 @@ nunuyy.cc
 nutorrent.com
 nw0.info
 nwanime.tv
-nxtgn.org
 nyaa.eu
 nyaa.net
 nyaa.si
@@ -4006,7 +4002,6 @@ onionplay.re
 onionplay.rs
 onionplay.se
 onionplay.si
-onionplay.to
 onionplay.yt
 online-fix.me
 online-life.ru
@@ -4080,7 +4075,6 @@ otaku-streamers.com
 otakustv.com
 otakuworks.com
 oteupload.com
-otorrent2.com
 otorrent4.com
 otorrents.com
 otxataba.net
@@ -4102,7 +4096,6 @@ oxtorrent.com
 oxtorrent.me
 toplist.oxyd.in
 oxygen-warez.com
-oxygenwarez.com
 p-games.ru
 p2pbg.com
 p2pdl.com
@@ -4210,7 +4203,6 @@ pirate-proxy.ink
 pirate-share.net
 piratebaaiahoy.org
 piratebay.cc
-piratebay.center
 piratebay.fm
 piratebay.icu
 piratebay.life
@@ -4237,13 +4229,11 @@ piratebayproxy.cx
 piratebayproxy.info
 piratebayproxy.live
 piratebayproxy.rocks
-piratebayproxy.top
 piratebayproxyz.com
 piratebays.org
 piratebays.win
 piratebays.wtf
 piratebaysproxies.org
-piratebayy.com
 piratebayz.top
 piratebits.org
 piratebrowser.com
@@ -4321,7 +4311,6 @@ polskitorrent.pl
 polycracks.com
 tracker.pomf.se
 62-210-114-129.rev.poneytelecom.eu
-popcorn-time.ch
 popcorn-time.se
 public.popcorn-tracker.org
 popcornflix.com
@@ -4444,6 +4433,7 @@ ptfiles.org
 tracker.ptsbao.club
 pubfilm.one
 old.pubfilms.club
+public-tracker.cf
 tracker.publicbt.com
 publicdomaintorrents.com
 publicdomaintorrents.info

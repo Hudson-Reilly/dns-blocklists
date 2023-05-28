@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 May 2023 21:11 UTC
-# Version: 2023.0527.2111.05
+# Last modified: 28 May 2023 21:11 UTC
+# Version: 2023.0528.2111.52
 # Syntax: DNSMasq
-# Number of entries: 6738
+# Number of entries: 6728
 #
 address=/zer0day.000webhostapp.com/#
 address=/0123456789nonexistent.com/#
@@ -3541,7 +3541,6 @@ address=/moviesdvdr.com/#
 address=/movieserver.net/#
 address=/moviesfoundonline.com/#
 address=/moviesgo.co/#
-address=/movieshd.co/#
 address=/moviesjoy.net/#
 address=/moviesjoy.one/#
 address=/moviesjoy.onl/#
@@ -3604,7 +3603,6 @@ address=/mp3skull.is/#
 address=/mp3skull.me/#
 address=/mp3skull.site/#
 address=/mp3skulls.info/#
-address=/mp3skulls.to/#
 address=/mp3songs.us/#
 address=/mp3sparks.com/#
 address=/mp3tx.com/#
@@ -3668,7 +3666,6 @@ address=/mycujoo.tv/#
 address=/mycybernest.com/#
 address=/myfeed2all.eu/#
 address=/myflixer.ac/#
-address=/myflixer.bet/#
 address=/myflixer.center/#
 address=/myflixer.com/#
 address=/myflixer.is/#
@@ -3910,7 +3907,6 @@ address=/nunuyy.cc/#
 address=/nutorrent.com/#
 address=/nw0.info/#
 address=/nwanime.tv/#
-address=/nxtgn.org/#
 address=/nyaa.eu/#
 address=/nyaa.net/#
 address=/nyaa.si/#
@@ -4006,7 +4002,6 @@ address=/onionplay.re/#
 address=/onionplay.rs/#
 address=/onionplay.se/#
 address=/onionplay.si/#
-address=/onionplay.to/#
 address=/onionplay.yt/#
 address=/online-fix.me/#
 address=/online-life.ru/#
@@ -4080,7 +4075,6 @@ address=/otaku-streamers.com/#
 address=/otakustv.com/#
 address=/otakuworks.com/#
 address=/oteupload.com/#
-address=/otorrent2.com/#
 address=/otorrent4.com/#
 address=/otorrents.com/#
 address=/otxataba.net/#
@@ -4102,7 +4096,6 @@ address=/oxtorrent.com/#
 address=/oxtorrent.me/#
 address=/toplist.oxyd.in/#
 address=/oxygen-warez.com/#
-address=/oxygenwarez.com/#
 address=/p-games.ru/#
 address=/p2pbg.com/#
 address=/p2pdl.com/#
@@ -4210,7 +4203,6 @@ address=/pirate-proxy.ink/#
 address=/pirate-share.net/#
 address=/piratebaaiahoy.org/#
 address=/piratebay.cc/#
-address=/piratebay.center/#
 address=/piratebay.fm/#
 address=/piratebay.icu/#
 address=/piratebay.life/#
@@ -4237,13 +4229,11 @@ address=/piratebayproxy.cx/#
 address=/piratebayproxy.info/#
 address=/piratebayproxy.live/#
 address=/piratebayproxy.rocks/#
-address=/piratebayproxy.top/#
 address=/piratebayproxyz.com/#
 address=/piratebays.org/#
 address=/piratebays.win/#
 address=/piratebays.wtf/#
 address=/piratebaysproxies.org/#
-address=/piratebayy.com/#
 address=/piratebayz.top/#
 address=/piratebits.org/#
 address=/piratebrowser.com/#
@@ -4321,7 +4311,6 @@ address=/polskitorrent.pl/#
 address=/polycracks.com/#
 address=/tracker.pomf.se/#
 address=/62-210-114-129.rev.poneytelecom.eu/#
-address=/popcorn-time.ch/#
 address=/popcorn-time.se/#
 address=/public.popcorn-tracker.org/#
 address=/popcornflix.com/#
@@ -4444,6 +4433,7 @@ address=/ptfiles.org/#
 address=/tracker.ptsbao.club/#
 address=/pubfilm.one/#
 address=/old.pubfilms.club/#
+address=/public-tracker.cf/#
 address=/tracker.publicbt.com/#
 address=/publicdomaintorrents.com/#
 address=/publicdomaintorrents.info/#
