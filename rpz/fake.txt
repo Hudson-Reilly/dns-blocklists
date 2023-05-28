@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1685222280 86400 3600 604800 30
+@ SOA rpz.hagezi.fake. hostmaster.hagezi.fake. 1685308740 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Fake DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 27 May 2023 21:18 UTC
-; Version: 2023.0527.2118.31
+; Last modified: 28 May 2023 21:19 UTC
+; Version: 2023.0528.2119.48
 ; Syntax: RPZ
-; Number of entries: 24440
+; Number of entries: 24402
 ;
 bitcoin360.ai CNAME .
 *.bitcoin360.ai CNAME .
@@ -1029,8 +1029,6 @@ nikeschuhestore.at CNAME .
 *.nikeschuhestore.at CNAME .
 niki4u.at CNAME .
 *.niki4u.at CNAME .
-nobull-osterreich.at CNAME .
-*.nobull-osterreich.at CNAME .
 nobullaustria.at CNAME .
 *.nobullaustria.at CNAME .
 nobullosterreich.at CNAME .
@@ -3915,8 +3913,8 @@ childcommodity.com CNAME .
 *.childcommodity.com CNAME .
 childrenroadbikes.com CNAME .
 *.childrenroadbikes.com CNAME .
-china-haoyee.com CNAME .
-*.china-haoyee.com CNAME .
+m.china-haoyee.com CNAME .
+*.m.china-haoyee.com CNAME .
 chincrux.com CNAME .
 *.chincrux.com CNAME .
 chipcy.com CNAME .
@@ -9067,8 +9065,6 @@ mountmuse.com CNAME .
 *.mountmuse.com CNAME .
 movatotrans.com CNAME .
 *.movatotrans.com CNAME .
-moveflexofficial.com CNAME .
-*.moveflexofficial.com CNAME .
 mowodania.com CNAME .
 *.mowodania.com CNAME .
 mozpee.com CNAME .
@@ -9079,8 +9075,6 @@ mpgymwear.com CNAME .
 *.mpgymwear.com CNAME .
 mpscamph.com CNAME .
 *.mpscamph.com CNAME .
-mrbeastgifts.com CNAME .
-*.mrbeastgifts.com CNAME .
 mrkimberly.com CNAME .
 *.mrkimberly.com CNAME .
 mrphonedeals.com CNAME .
@@ -9099,8 +9093,6 @@ muckschweiz.com CNAME .
 *.muckschweiz.com CNAME .
 muffinsh.com CNAME .
 *.muffinsh.com CNAME .
-muhlwegfahrschule.com CNAME .
-*.muhlwegfahrschule.com CNAME .
 muhs-spielwaren.com CNAME .
 *.muhs-spielwaren.com CNAME .
 multinus.com CNAME .
@@ -9197,8 +9189,6 @@ mysalac-market.com CNAME .
 *.mysalac-market.com CNAME .
 myschuhe.com CNAME .
 *.myschuhe.com CNAME .
-myshop-cz.com CNAME .
-*.myshop-cz.com CNAME .
 aliyaoberbrunnergreg21.myshopify.com CNAME .
 *.aliyaoberbrunnergreg21.myshopify.com CNAME .
 arnoldgloverruss58.myshopify.com CNAME .
@@ -9701,8 +9691,6 @@ norgeshoes.com CNAME .
 *.norgeshoes.com CNAME .
 normado.com CNAME .
 *.normado.com CNAME .
-northtoast.com CNAME .
-*.northtoast.com CNAME .
 norvintrucking.com CNAME .
 *.norvintrucking.com CNAME .
 nosdaarte.com CNAME .
@@ -9875,8 +9863,6 @@ oko-heizung.com CNAME .
 *.oko-heizung.com CNAME .
 okomia.com CNAME .
 *.okomia.com CNAME .
-okonjoseph.com CNAME .
-*.okonjoseph.com CNAME .
 olahagencyh.com CNAME .
 *.olahagencyh.com CNAME .
 olakork.com CNAME .
@@ -9919,8 +9905,6 @@ oncloudxfactoryoutlets.com CNAME .
 *.oncloudxfactoryoutlets.com CNAME .
 ondutyearth.com CNAME .
 *.ondutyearth.com CNAME .
-elegant.onebysales.com CNAME .
-*.elegant.onebysales.com CNAME .
 onefoyou.com CNAME .
 *.onefoyou.com CNAME .
 oneiisa.com CNAME .
@@ -10029,8 +10013,6 @@ oopitucy.com CNAME .
 *.oopitucy.com CNAME .
 opportunityl.com CNAME .
 *.opportunityl.com CNAME .
-opportunitysense.com CNAME .
-*.opportunitysense.com CNAME .
 opt-outfit.com CNAME .
 *.opt-outfit.com CNAME .
 optimalstyles.com CNAME .
@@ -10635,8 +10617,6 @@ poloonly.com CNAME .
 *.poloonly.com CNAME .
 polstarnakrk-cz.com CNAME .
 *.polstarnakrk-cz.com CNAME .
-polymerd.com CNAME .
-*.polymerd.com CNAME .
 polyvee.com CNAME .
 *.polyvee.com CNAME .
 ponchodanao.com CNAME .
@@ -12261,8 +12241,6 @@ simple-outfit.com CNAME .
 *.simple-outfit.com CNAME .
 simplexgift.com CNAME .
 *.simplexgift.com CNAME .
-sinaracorp.com CNAME .
-*.sinaracorp.com CNAME .
 sindail.com CNAME .
 *.sindail.com CNAME .
 singer-autoreifen.com CNAME .
@@ -15467,8 +15445,6 @@ mraky-kostek.cz CNAME .
 *.mraky-kostek.cz CNAME .
 msfplzen.cz CNAME .
 *.msfplzen.cz CNAME .
-msomska.cz CNAME .
-*.msomska.cz CNAME .
 mykitashop.cz CNAME .
 *.mykitashop.cz CNAME .
 nabytekkaba.cz CNAME .
@@ -15479,8 +15455,6 @@ neweraksiltovka.cz CNAME .
 *.neweraksiltovka.cz CNAME .
 nikebotyairmax.cz CNAME .
 *.nikebotyairmax.cz CNAME .
-nikebotysleva.cz CNAME .
-*.nikebotysleva.cz CNAME .
 nikecz.cz CNAME .
 *.nikecz.cz CNAME .
 nobulleshop.cz CNAME .
@@ -18047,8 +18021,6 @@ motorprada.de CNAME .
 *.motorprada.de CNAME .
 motorradhelmeschritte.de CNAME .
 *.motorradhelmeschritte.de CNAME .
-mrdecooo.de CNAME .
-*.mrdecooo.de CNAME .
 mrnerd.de CNAME .
 *.mrnerd.de CNAME .
 ms-twin.de CNAME .
@@ -18089,8 +18061,6 @@ naturgesunde-tiere.de CNAME .
 *.naturgesunde-tiere.de CNAME .
 navbe.de CNAME .
 *.navbe.de CNAME .
-neapelstore.de CNAME .
-*.neapelstore.de CNAME .
 neary.de CNAME .
 *.neary.de CNAME .
 neopass.de CNAME .
@@ -18183,8 +18153,6 @@ oliflix.de CNAME .
 *.oliflix.de CNAME .
 olivegardenhouses.de CNAME .
 *.olivegardenhouses.de CNAME .
-oliver-schwarzer-shop.de CNAME .
-*.oliver-schwarzer-shop.de CNAME .
 oneflix.de CNAME .
 *.oneflix.de CNAME .
 onetteches.de CNAME .
@@ -18229,8 +18197,6 @@ pagarino.de CNAME .
 *.pagarino.de CNAME .
 page-rangers.de CNAME .
 *.page-rangers.de CNAME .
-pajardeutschland.de CNAME .
-*.pajardeutschland.de CNAME .
 pajarjackedeutschland.de CNAME .
 *.pajarjackedeutschland.de CNAME .
 paketmann.de CNAME .
@@ -19667,8 +19633,6 @@ nk-spedition.eu CNAME .
 *.nk-spedition.eu CNAME .
 overmont.eu CNAME .
 *.overmont.eu CNAME .
-pellet-offerte.eu CNAME .
-*.pellet-offerte.eu CNAME .
 pharmacet.eu CNAME .
 *.pharmacet.eu CNAME .
 potenzmittel-apotheke.eu CNAME .
@@ -21107,6 +21071,8 @@ monthlypolls.pro CNAME .
 *.monthlypolls.pro CNAME .
 newenergysaver.pro CNAME .
 *.newenergysaver.pro CNAME .
+onlyfanstake.pro CNAME .
+*.onlyfanstake.pro CNAME .
 peaceshop.pro CNAME .
 *.peaceshop.pro CNAME .
 privatepolls.pro CNAME .
@@ -22151,8 +22117,6 @@ myrajewelry.shop CNAME .
 *.myrajewelry.shop CNAME .
 nabaza.shop CNAME .
 *.nabaza.shop CNAME .
-nagadpaiv.shop CNAME .
-*.nagadpaiv.shop CNAME .
 nailswag.shop CNAME .
 *.nailswag.shop CNAME .
 naomibeauty.shop CNAME .
@@ -22295,8 +22259,6 @@ phnvmsi.shop CNAME .
 *.phnvmsi.shop CNAME .
 pinotsale.shop CNAME .
 *.pinotsale.shop CNAME .
-pioglobal.shop CNAME .
-*.pioglobal.shop CNAME .
 piperjewelry.shop CNAME .
 *.piperjewelry.shop CNAME .
 point-x.shop CNAME .

@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 27 May 2023 21:18 UTC
-# Version: 2023.0527.2118.31
+# Last modified: 28 May 2023 21:19 UTC
+# Version: 2023.0528.2119.48
 # Syntax: Domains (without subdomains)
-# Number of entries: 12220
+# Number of entries: 12201
 #
 100-solarni-lampa-cz.com
 11trikots.com
@@ -1901,7 +1901,7 @@ childrenonesie.store
 childrenroadbikes.com
 childrensclothing.website
 chillup.at
-china-haoyee.com
+m.china-haoyee.com
 chinaexpress.cz
 chincrux.com
 chipcy.com
@@ -7011,7 +7011,6 @@ mountainhardwearoutlet.at
 mountainoff.com
 mountmuse.com
 movatotrans.com
-moveflexofficial.com
 movie4k.su
 movie4kfilme.online
 mowodania.com
@@ -7020,8 +7019,6 @@ mpfcust.com
 mpgymwear.com
 mpscamph.com
 mraky-kostek.cz
-mrbeastgifts.com
-mrdecooo.de
 mrkimberly.com
 mrnerd.de
 mrphonedeals.com
@@ -7031,7 +7028,6 @@ msfplzen.cz
 msl-cf.id
 mslicenseskey.com
 msmcompare.com
-msomska.cz
 msp24.at
 mth14.at
 mtjarmart.shop
@@ -7045,7 +7041,6 @@ muellerscafe.de
 muenchenzelte.de
 muffinsh.com
 muhiuddino.shop
-muhlwegfahrschule.com
 muhs-spielwaren.com
 mullertools.de
 multibra.net
@@ -7132,7 +7127,6 @@ myriam-david.com
 mysalac-market.com
 mysalemall.store
 myschuhe.com
-myshop-cz.com
 aliyaoberbrunnergreg21.myshopify.com
 arnoldgloverruss58.myshopify.com
 babypower-1192.myshopify.com
@@ -7208,7 +7202,6 @@ nabytekkaba.cz
 nachtbim.at
 nadiano.de
 nadinewelpezurverfgung.com
-nagadpaiv.shop
 nagawpf.com
 nagelpilzkiller.de
 nailexclusives.com
@@ -7268,7 +7261,6 @@ nbynicole.com
 ncbdgt.com
 ncrochet.com
 nealclothing.shop
-neapelstore.de
 neary.de
 nebelski.pl
 nebulanights.com
@@ -7438,7 +7430,6 @@ nieruchomosci-walter24.pl
 nijenny.com
 nikebillig.com
 nikebotyairmax.cz
-nikebotysleva.cz
 nikebutikks.com
 nikecz.com
 nikecz.cz
@@ -7481,7 +7472,6 @@ noahcat.shop
 noara-official.com
 noatopdesign.com
 nobuldeutschland.me
-nobull-osterreich.at
 nobull-osterreich.com
 nobullaustria.at
 nobulleshop.cz
@@ -7520,7 +7510,6 @@ normandy-omaha.fr
 norskeapotek.net
 northern-transport.net
 northfaceoutlet.at
-northtoast.com
 norulesjustfun.de
 norvintrucking.com
 norwayhotel.net
@@ -7671,7 +7660,6 @@ okfitness.at
 okjordans.com
 oko-heizung.com
 okomia.com
-okonjoseph.com
 oktando.de
 olahagencyh.com
 olakork.com
@@ -7689,7 +7677,6 @@ olivably.com
 olivebly.com
 olivefashion.nl
 olivegardenhouses.de
-oliver-schwarzer-shop.de
 olkina.shop
 olkowiczcvk.com
 olomouckakina.cz
@@ -7709,7 +7696,6 @@ oncloudxfactoryoutlets.com
 ondkwn.shop
 ondutyearth.com
 one-million.at
-elegant.onebysales.com
 oneflix.de
 onefoyou.com
 oneiisa.com
@@ -7752,6 +7738,7 @@ cheaper.onlinestoresoutlet2021.ru
 onlineumage.com
 onlineussports.com
 onlydealsyo.com
+onlyfanstake.pro
 onlynewproduct.com
 onlytwonow.top
 onlywomenswear.com
@@ -7791,7 +7778,6 @@ open-cbd.de
 openai.reisen
 opkjobsmcqs.shop
 opportunityl.com
-opportunitysense.com
 opt-outfit.com
 optimalstyles.com
 optramus.com
@@ -7968,7 +7954,6 @@ painthotsale.com
 paintitblackfurniture.com
 paintwallstore.com
 pairmate.se
-pajardeutschland.de
 pajarjackedeutschland.de
 pajarschuhe.com
 paketmann.de
@@ -8090,7 +8075,6 @@ pedroclothing.shop
 peekjeans.de
 peinhel.com
 pellet-holz.com
-pellet-offerte.eu
 pelletitaliano.it
 pellets-bei-wolf.com
 pellets-holz.com
@@ -8221,7 +8205,6 @@ pinotsale.shop
 pintukayujati.com
 pinvense.com
 pinvic.com
-pioglobal.shop
 piperjewelry.shop
 pipfan.com
 pipopi.com
@@ -8324,7 +8307,6 @@ polstarnakrk-cz.com
 polsterei-daniels.de
 polwestos.at
 poly-mind.de
-polymerd.com
 polyvee.com
 ponchodanao.com
 poobia.com
@@ -9677,7 +9659,6 @@ simple-outfit.com
 simplexe.co
 simplexgift.com
 simulward.top
-sinaracorp.com
 sindail.com
 singer-autoreifen.com
 singletonsale.shop
