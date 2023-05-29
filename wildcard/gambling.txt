@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 May 2023 21:13 UTC
-# Version: 2023.0528.2113.52
+# Last modified: 29 May 2023 21:12 UTC
+# Version: 2023.0529.2112.11
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 104597
+# Number of entries: 104572
 #
 *.000000tyc.com
 *.00000178.com
@@ -88541,7 +88541,6 @@
 *.professional-trademark.com
 *.progame88.com
 *.projbo.com
-*.prok8.com
 *.proleagues365.com
 *.proline.ca
 *.promo1x.com
@@ -88576,13 +88575,6 @@
 *.ptys03.top
 *.ptys04.top
 *.ptys05.top
-*.ptys094.xyz
-*.ptys095.xyz
-*.ptys096.xyz
-*.ptys097.xyz
-*.ptys098.xyz
-*.ptys099.xyz
-*.ptys100.xyz
 *.india-wheel.pu020ev.com
 *.ts.pu77.net
 *.pubease.xyz
@@ -88674,7 +88666,6 @@
 *.q4jxw.com
 *.q4s7t.com
 *.q5156.com
-*.q5359.com
 *.q536t.com
 *.q55cc.com
 *.q55dd.com
@@ -88783,7 +88774,6 @@
 *.qd1583-cksjp5542sde.com
 *.qd9659.com
 *.qdcj120.com
-*.qdhke389.com
 *.qdjk5689.com
 *.qdqdjsk-564sdqpjh.com
 *.qen6.com
@@ -88798,7 +88788,6 @@
 *.qf25rf1m.com
 *.qf6298.com
 *.qf66.vip
-*.qfrjs596.com
 *.qfscn.org
 *.qg9.com
 *.qgbqv4av.online
@@ -88946,8 +88935,6 @@
 *.qm10089.com
 *.qm330.com
 *.qm550.com
-*.qm610.com
-*.qm619.com
 *.qm770.com
 *.qm880.com
 *.qm8828.net
@@ -89191,7 +89178,6 @@
 *.r3xnx.com
 *.r464646.com
 *.r528y.biz
-*.r5359.com
 *.r55th.com
 *.r6439.com
 *.r66th.com
@@ -90213,7 +90199,6 @@
 *.s4884.com
 *.s5334.com
 *.s5339.com
-*.s5359.com
 *.s53ef.com
 *.s5414.com
 *.s5443m.com
@@ -90542,7 +90527,6 @@
 *.sbobet.mobi
 *.sbobet.net
 *.sbobet.tv
-*.sbobet-casino.online
 *.sbobetasia.com
 *.sbobeteu.com
 *.sbobethk.com
@@ -90655,8 +90639,6 @@
 *.scc688.com
 *.scccc.biz
 *.scccc.name
-*.scg-6.com
-*.schyfs.com
 *.scommessebetfair.it
 *.scorebig888.com
 *.scotbet.com
@@ -90742,8 +90724,6 @@
 *.sdy2027.com
 *.sdy2029.com
 *.sdy22192.com
-*.sdy22195.com
-*.sdy22196.com
 *.sdy222.com
 *.sdy22203.com
 *.sdy22213.com
@@ -91004,12 +90984,10 @@
 *.shbet4.com
 *.shbet4.vip
 *.shbet44.com
-*.shbet456.com
 *.shbet48.com
 *.shbet5.com
 *.shbet5.vip
 *.shbet55.com
-*.shbet5c.com
 *.shbet6.com
 *.shbet6.vip
 *.shbet66.com
@@ -91159,7 +91137,6 @@
 *.shireair.xyz
 *.shishitong.com
 *.shjoby.com
-*.shjrd627.com
 *.shopping139.com
 *.shopping908.com
 *.shouxi-666.com
@@ -91306,7 +91283,6 @@
 *.skywinni.xyz
 *.sl18588.com
 *.sl4843.com
-*.sl6618.com
 *.sl888.live
 *.slashsun.xyz
 *.slb-babadi.com
@@ -91338,7 +91314,6 @@
 *.slotgame123go.com
 *.slotgamevip.net
 *.slothackervisabet88.com
-*.slothari-ini.xyz
 *.slothepicc.com
 *.slothunter.com
 *.slothunter4.com
