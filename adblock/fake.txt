@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 28 May 2023 21:19 UTC
-! Version: 2023.0528.2119.48
+! Last modified: 29 May 2023 21:17 UTC
+! Version: 2023.0529.2117.48
 ! Syntax: AdBlock
-! Number of entries: 12201
+! Number of entries: 12179
 !
 ||100-solarni-lampa-cz.com^
 ||11trikots.com^
@@ -1319,7 +1319,6 @@
 ||bluepoe.com^
 ||blueribbon.site^
 ||bluespatuia.com^
-||bluestary.shop^
 ||blum-film.de^
 ||blumen-pro.de^
 ||blumenlecker.at^
@@ -2419,6 +2418,7 @@
 ||customizerbox.com^
 ||customstall.com^
 ||customsurveys.guru^
+||cuteclub.org^
 ||cuteearring.shop^
 ||cutefate.com^
 ||cutekittenshomeusa.com^
@@ -3001,7 +3001,6 @@
 ||dubaihoteluae.com^
 ||dubstickers.de^
 ||store.duckydecor.store^
-||duckyprints.com^
 ||duhitu.com^
 ||duitpanas.top^
 ||dukex.live^
@@ -3281,6 +3280,7 @@
 ||elo-cc.de^
 ||elo-werker.com^
 ||eloiseandlolo.com^
+||elonspace.org^
 ||elontesla23.pro^
 ||eloquentik.de^
 ||eloquentika.de^
@@ -3559,7 +3559,7 @@
 ||ezoneeca.com^
 ||ezredtool.com^
 ||ezzpools.com^
-||ezzymoly.com^
+||m.ezzymoly.com^
 ||f1authentics.shop^
 ||fabiang.shop^
 ||fabionapoli.com^
@@ -5018,6 +5018,7 @@
 ||hostalesquella.com^
 ||hot-shopping.com^
 ||hot-shopping-review.com^
+||hotbignews.com^
 ||hotcheapswear.store^
 ||hotcollectiblegoods.com^
 ||hotcommodity-ring.website^
@@ -7411,6 +7412,7 @@
 ||nicdiamond.de^
 ||niceina.com^
 ||nicelani.com^
+||nicelegant.com^
 ||nicenktop.com^
 ||nicetechpro.com^
 ||nicevipo.com^
@@ -8407,7 +8409,6 @@
 ||primebit-profit.org^
 ||primebitprofit.net^
 ||primecharm.store^
-||primechnnls.com^
 ||primelogisticllc.com^
 ||primeshe.com^
 ||primoyo.com^
@@ -8446,7 +8447,6 @@
 ||profit-farma.com^
 ||profitmaster.shop^
 ||profund-trade.com^
-||progressivewelpenzuhause.com^
 ||prohotel.at^
 ||proinvestmentmarket.com^
 ||projectpeva.org^
@@ -8525,7 +8525,6 @@
 ||pyroxtrem.com^
 ||pyvigo.com^
 ||pzbhold-auto.com^
-||qbagsbyte.shop^
 ||qbiomal.shop^
 ||qcatowe.store^
 ||qchokris.shop^
@@ -8866,7 +8865,6 @@
 ||rezeptfrei-bestellung.de^
 ||rfaxlead.com^
 ||rftobler.at^
-||rgenesisgs.com^
 ||rgoconnell.com^
 ||rhein-entree.de^
 ||rhein-trends24.de^
@@ -8893,7 +8891,6 @@
 ||rickshop.net^
 ||ridersmen.com^
 ||ridewheelsmfg.com^
-||ridgemonkeytackle.com^
 ||ridlog.com^
 ||riege-bonbonladenundfeines.de^
 ||rieger-autoreifen.com^
@@ -9010,7 +9007,6 @@
 ||rostary.com^
 ||rotarydistrict7030.org^
 ||rotbarschfilet.de^
-||rother-solar.de^
 ||rothtop.com^
 ||rotyka.com^
 ||roudamo.shop^
@@ -9023,10 +9019,8 @@
 ||royaldecorhome.store^
 ||royaldocksrainbows.com^
 ||royalhedgies.com^
-||royalinvestmentconsortium.com^
 ||lps.royalle-network.com^
 ||royaloop.com^
-||royalpomskyhome.com^
 ||royalrobpascher.de^
 ||royubet.shop^
 ||rpakpurna.com^
@@ -9058,7 +9052,6 @@
 ||ruizo.store^
 ||rundesilberlinge.de^
 ||rundums-haus.net^
-||rungovip.store^
 ||runningexperience.de^
 ||runsaucony.com^
 ||rupiahlagi.com^
@@ -9146,7 +9139,6 @@
 ||saleplushtoy.shop^
 ||saleprotest.com^
 ||salescamp.store^
-||salesceramic.com^
 ||saleshyanne.com^
 ||saleskims.com^
 ||salesnewera.com^
@@ -9222,7 +9214,6 @@
 ||sandra-und-tobias.de^
 ||gqcxp.sandralaumusic.com^
 ||sangastin.com^
-||sansapoten.com^
 ||santa-croce.at^
 ||santiagowatts.space^
 ||santikadesign.com^
@@ -9250,7 +9241,6 @@
 ||sauconyshoe.com^
 ||savas-reifenhandel.com^
 ||scabrality.top^
-||m.scaleupconsultingau.com^
 ||scarpaoutlet.com^
 ||scarpaschuheoutlet.at^
 ||scarpaschuhesale.at^
@@ -9270,7 +9260,6 @@
 ||scherenschnitte.at^
 ||scheu-fahrrad.com^
 ||scheuregger.de^
-||schiltach-brennholz.com^
 ||schirmlampenneu.de^
 ||schladmingevents.at^
 ||schlaftabletten.online^
@@ -9314,12 +9303,10 @@
 ||schoolbagsale.com^
 ||schottenring33-wien.at^
 ||schotz.cz^
-||schroedern.com^
 ||schuhebullboxer.de^
 ||schuhekaufenwien.com^
 ||schuhepaulgreen.de^
 ||schuhescarpa.de^
-||schuhevionic-de.com^
 ||schuhschritte.de^
 ||schulhof-brennholz.com^
 ||schultheissundroth.de^
@@ -9414,7 +9401,6 @@
 ||senseila.de^
 ||sensualsale.com^
 ||sentees.com^
-||sentenceeat.online^
 ||sentencethy.com^
 ||seoyou.de^
 ||sepkicks.com^
@@ -9556,7 +9542,6 @@
 ||shopgamefishing.com^
 ||shopgermania.com^
 ||shophardware.net^
-||shophunkemoller.com^
 ||shopialo.de^
 ||shopin-de.com^
 ||firewood.shopingstime.com^
@@ -9573,7 +9558,6 @@
 ||shopnaturenow.com^
 ||shopnewclothing.com^
 ||shopoonline4.com^
-||shopoonline5.com^
 ||shoporio-logmann.de^
 ||shopoutdoorshoes.com^
 ||shopparts.store^
@@ -9702,7 +9686,6 @@
 ||skisnowboardsale.com^
 ||skitool.shop^
 ||skiverleih-bastl.de^
-||sktbideie.shop^
 ||skullridding.com^
 ||skuttem.com^
 ||skyairdrone.com^
@@ -9733,7 +9716,6 @@
 ||slp-haushaltsgerate.de^
 ||slutmedtandlaegeskraek.dk^
 ||smallanimal.shop^
-||smart-best-market.com^
 ||smart-excel.de^
 ||smart-moneydeal-now.com^
 ||smart-topstore.com^
@@ -9757,7 +9739,6 @@
 ||smtkauf.de^
 ||smushgame.com^
 ||smxrt.de^
-||snake4you.com^
 ||snaklenest.com^
 ||snapchaty.com^
 ||snapinks.com^
@@ -9920,7 +9901,6 @@
 ||spirit-tattoo.at^
 ||spitzepoch.de^
 ||uifamipersonalizedgiftsfamilys.splashthat.com^
-||spnation.net^
 ||sport-bleher.de^
 ||sport-handel24.de^
 ||sport-lehrer.de^
@@ -10484,14 +10464,12 @@
 ||tes-ic.cloud^
 ||tesauree.com^
 ||tesento.com^
-||tesla-openai.com^
 ||teslabestfor.com^
 ||teslabounce.com^
 ||teslabrc.com^
 ||teslacar.io^
 ||teslaflows.com^
 ||teslagive.live^
-||teslalive23.pro^
 ||teslarea.com^
 ||teslatucker.com^
 ||tesler-inc.trade^
@@ -10902,7 +10880,7 @@
 ||toutazimutsu.shop^
 ||tower-home.com^
 ||towflank.com^
-||townsvalley.com^
+||m.townsvalley.com^
 ||toxpas.com^
 ||toycartruck.com^
 ||toycicty.shop^
@@ -11425,7 +11403,6 @@
 ||vialeky.cz^
 ||viarecta.net^
 ||vibeheat.com^
-||viberman.com^
 ||vibramboty.com^
 ||vibramcz.com^
 ||vibramfive-fingers.cz^
@@ -11939,6 +11916,7 @@
 ||wwlnws.ru^
 ||wwwhamsterkiste.de^
 ||wynajemwroclaw.com^
+||wywacua8.boats^
 ||wzlooo.com^
 ||x-bik.online^
 ||x-watches.co^
