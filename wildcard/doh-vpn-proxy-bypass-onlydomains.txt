@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 28 May 2023 21:06 UTC
-# Version: 2023.0528.2106.16
+# Last modified: 29 May 2023 21:06 UTC
+# Version: 2023.0529.2106.25
 # Syntax: Domains (without subdomains)
-# Number of entries: 2122
+# Number of entries: 2116
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -1377,7 +1377,6 @@ proxify.org
 proxify.tv
 proxify.us
 proxify.ws
-proxii.net
 proximize.me
 proxite.de
 proxite.eu
@@ -1390,7 +1389,6 @@ proxmecallmenames.com
 proxpn.com
 proxssl.com
 proxtube.com
-proxy.lol
 proxy.nu
 proxy.org
 proxy.red
@@ -1402,7 +1400,6 @@ proxy-2014.com
 proxy-2015.info
 proxy-anywhere.com
 proxy-bypass.com
-proxy-deal.net
 proxy-german.de
 proxy-hypo.net
 proxy-internet.info
@@ -1429,7 +1426,6 @@ proxyen.com
 proxyfactory.io
 proxyfish.com
 proxyfor.eu
-proxyfort.com
 proxyfree.org
 proxygogo.info
 proxyhash.net
@@ -1472,7 +1468,6 @@ proxyunlock.com
 proxyvpn.eu
 proxyvpn.ga
 proxyvpn.ml
-proxywebsite.us
 ptoserver.com
 dns.pumplex.com
 2.dnscrypt-cert.pumplex.com
@@ -1546,7 +1541,6 @@ safetysurf.net
 safeunblock.com
 saoudiproxy.info
 dns.scapetical.com
-schoolcare.info
 schoolproxy.co
 schooxy.com
 dns.seby.io

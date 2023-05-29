@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1685307960 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1685394360 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 28 May 2023 21:06 UTC
-; Version: 2023.0528.2106.16
+; Last modified: 29 May 2023 21:06 UTC
+; Version: 2023.0529.2106.25
 ; Syntax: RPZ
-; Number of entries: 4244
+; Number of entries: 4232
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1355,8 +1355,6 @@ proxyen.com CNAME .
 *.proxyen.com CNAME .
 proxyfish.com CNAME .
 *.proxyfish.com CNAME .
-proxyfort.com CNAME .
-*.proxyfort.com CNAME .
 proxyisp.com CNAME .
 *.proxyisp.com CNAME .
 proxyist.com CNAME .
@@ -2575,8 +2573,6 @@ revko.info CNAME .
 *.revko.info CNAME .
 saoudiproxy.info CNAME .
 *.saoudiproxy.info CNAME .
-schoolcare.info CNAME .
-*.schoolcare.info CNAME .
 simplevpn.info CNAME .
 *.simplevpn.info CNAME .
 suedeproxy.info CNAME .
@@ -2767,8 +2763,6 @@ youtubeunblocked.live CNAME .
 *.youtubeunblocked.live CNAME .
 unblocked.llc CNAME .
 *.unblocked.llc CNAME .
-proxy.lol CNAME .
-*.proxy.lol CNAME .
 o1.lt CNAME .
 *.o1.lt CNAME .
 onion.lt CNAME .
@@ -3307,12 +3301,8 @@ protonvpn.net CNAME .
 *.protonvpn.net CNAME .
 proxify.net CNAME .
 *.proxify.net CNAME .
-proxii.net CNAME .
-*.proxii.net CNAME .
 proxite.net CNAME .
 *.proxite.net CNAME .
-proxy-deal.net CNAME .
-*.proxy-deal.net CNAME .
 proxy-hypo.net CNAME .
 *.proxy-hypo.net CNAME .
 proxy-site.net CNAME .
@@ -4123,8 +4113,6 @@ proxie.us CNAME .
 *.proxie.us CNAME .
 proxify.us CNAME .
 *.proxify.us CNAME .
-proxywebsite.us CNAME .
-*.proxywebsite.us CNAME .
 rapidproxy.us CNAME .
 *.rapidproxy.us CNAME .
 sslvpn.us CNAME .
