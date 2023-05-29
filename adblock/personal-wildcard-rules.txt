@@ -514,7 +514,6 @@
 ||msgacs-m.lazada.*^
 ||orange-dc.lazada.com^
 ||retcode-sg-lazada.arms.aliyuncs.com^
-||sg-wum.alibaba.com^
 ||sug.lazada.sg^
 ||umlazada.alibaba.com^
 ||ynuf.aliapp.org^
