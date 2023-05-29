@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 May 2023 21:11 UTC
-# Version: 2023.0528.2111.52
+# Last modified: 29 May 2023 21:10 UTC
+# Version: 2023.0529.2110.13
 # Syntax: Domains (without subdomains)
-# Number of entries: 6728
+# Number of entries: 6729
 #
 zer0day.000webhostapp.com
 0123456789nonexistent.com
@@ -613,6 +613,7 @@ astra-soft.com
 astroddl.com
 astroeggs.com
 astrr.ru
+astrra.space
 filmvizyon.at.ua
 skvtorrent.at.ua
 at123movies.com
@@ -657,6 +658,7 @@ avistaz.to
 avxhm.se
 awesome-hd.com
 awesome-hd.me
+axell24.ru
 axemovies.net
 axxo.me
 axxomovies.org
@@ -1193,6 +1195,7 @@ cinevood.work
 cinewhale.com
 circleftp.net
 circlenetworkbd.net
+city21.pk
 city9x.com
 citycloudbd.com
 citymovie.org
@@ -1614,6 +1617,7 @@ deviloid.net
 devilwolfs.com
 deviousdevils.com
 devops.gay
+dex.email
 dezflight-underground.com
 dfichiers.com
 dflix.live
@@ -2783,9 +2787,11 @@ intrepidbd.com
 ioshaven.com
 iosninja.io
 iosvizor.com
+ip119.ip-146-59-102.eu
 ns331480.ip-37-187-121.eu
 ns575949.ip-51-222-82.net
 47.ip-51-68-199.eu
+ns557939.ip-54-39-48.net
 ns349743.ip-91-121-106.eu
 ipacrack.com
 v2.iperson.xyz
@@ -3293,6 +3299,7 @@ manikdicommunication.com
 bubu.mapfactor.com
 tracker.marinsm.com
 mariumnetwork.com
+market-re.quest
 marketingsoftwaredownloads.com
 maroctorrent.net
 tracker.marshyonline.net
@@ -3417,6 +3424,7 @@ mkvking.me
 mlbstreams.to
 mlcboard.com
 mlmsoftwarez.in
+tracker.mlsub.net
 trackers.mlsub.net
 mlwbd.pw
 mma-core.com
@@ -3852,6 +3860,7 @@ nod321.com
 nod32sky.com
 nodata.tv
 htz3.noho.st
+canardscitrons.nohost.me
 ssb14.nohost.me
 nolatapers.org
 noobdownload.com
@@ -4393,7 +4402,6 @@ prosmotr-filmov.ru
 prostylex.org
 protvcollection.com
 prox4you.icu
-proxbaypirate.org
 proxieswegotproxies.com
 proxifiedpiratebay.org
 proxtpb.art
@@ -4401,7 +4409,6 @@ proxy247.art
 proxybay.bz
 proxybay.gdn
 proxybay.onl
-proxybay.page
 proxybay.pro
 proxybay.tech
 proxybay.xyz
@@ -4485,7 +4492,6 @@ putlocker9.ru
 putlockerfilms.com
 putlockerfree.net
 putlockerfree.sc
-putlockerfull.xyz
 putlockergo.co
 putlockerhd.io
 putlockerr.is
@@ -4523,6 +4529,7 @@ putlockertv.onl
 putlockertv.to
 puzo.org
 pwtorrents.net
+pxnet.ru
 qbittorrent.org
 qiq.ws
 tracker.qu.ax
@@ -4530,7 +4537,6 @@ quebec-partage.com
 quebec-team.net
 quetelbd.net
 t.quic.ws
-live.quickboxbd.com
 quickonlineftp.com
 quitt.net
 tracker.quix.cf
@@ -4629,9 +4635,9 @@ redskunk.org
 redwarez.xyz
 dpiui.reedlan.com
 reggaetraders.net
+d40969.acod.regrucolo.ru
 rejetto.com
 relizer.net
-reload-paradise.net
 renrencili.com
 repack.info
 repack.me
@@ -4664,7 +4670,6 @@ ripple.is
 ripple.stream
 rlcafenet.com
 rlsbb.cc
-rlsbb.fr
 rlsbb.ru
 rlslog.net
 rmz.cr
@@ -4688,7 +4693,6 @@ rom-news.org
 rom-world.com
 romsnetwork.com
 romtohome.com
-root-warez.com
 rootsofts.com
 rotorrent.ro
 royal-orleans.com
@@ -4704,7 +4708,6 @@ rulu.co
 run-ricky-run.com
 rune-server.org
 runwaybroadband.com
-rus-media.org
 russianfilmhub.com
 rustorka.com
 rustorrents.info
@@ -4820,7 +4823,6 @@ seehd.pro
 seehd.uno
 seeingblind.net
 seekasong.com
-seekmybits.com
 bigfoot1942.sektori.org
 sendit.cloud
 sendspace.com
@@ -4887,7 +4889,6 @@ severedbytes.net
 retracker.sevstar.net
 sex-torrent.net
 sexinsex.net
-sextorrent.to
 sexy-pics.us
 sexybits.org
 sflix.to
@@ -4990,7 +4991,6 @@ slam.ws
 vibe.sleepyinternetfun.xyz
 sline.net
 tracker.slitopen.me
-slosoul.eu
 slyck.com
 smartbox.digital
 smartflix.digital
@@ -5044,7 +5044,6 @@ softlinkers.org
 softmp3.org
 softmupparna.net
 softpilot.win
-softsclub.com
 softserialskey.com
 softswarez.com
 softtorrents.org
@@ -5203,6 +5202,7 @@ stremio.com
 stremiomovies.com
 strumyk.tv
 stuckgamer.com
+su-data.com
 subsplease.org
 subtituladas.com
 subtracker.net
@@ -6600,6 +6600,7 @@ yotoshi.com
 youhaveavirus.com
 youpornbook.com
 static.202.35.76.144.clients.your-server.de
+static.110.82.76.144.clients.your-server.de
 static.46.73.46.78.clients.your-server.de
 static.54.161.216.95.clients.your-server.de
 yourbittorrent.com

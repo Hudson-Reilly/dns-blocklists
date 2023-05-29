@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1685308260 86400 3600 604800 30
+@ SOA rpz.hagezi.anti.piracy. hostmaster.hagezi.anti.piracy. 1685394600 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Anti-Piracy DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 28 May 2023 21:11 UTC
-; Version: 2023.0528.2111.52
+; Last modified: 29 May 2023 21:10 UTC
+; Version: 2023.0529.2110.13
 ; Syntax: RPZ
-; Number of entries: 13456
+; Number of entries: 13458
 ;
 animehub.ac CNAME .
 *.animehub.ac CNAME .
@@ -3989,8 +3989,6 @@ putlockersfm.com CNAME .
 *.putlockersfm.com CNAME .
 quebec-partage.com CNAME .
 *.quebec-partage.com CNAME .
-live.quickboxbd.com CNAME .
-*.live.quickboxbd.com CNAME .
 quickonlineftp.com CNAME .
 *.quickonlineftp.com CNAME .
 quorks.com CNAME .
@@ -4091,8 +4089,6 @@ romsnetwork.com CNAME .
 *.romsnetwork.com CNAME .
 romtohome.com CNAME .
 *.romtohome.com CNAME .
-root-warez.com CNAME .
-*.root-warez.com CNAME .
 rootsofts.com CNAME .
 *.rootsofts.com CNAME .
 royal-orleans.com CNAME .
@@ -4189,8 +4185,6 @@ seeds-zone.com CNAME .
 *.seeds-zone.com CNAME .
 seekasong.com CNAME .
 *.seekasong.com CNAME .
-seekmybits.com CNAME .
-*.seekmybits.com CNAME .
 sendspace.com CNAME .
 *.sendspace.com CNAME .
 serial4download.com CNAME .
@@ -4343,8 +4337,6 @@ soap2dayhd.com CNAME .
 *.soap2dayhd.com CNAME .
 softasm.com CNAME .
 *.softasm.com CNAME .
-softsclub.com CNAME .
-*.softsclub.com CNAME .
 softserialskey.com CNAME .
 *.softserialskey.com CNAME .
 softswarez.com CNAME .
@@ -4447,6 +4439,8 @@ stremiomovies.com CNAME .
 *.stremiomovies.com CNAME .
 stuckgamer.com CNAME .
 *.stuckgamer.com CNAME .
+su-data.com CNAME .
+*.su-data.com CNAME .
 subtituladas.com CNAME .
 *.subtituladas.com CNAME .
 escorts.subventas.com CNAME .
@@ -5621,6 +5615,8 @@ xteve.de CNAME .
 *.xteve.de CNAME .
 static.202.35.76.144.clients.your-server.de CNAME .
 *.static.202.35.76.144.clients.your-server.de CNAME .
+static.110.82.76.144.clients.your-server.de CNAME .
+*.static.110.82.76.144.clients.your-server.de CNAME .
 static.46.73.46.78.clients.your-server.de CNAME .
 *.static.46.73.46.78.clients.your-server.de CNAME .
 static.54.161.216.95.clients.your-server.de CNAME .
@@ -5685,6 +5681,8 @@ thepiratebay.ee CNAME .
 *.thepiratebay.ee CNAME .
 01234movies.email CNAME .
 *.01234movies.email CNAME .
+dex.email CNAME .
+*.dex.email CNAME .
 movies123.email CNAME .
 *.movies123.email CNAME .
 putlockers.email CNAME .
@@ -5745,6 +5743,8 @@ gamecopyworld.eu CNAME .
 *.gamecopyworld.eu CNAME .
 indep.eu CNAME .
 *.indep.eu CNAME .
+ip119.ip-146-59-102.eu CNAME .
+*.ip119.ip-146-59-102.eu CNAME .
 ns331480.ip-37-187-121.eu CNAME .
 *.ns331480.ip-37-187-121.eu CNAME .
 47.ip-51-68-199.eu CNAME .
@@ -5787,8 +5787,6 @@ shellife.eu CNAME .
 *.shellife.eu CNAME .
 sktorrent.eu CNAME .
 *.sktorrent.eu CNAME .
-slosoul.eu CNAME .
-*.slosoul.eu CNAME .
 streamking.eu CNAME .
 *.streamking.eu CNAME .
 super-warez.eu CNAME .
@@ -5901,8 +5899,6 @@ nullzone.fr CNAME .
 *.nullzone.fr CNAME .
 psyco.fr CNAME .
 *.psyco.fr CNAME .
-rlsbb.fr CNAME .
-*.rlsbb.fr CNAME .
 theodoric.fr CNAME .
 *.theodoric.fr CNAME .
 torrent9cz.fr CNAME .
@@ -7359,6 +7355,8 @@ tracker.nitrix.me CNAME .
 *.tracker.nitrix.me CNAME .
 nnm-club.me CNAME .
 *.nnm-club.me CNAME .
+canardscitrons.nohost.me CNAME .
+*.canardscitrons.nohost.me CNAME .
 ssb14.nohost.me CNAME .
 *.ssb14.nohost.me CNAME .
 tracker.nrx.me CNAME .
@@ -8335,6 +8333,8 @@ tracker.internetwarriors.net CNAME .
 *.tracker.internetwarriors.net CNAME .
 ns575949.ip-51-222-82.net CNAME .
 *.ns575949.ip-51-222-82.net CNAME .
+ns557939.ip-54-39-48.net CNAME .
+*.ns557939.ip-54-39-48.net CNAME .
 iplayplus.net CNAME .
 *.iplayplus.net CNAME .
 ir2media.net CNAME .
@@ -8457,6 +8457,8 @@ bt.mindwerks.net CNAME .
 *.bt.mindwerks.net CNAME .
 mkvflix.net CNAME .
 *.mkvflix.net CNAME .
+tracker.mlsub.net CNAME .
+*.tracker.mlsub.net CNAME .
 trackers.mlsub.net CNAME .
 *.trackers.mlsub.net CNAME .
 mma-tracker.net CNAME .
@@ -8759,8 +8761,6 @@ reggaetraders.net CNAME .
 *.reggaetraders.net CNAME .
 relizer.net CNAME .
 *.relizer.net CNAME .
-reload-paradise.net CNAME .
-*.reload-paradise.net CNAME .
 repackov.net CNAME .
 *.repackov.net CNAME .
 revolutiontt.net CNAME .
@@ -10387,8 +10387,6 @@ proaudiotorrents.org CNAME .
 *.proaudiotorrents.org CNAME .
 prostylex.org CNAME .
 *.prostylex.org CNAME .
-proxbaypirate.org CNAME .
-*.proxbaypirate.org CNAME .
 proxifiedpiratebay.org CNAME .
 *.proxifiedpiratebay.org CNAME .
 proxyrarbg.org CNAME .
@@ -10467,8 +10465,6 @@ rom-news.org CNAME .
 *.rom-news.org CNAME .
 rune-server.org CNAME .
 *.rune-server.org CNAME .
-rus-media.org CNAME .
-*.rus-media.org CNAME .
 rustradio.org CNAME .
 *.rustradio.org CNAME .
 rutor.org CNAME .
@@ -10853,8 +10849,6 @@ watchseries.ovh CNAME .
 *.watchseries.ovh CNAME .
 gomoviesfree.page CNAME .
 *.gomoviesfree.page CNAME .
-proxybay.page CNAME .
-*.proxybay.page CNAME .
 vpnfortorrents.page CNAME .
 *.vpnfortorrents.page CNAME .
 torrent.parts CNAME .
@@ -10883,6 +10877,8 @@ putlocker.pics CNAME .
 *.putlocker.pics CNAME .
 torrentz2.pics CNAME .
 *.torrentz2.pics CNAME .
+city21.pk CNAME .
+*.city21.pk CNAME .
 www.opnsports.com.pk CNAME .
 *.www.opnsports.com.pk CNAME .
 watchmovies1.com.pk CNAME .
@@ -11135,6 +11131,8 @@ xbit.pw CNAME .
 *.xbit.pw CNAME .
 t.zerg.pw CNAME .
 *.t.zerg.pw CNAME .
+market-re.quest CNAME .
+*.market-re.quest CNAME .
 pirateproxy.quest CNAME .
 *.pirateproxy.quest CNAME .
 eztv.d4.re CNAME .
@@ -11319,6 +11317,8 @@ astrr.ru CNAME .
 *.astrr.ru CNAME .
 audionews.ru CNAME .
 *.audionews.ru CNAME .
+axell24.ru CNAME .
+*.axell24.ru CNAME .
 retracker.bashtel.ru CNAME .
 *.retracker.bashtel.ru CNAME .
 bit-torrent.ru CNAME .
@@ -11507,8 +11507,12 @@ pspstrana.ru CNAME .
 *.pspstrana.ru CNAME .
 putlocker9.ru CNAME .
 *.putlocker9.ru CNAME .
+pxnet.ru CNAME .
+*.pxnet.ru CNAME .
 readcomicsonline.ru CNAME .
 *.readcomicsonline.ru CNAME .
+d40969.acod.regrucolo.ru CNAME .
+*.d40969.acod.regrucolo.ru CNAME .
 cdn.retget.ru CNAME .
 *.cdn.retget.ru CNAME .
 gwp2-v19.rinet.ru CNAME .
@@ -11827,6 +11831,8 @@ yesmovies.so CNAME .
 *.yesmovies.so CNAME .
 thepb.social CNAME .
 *.thepb.social CNAME .
+astrra.space CNAME .
+*.astrra.space CNAME .
 bananas.space CNAME .
 *.bananas.space CNAME .
 couchtuner.space CNAME .
@@ -12323,8 +12329,6 @@ serienstream.to CNAME .
 *.serienstream.to CNAME .
 series9.to CNAME .
 *.series9.to CNAME .
-sextorrent.to CNAME .
-*.sextorrent.to CNAME .
 sflix.to CNAME .
 *.sflix.to CNAME .
 skytorrents.to CNAME .
@@ -13381,8 +13385,6 @@ proxybay.xyz CNAME .
 *.proxybay.xyz CNAME .
 publictracker.xyz CNAME .
 *.publictracker.xyz CNAME .
-putlockerfull.xyz CNAME .
-*.putlockerfull.xyz CNAME .
 redwarez.xyz CNAME .
 *.redwarez.xyz CNAME .
 oscar.reyesleon.xyz CNAME .
