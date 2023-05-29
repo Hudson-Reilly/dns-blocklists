@@ -3539,4 +3539,15 @@ cmp.osano.com
 # Testing glasses on misterspex.de
 *.api.ditto.com
 
+# belongs to mxroute.com, no tracking
+pixel.mxrouting.net
+
+# verification to login to worldfirst.com
+sg-wum.alibaba.com
+
+# Stops sonyliv.com sign in page from appearing
+d2r1yp2w7bby2u.cloudfront.net
+
+# https://github.com/hagezi/dns-blocklists/issues/1092
+hintaopas.fi
 

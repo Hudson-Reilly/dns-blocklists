@@ -203,6 +203,7 @@
 @@||b-gat.es^
 @@||b00.fr^
 @@||b23.ru^
+@@||b23.tv^
 @@||b2n.ir^
 @@||b54.in^
 @@||baid.us^
@@ -892,6 +893,7 @@
 @@||minu.me^
 @@||mmz.li^
 @@||mney.co^
+@@||mng.bz^
 @@||mnge.it^
 @@||mnot.es^
 @@||mo.ma^
@@ -998,7 +1000,6 @@
 @@||onx.la^
 @@||opr.as^
 @@||opr.news^
-@@||optimize.ly^
 @@||oran.ge^
 @@||orlo.uk^
 @@||osdb.link^
@@ -1787,6 +1788,7 @@
 @@||t.libren.ms^
 @@||l.linklyhq.com^
 @@||on.louisvuitton.com^
+@@||go.lu-h.de^
 @@||s.mj.run^
 @@||on.mktw.net^
 @@||i.mtr.cool^
