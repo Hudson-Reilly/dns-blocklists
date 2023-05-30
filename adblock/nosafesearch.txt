@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 29 May 2023 21:05 UTC
-! Version: 2023.0529.2105.27
+! Last modified: 30 May 2023 21:06 UTC
+! Version: 2023.0530.2106.34
 ! Syntax: AdBlock
-! Number of entries: 137
+! Number of entries: 136
 !
 ||search.0xcb.dev^
 ||searx.32bitflo.at^
@@ -130,7 +130,6 @@
 ||search.st8.at^
 ||startpage.com^
 ||search.stinpriza.org^
-||suchfeuer.de^
 ||searx.sulu.me^
 ||searx.sunless.cloud^
 ||searx.thegreenwebfoundation.org^
