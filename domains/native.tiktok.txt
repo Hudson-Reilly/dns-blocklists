@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 25 May 2023 12:40 UTC
-# Version: 2023.0525.1240.08
+# Last modified: 30 May 2023 21:18 UTC
+# Version: 2023.0530.2118.36
 # Syntax: Domains (including possible subdomains)
-# Number of entries: 177
+# Number of entries: 173
 #
 gpm-mon-sg.byteoversea.com
 gpm-mon-va.byteoversea.com
@@ -103,10 +103,7 @@ log3-normal-c-useast1a.tiktokv.com
 log31-normal.tiktokv.com
 log31-normal-alisg.tiktokv.com
 log31-normal-useast2a.tiktokv.com
-log53-normal-c-alisg.tiktokv.com
 log53-normal-c-useast1a.tiktokv.com
-log55-normal-c-alisg.tiktokv.com
-log55-normal-c-useast1a.tiktokv.com
 log58-normal.tiktokv.com
 log58-normal-alisg.tiktokv.com
 log58-normal-c-alisg.tiktokv.com
@@ -117,7 +114,6 @@ log58-normal-ycru.tiktokv.com
 log61-normal-c-alisg.tiktokv.com
 log77-normal-c-alisg.tiktokv.com
 log77-normal-c-useast1a.tiktokv.com
-log9-normal-c-alisg.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
 logbk.tiktokv.com
 mon.tiktokv.com
