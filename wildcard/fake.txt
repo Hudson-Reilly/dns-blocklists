@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 29 May 2023 21:17 UTC
-# Version: 2023.0529.2117.48
+# Last modified: 30 May 2023 21:20 UTC
+# Version: 2023.0530.2120.13
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 12179
+# Number of entries: 12165
 #
 *.100-solarni-lampa-cz.com
 *.11trikots.com
@@ -130,7 +130,6 @@
 *.acnsa.shop
 *.acousticjam.at
 *.acprdcu.com
-*.acrbulletin.org
 *.acs-musik.de
 *.acsde.de
 *.acslope.com
@@ -327,7 +326,6 @@
 *.alkozerond.com
 *.all-charms.com
 *.all-festivals.com
-*.all4passion.net
 *.all4you-fashion.com
 *.alla-prima.fr
 *.allbotoxonline.com
@@ -1620,6 +1618,7 @@
 *.bytshuhit.shop
 *.bz-fuerth.de
 *.bzsdhg.com
+*.c-and-a-cz.cz
 *.c-tozluxury.shop
 *.c3scores.com
 *.cabanavr.com
@@ -1657,6 +1656,7 @@
 *.camillesite.shop
 *.campclearancesale.store
 *.camper-schuhe.at
+*.camperbotycz.cz
 *.camperschuhe.at
 *.campevery.com
 *.campingandsurf.com
@@ -2244,6 +2244,7 @@
 *.uifamicom.contently.com
 *.controlledtoys.shop
 *.converseonlineshop.at
+*.conversevyprodej.cz
 *.cooagent.com
 *.cooclothes.com
 *.cooeedesignshop.com
@@ -3280,6 +3281,7 @@
 *.elo-cc.de
 *.elo-werker.com
 *.eloiseandlolo.com
+*.elonmix.org
 *.elonspace.org
 *.elontesla23.pro
 *.eloquentik.de
@@ -4124,6 +4126,7 @@
 *.galaxuv.com
 *.galerie-menzel.de
 *.galerieoswald.de
+*.galileofx.com
 *.galleria-versand.de
 *.galyu.com
 *.gamadino.com
@@ -4215,7 +4218,6 @@
 *.gear-outdoors.com
 *.gearanime.com
 *.gearathena.com
-*.gearclover.com
 *.gearhomies.com
 *.gearhuman.com
 *.gearmarch.com
@@ -5095,6 +5097,7 @@
 *.hunisot.com
 *.hunomahome.shop
 *.hunter-travel.com
+*.huntereshopcz.cz
 *.huntergermany.de
 *.huntergummistiefelsale.com
 *.huntergummistiefelsale.de
@@ -5472,7 +5475,6 @@
 *.johanneslemke.de
 *.johnghoops.com
 *.joiceclothing.shop
-*.join2musk.com
 *.joival.us
 *.jojocrystal.com
 *.jojolikes.com
@@ -5645,6 +5647,7 @@
 *.kedat.at
 *.keds-deutschland.com
 *.keds-schuhe.com
+*.kedscz.cz
 *.kedsdeutschlandshop.com
 *.kedsschuhe.top
 *.kedsschuhes.com
@@ -6883,7 +6886,7 @@
 *.mmfit.eu
 *.mmmjemp.cn
 *.mmoutlet.store
-*.mmplus.store
+*.m.mmplus.store
 *.mnaink.com
 *.mnoramemeti.com
 *.mnotina.com
@@ -7064,8 +7067,10 @@
 *.musicequipmentshopping.store
 *.musiknachhilfe.at
 *.muskai.net
+*.muskbot.io
 *.muskbtc.io
 *.muskelkatze-berlin.de
+*.musklink.org
 *.musleag.com
 *.mustafaelnimr.at
 *.musthavecycle.com
@@ -8501,6 +8506,7 @@
 *.pulsni-oxymetrcz.com
 *.pulsnioxymetrcz.com
 *.puma-boty.cz
+*.puma-cz.cz
 *.puma-tenisky.sk
 *.pumacredit.de
 *.pumadeutschland.de
@@ -9200,6 +9206,7 @@
 *.sameform.top
 *.samfrog.com
 *.saminil.com
+*.samsonitecz.cz
 *.samueloi.shop
 *.samuna.net
 *.samuraicrafts.com
@@ -9484,6 +9491,7 @@
 *.shirtacleshop.com
 *.shirtforfan.com
 *.shirttest.com
+*.shitforyou.eu
 *.shiva-boxing.com
 *.shmdesigns.com
 *.shockingdiscover.com
@@ -9802,7 +9810,6 @@
 *.soleboxing.shop
 *.soleildocrehome.com
 *.solixal.com
-*.solmtxa.com
 *.solnadymka-cz.com
 *.soloprime.co
 *.solovairde.de
@@ -10005,7 +10012,6 @@
 *.stephanwagner.at
 *.stepsclubg.com
 *.sterback.com
-*.sternenkinder-kronach.de
 *.sternestd.de
 *.steroide-kaufen.com
 *.steroidemeister.com
@@ -10077,7 +10083,6 @@
 *.storehomeandgarden.com
 *.storeladyshoe.com
 *.storenursery.com
-*.storeoatey.com
 *.storeoregononline.com
 *.storeoutdoorus.com
 *.storepetsafe.com
@@ -10276,13 +10281,11 @@
 *.syntheticaloutsport.com
 *.syntheticalusbag.com
 *.syos-space.capital
-*.syousefii.com
 *.systanz.de
 *.systemmeet.com
 *.systemonl.xyz
 *.sytm9.com
 *.szabo-ontozes.hu
-*.szdafanl.com
 *.szwstgj.com
 *.the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 *.t-post.com
@@ -10311,7 +10314,6 @@
 *.tailnaturd.com
 *.tailorfactory.com
 *.tailorwears.com
-*.taina.shop
 *.taktischewelt.com
 *.taledeals.com
 *.talentgrps.com
@@ -10362,7 +10364,6 @@
 *.te.de
 *.te-led.cloud
 *.te-soa.com
-*.teached.shop
 *.teaecesa.com
 *.tealbicycle.com
 *.team-soundprojekt.de
@@ -10422,7 +10423,6 @@
 *.tehsasave.com
 *.teichmann-fashion.de
 *.teilbetreuteswohnen.at
-*.tekimek.com
 *.tekstnet.com
 *.telefonbieten.de
 *.telemarktalk.com
@@ -10464,6 +10464,7 @@
 *.tes-ic.cloud
 *.tesauree.com
 *.tesento.com
+*.tesla-openai.com
 *.teslabestfor.com
 *.teslabounce.com
 *.teslabrc.com
@@ -10475,7 +10476,6 @@
 *.tesler-inc.trade
 *.tesler-online.space
 *.tesler2-l.online
-*.tesler2022.com
 *.tesrin.com
 *.tessentembeddedanalytics.com
 *.tessgnari.com
@@ -10550,7 +10550,6 @@
 *.thedcshoes.com
 *.theerogan.com
 *.thefitbuy.com
-*.thefraks.de
 *.thefrankie.site
 *.thefueledfan.com
 *.thefurnitureusa.com
@@ -10718,8 +10717,6 @@
 *.timsneakers.com
 *.timyllc.com
 *.timzin.de
-*.kdnm.tindo.biz
-*.m.tindo.biz
 *.tingnybaby.com
 *.tinkleo.com
 *.tinnitus-losung.com
@@ -10731,7 +10728,6 @@
 *.tischlerei-brouns.de
 *.tischlerei-eckart.de
 *.tischset.at
-*.tistbike.top
 *.titacai.top
 *.titan-man.me
 *.titel-kaufen.com
@@ -10787,6 +10783,7 @@
 *.tomosterreich.com
 *.toms-schweiz.com
 *.tomsdeutschland.com
+*.tomspraha.cz
 *.tomsschuhewien.at
 *.tomtailorsneakerdamen.com
 *.tomucir.shop
@@ -10796,7 +10793,6 @@
 *.toni-greif.de
 *.tonigk.com
 *.tonilah.xyz
-*.tonrakz.com
 *.tonspy.com
 *.tonundart.de
 *.tonybianco.online
@@ -10828,7 +10824,6 @@
 *.top-brennholz.de
 *.top-comp.cz
 *.top-quality.shop
-*.top-sales24.com
 *.topado.shop
 *.topafun.com
 *.topanyso.com
@@ -10880,7 +10875,6 @@
 *.toutazimutsu.shop
 *.tower-home.com
 *.towflank.com
-*.m.townsvalley.com
 *.toxpas.com
 *.toycartruck.com
 *.toycicty.shop
@@ -11003,7 +10997,6 @@
 *.tryems.com
 *.trytodaysdeal.com
 *.tsanlo.com
-*.tschu.top
 *.tshirtnow.net
 *.tsipps.com
 *.tsladouble23.com
@@ -11097,7 +11090,6 @@
 *.ug5m.guru
 *.ugeman.com
 *.uggcp.com
-*.ugglevne.cz
 *.uggoutletosterreich.com
 *.ugirlnailstudio.com
 *.uhren-beweger.at
@@ -11157,7 +11149,6 @@
 *.uniquepie.com
 *.uniqueshirt.shop
 *.uniteddeliveryagency.com
-*.m.unitedexpress.org
 *.unitedglobal-logistics.com
 *.unitedmailexpress.com
 *.unitedseniors.de
@@ -11181,7 +11172,6 @@
 *.upizone.com
 *.uplevelreward.com
 *.uplifttstar.com
-*.upopularef.com
 *.uppedo.com
 *.uprivia.com
 *.upropeca.com
@@ -11269,7 +11259,6 @@
 *.ussteelknives.com
 *.usstylishall-round.com
 *.uswesternaccessories.com
-*.uswesternwear.com
 *.uswomenshoe.com
 *.usyya.com
 *.utangwiki.com
@@ -11293,7 +11282,6 @@
 *.valvaz.com
 *.valyna.com
 *.vamano.cz
-*.vamnex.com
 *.vamora-store.de
 *.vampiresfreak.de
 *.vamps.at
@@ -11381,7 +11369,6 @@
 *.vero-mode.nl
 *.versacecouture.shop
 *.versand-rezeptfrei.de
-*.versandhandel-decker.de
 *.versandhaus-decker.de
 *.versandhaus-lindner.net
 *.versandpharma.com
@@ -11473,8 +11460,8 @@
 *.vittoriabike.com
 *.viva-med.de
 *.vivaraisehome.com
-*.vivianelektro.de
 *.vivilass.com
+*.vivo-barefoot-cz.cz
 *.vivobarefoot-deutschland.de
 *.vivobarefoot-osterreich.com
 *.vivobarefootcz.cz
@@ -11819,7 +11806,6 @@
 *.wizgoo.com
 *.wizmazzaken.com
 *.wj-tag.de
-*.wlosnd.com
 *.wltoys.co
 *.wmsandals.com
 *.wndirectusa.com
