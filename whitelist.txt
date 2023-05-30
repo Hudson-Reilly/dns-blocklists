@@ -3551,3 +3551,6 @@ d2r1yp2w7bby2u.cloudfront.net
 # https://github.com/hagezi/dns-blocklists/issues/1092
 hintaopas.fi
 
+# https://github.com/hagezi/dns-blocklists/issues/1094 
+skymedia.co.uk
+

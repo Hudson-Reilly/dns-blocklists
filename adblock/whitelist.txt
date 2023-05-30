@@ -3879,3 +3879,6 @@
 @@|hintaopas.fi^
 @@|www.hintaopas.fi^
 
+! https://github.com/hagezi/dns-blocklists/issues/1094 
+@@|skymedia.co.uk^
+

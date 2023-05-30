@@ -591,6 +591,7 @@
 @@||go.ly^
 @@||godrk.de^
 @@||gofund.me^
+@@||gomomento.co^
 @@||goo.by^
 @@||goo.click^
 @@||goo.gl^
@@ -771,6 +772,7 @@
 @@||laco.st^
 @@||lam.bo^
 @@||lat.ms^
+@@||latingram.my^
 @@||lativ.tw^
 @@||lbtw.tw^
 @@||lc.cx^
@@ -804,6 +806,7 @@
 @@||lihi3.me^
 @@||lihipro.com^
 @@||lihivip.com^
+@@||liip.to^
 @@||lin.ee^
 @@||lin.io^
 @@||link.ac^
@@ -1023,6 +1026,7 @@
 @@||p.pw^
 @@||p1r.es^
 @@||p4k.in^
+@@||pa.ag^
 @@||pag.la^
 @@||parg.co^
 @@||parky.tv^
@@ -1156,6 +1160,7 @@
 @@||riz.cz^
 @@||rizy.ir^
 @@||rlu.ru^
+@@||rly.pt^
 @@||rnm.me^
 @@||rod.gs^
 @@||roflc.at^
