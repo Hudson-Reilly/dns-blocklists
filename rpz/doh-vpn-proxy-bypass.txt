@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1685394360 86400 3600 604800 30
+@ SOA rpz.hagezi.doh-vpn-proxy-bypass. hostmaster.hagezi.doh-vpn-proxy-bypass. 1685480820 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Enyrypted DNS/VPN/TOR/Proxy Bypass DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 29 May 2023 21:06 UTC
-; Version: 2023.0529.2106.25
+; Last modified: 30 May 2023 21:07 UTC
+; Version: 2023.0530.2107.45
 ; Syntax: RPZ
-; Number of entries: 4232
+; Number of entries: 4228
 ;
 vpn.ac CNAME .
 *.vpn.ac CNAME .
@@ -1275,6 +1275,8 @@ pixolium.com CNAME .
 *.pixolium.com CNAME .
 placenetworks.com CNAME .
 *.placenetworks.com CNAME .
+plainproxies.com CNAME .
+*.plainproxies.com CNAME .
 helios.plan9-dns.com CNAME .
 *.helios.plan9-dns.com CNAME .
 kronos.plan9-dns.com CNAME .
@@ -1631,8 +1633,6 @@ tk31z.com CNAME .
 *.tk31z.com CNAME .
 d.toairs.com CNAME .
 *.d.toairs.com CNAME .
-proxy.toolur.com CNAME .
-*.proxy.toolur.com CNAME .
 top10vpn.com CNAME .
 *.top10vpn.com CNAME .
 topicfish.com CNAME .
@@ -1645,6 +1645,8 @@ torsona.com CNAME .
 *.torsona.com CNAME .
 torvpn.com CNAME .
 *.torvpn.com CNAME .
+totallyacdn.com CNAME .
+*.totallyacdn.com CNAME .
 trialproxy.com CNAME .
 *.trialproxy.com CNAME .
 trickbyte.com CNAME .
@@ -2761,8 +2763,6 @@ adguard.ihatemy.live CNAME .
 *.adguard.ihatemy.live CNAME .
 youtubeunblocked.live CNAME .
 *.youtubeunblocked.live CNAME .
-unblocked.llc CNAME .
-*.unblocked.llc CNAME .
 o1.lt CNAME .
 *.o1.lt CNAME .
 onion.lt CNAME .
@@ -2867,14 +2867,10 @@ ibksturm.synology.me CNAME .
 *.ibksturm.synology.me CNAME .
 ihctw.synology.me CNAME .
 *.ihctw.synology.me CNAME .
-timetohide.me CNAME .
-*.timetohide.me CNAME .
 tubeunblock.me CNAME .
 *.tubeunblock.me CNAME .
 unblocked.me CNAME .
 *.unblocked.me CNAME .
-unblockproxy.me CNAME .
-*.unblockproxy.me CNAME .
 uvpn.me CNAME .
 *.uvpn.me CNAME .
 vpnme.me CNAME .
@@ -3539,6 +3535,8 @@ us-central.adhole.org CNAME .
 *.us-central.adhole.org CNAME .
 us-east.adhole.org CNAME .
 *.us-east.adhole.org CNAME .
+airdns.org CNAME .
+*.airdns.org CNAME .
 airvpn.org CNAME .
 *.airvpn.org CNAME .
 mailer.amlegion.org CNAME .
@@ -4139,8 +4137,6 @@ proxysite.video CNAME .
 *.proxysite.video CNAME .
 unblockyoutube.video CNAME .
 *.unblockyoutube.video CNAME .
-unblocked.vip CNAME .
-*.unblocked.vip CNAME .
 dns.watch CNAME .
 *.dns.watch CNAME .
 freeproxy.win CNAME .

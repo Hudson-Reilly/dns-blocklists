@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 29 May 2023 21:06 UTC
-# Version: 2023.0529.2106.25
+# Last modified: 30 May 2023 21:07 UTC
+# Version: 2023.0530.2107.45
 # Syntax: DNSMasq
-# Number of entries: 2116
+# Number of entries: 2114
 #
 address=/0000a-fast-proxy.de/#
 address=/ns.00dani.me/#
@@ -99,6 +99,7 @@ address=/ahadns.net/#
 address=/blitz.ahadns.com/#
 address=/blitz-setup.ahadns.com/#
 address=/aihe.app/#
+address=/airdns.org/#
 address=/airvpn.org/#
 address=/akunssh.net/#
 address=/dnsnl.alekberg.net/#
@@ -1305,6 +1306,7 @@ address=/pkproxy.info/#
 address=/pktriot.net/#
 address=/pkw-aufladen.de/#
 address=/placenetworks.com/#
+address=/plainproxies.com/#
 address=/helios.plan9-dns.com/#
 address=/kronos.plan9-dns.com/#
 address=/pluton.plan9-dns.com/#
@@ -1751,13 +1753,11 @@ address=/jp.tiarap.org/#
 address=/tigervpn.com/#
 address=/tiiner.com/#
 address=/tikvpn.com/#
-address=/timetohide.me/#
 address=/timmes.nl/#
 address=/tk31z.com/#
 address=/dns.tls-data.de/#
 address=/tlz.asia/#
 address=/d.toairs.com/#
-address=/proxy.toolur.com/#
 address=/top10vpn.com/#
 address=/topicfish.com/#
 address=/topsecure.info/#
@@ -1779,6 +1779,7 @@ address=/torrentproxy.co/#
 address=/torservers.net/#
 address=/torsona.com/#
 address=/torvpn.com/#
+address=/totallyacdn.com/#
 address=/doh.totoro.pub/#
 address=/touchvpn.net/#
 address=/tradeadspace.info/#
@@ -1836,9 +1837,7 @@ address=/unblockanything.com/#
 address=/unblockblocked.net/#
 address=/unblockbook.biz/#
 address=/unblocked.biz/#
-address=/unblocked.llc/#
 address=/unblocked.me/#
-address=/unblocked.vip/#
 address=/unblocked2.info/#
 address=/unblockedbrowser.com/#
 address=/unblockedme.com/#
@@ -1859,7 +1858,6 @@ address=/unblockit.uno/#
 address=/unblockme.us/#
 address=/unblockmyweb.com/#
 address=/unblockprox.com/#
-address=/unblockproxy.me/#
 address=/unblockproxy.us/#
 address=/unblockvid.com/#
 address=/unblockvideos.com/#

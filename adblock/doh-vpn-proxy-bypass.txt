@@ -4,10 +4,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 29 May 2023 21:06 UTC
-! Version: 2023.0529.2106.25
+! Last modified: 30 May 2023 21:07 UTC
+! Version: 2023.0530.2107.45
 ! Syntax: AdBlock
-! Number of entries: 2116
+! Number of entries: 2114
 !
 ||0000a-fast-proxy.de^
 ||ns.00dani.me^
@@ -99,6 +99,7 @@
 ||blitz.ahadns.com^
 ||blitz-setup.ahadns.com^
 ||aihe.app^
+||airdns.org^
 ||airvpn.org^
 ||akunssh.net^
 ||dnsnl.alekberg.net^
@@ -1305,6 +1306,7 @@
 ||pktriot.net^
 ||pkw-aufladen.de^
 ||placenetworks.com^
+||plainproxies.com^
 ||helios.plan9-dns.com^
 ||kronos.plan9-dns.com^
 ||pluton.plan9-dns.com^
@@ -1751,13 +1753,11 @@
 ||tigervpn.com^
 ||tiiner.com^
 ||tikvpn.com^
-||timetohide.me^
 ||timmes.nl^
 ||tk31z.com^
 ||dns.tls-data.de^
 ||tlz.asia^
 ||d.toairs.com^
-||proxy.toolur.com^
 ||top10vpn.com^
 ||topicfish.com^
 ||topsecure.info^
@@ -1779,6 +1779,7 @@
 ||torservers.net^
 ||torsona.com^
 ||torvpn.com^
+||totallyacdn.com^
 ||doh.totoro.pub^
 ||touchvpn.net^
 ||tradeadspace.info^
@@ -1836,9 +1837,7 @@
 ||unblockblocked.net^
 ||unblockbook.biz^
 ||unblocked.biz^
-||unblocked.llc^
 ||unblocked.me^
-||unblocked.vip^
 ||unblocked2.info^
 ||unblockedbrowser.com^
 ||unblockedme.com^
@@ -1859,7 +1858,6 @@
 ||unblockme.us^
 ||unblockmyweb.com^
 ||unblockprox.com^
-||unblockproxy.me^
 ||unblockproxy.us^
 ||unblockvid.com^
 ||unblockvideos.com^
