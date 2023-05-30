@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 29 May 2023 21:12 UTC
-# Version: 2023.0529.2112.11
+# Last modified: 30 May 2023 21:14 UTC
+# Version: 2023.0530.2114.03
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 104572
+# Number of entries: 104519
 #
 *.000000tyc.com
 *.00000178.com
@@ -91733,7 +91733,6 @@
 *.st66601.com
 *.st66602.com
 *.st66606.com
-*.st855.com
 *.st86ic.com
 *.stack88.net
 *.stage-api-demo-games.top
@@ -91802,7 +91801,6 @@
 *.stormyslasermedspa.com
 *.storspelare.com
 *.storspiller.com
-*.stpx.xyz
 *.strikeitluckycasino.com
 *.strikewin.com
 *.stroim-ufa.ru
@@ -91974,7 +91972,6 @@
 *.supersportsbook.com
 *.supertotobet1115.com
 *.supertvb.com
-*.superusacasino.com
 *.supervip88.com
 *.superwin88.vip
 *.support166.com
@@ -92043,9 +92040,6 @@
 *.sverigekronan.com
 *.svip0099.com
 *.svip17365.com
-*.svipii.com
-*.svipiii.com
-*.svipiv.com
 *.svipix.com
 *.svptbsp.xyz
 *.svs88.com
@@ -92328,7 +92322,6 @@
 *.t5176.com
 *.t5213.com
 *.t5271.com
-*.t5359.com
 *.t5381.com
 *.t5448.com
 *.t5450.com
@@ -92481,7 +92474,6 @@
 *.tagpink.xyz
 *.tai567live.vip
 *.tai789.net
-*.tai789.win
 *.tai99vin.net
 *.taiappj9.com
 *.taiappk8.com
@@ -92494,7 +92486,6 @@
 *.taigame789.club
 *.taigamesunwin.vin
 *.taigamesunwin.vip
-*.taigo88vn.com
 *.taigo88vn.pro
 *.taihit.win
 *.taiiwin.club
@@ -92606,7 +92597,6 @@
 *.tbshandong.com
 *.tbtaiwan.com
 *.tbtianjin.com
-*.tbtx.club
 *.tbw16.com
 *.tbwayesport.com
 *.tbxianggang.com
@@ -92714,8 +92704,6 @@
 *.v978np.tgtest.site
 *.vd001-np-aw01.tgtest.site
 *.vd001-np-aw03.tgtest.site
-*.vd008-np-te06.tgtest.site
-*.vd008-np-te07.tgtest.site
 *.tgtgt3412.com
 *.th-1x.com
 *.th-1xbet.com
@@ -92825,7 +92813,6 @@
 *.thethaodabet.com
 *.thethaodafa.com
 *.thethaofb88.com
-*.thethaofi88.com
 *.thethaofun88.com
 *.thethaojbo.com
 *.thethaoviet88.com
@@ -93154,8 +93141,6 @@
 *.top88.club
 *.top88.fun
 *.top88.me
-*.top88.uk
-*.top88.us
 *.top88.vn
 *.top88a.vip
 *.top88vn.net
@@ -93507,23 +93492,11 @@
 *.ttkjd.com
 *.ttkk33.com
 *.ttl996.com
-*.ttlgf104.com
-*.ttlgf106.com
-*.ttlgf107.com
 *.ttlgf109.com
 *.ttlgf110.com
 *.ttlgf111.com
 *.ttmttv.xyz
 *.ttplan.site
-*.ttqp2135.com
-*.ttqp2218.com
-*.ttqp2256.com
-*.ttqp2328.com
-*.ttqp2397.com
-*.ttqp2517.com
-*.ttqp2579.com
-*.ttqp2628.com
-*.ttqp2635.com
 *.ttqp2727.com
 *.ttqp2777.com
 *.ttqp2788.com
@@ -93841,7 +93814,6 @@
 *.tyc5844.com
 *.tyc5864.com
 *.tyc5865.com
-*.tyc6.fun
 *.tyc6223.com
 *.tyc6610.com
 *.tyc6681.com
@@ -93849,7 +93821,6 @@
 *.tyc6683.com
 *.tyc7395.com
 *.tyc7582.com
-*.tyc8.one
 *.tyc8576.com
 *.tyc8639.com
 *.tyc9525.com
@@ -93864,7 +93835,6 @@
 *.tycr59.com
 *.tycvvb.com
 *.tycw63.com
-*.tyczt.one
 *.tyd147258369.com
 *.tyd258369147.com
 *.tyd336699.com
@@ -93974,7 +93944,6 @@
 *.u41669.com
 *.u464646.com
 *.u4ru3vu3287.com
-*.u5359.com
 *.u5454.com
 *.u5a0rsz.com
 *.u6.app
@@ -94389,7 +94358,6 @@
 *.uhwfr.com
 *.uiiube.xyz
 *.uiiuju.xyz
-*.uik6789.com
 *.uj789.org
 *.uj9563.com
 *.ujihoki.com
@@ -94510,7 +94478,6 @@
 *.usdbet98.com
 *.usdt51234.com
 *.usdttransfers.com
-*.userjet.space
 *.ushntao.xyz
 *.usun11.com
 *.usuuxs.xyz
@@ -94538,27 +94505,8 @@
 *.uudetnetticasino.com
 *.uufangyu11.com
 *.uufangyu22.com
-*.uuqp1127.com
-*.uuqp1219.com
-*.uuqp1227.com
-*.uuqp126.com
-*.uuqp1269.com
 *.uuqp1275.com
-*.uuqp1289.com
-*.uuqp1312.com
-*.uuqp1315.com
-*.uuqp1325.com
-*.uuqp1331.com
-*.uuqp135.com
-*.uuqp1519.com
-*.uuqp1526.com
-*.uuqp1635.com
-*.uuqp2378.com
 *.uuqp2678.com
-*.uuqp2912.com
-*.uuqp3176.com
-*.uuqp3359.com
-*.uuqp5200.com
 *.uuqp678.com
 *.uuqp8811.com
 *.uuqp8855.com
@@ -95369,7 +95317,6 @@
 *.vf001.com
 *.vf002.com
 *.vf003.com
-*.vf003.xyz
 *.vf004.com
 *.vf005.com
 *.vf006.com
