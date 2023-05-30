@@ -4,10 +4,10 @@
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ! Expires: Updated regularly
-! Last modified: 29 May 2023 21:10 UTC
-! Version: 2023.0529.2110.13
+! Last modified: 30 May 2023 21:11 UTC
+! Version: 2023.0530.2111.51
 ! Syntax: AdBlock
-! Number of entries: 6729
+! Number of entries: 6634
 !
 ||zer0day.000webhostapp.com^
 ||0123456789nonexistent.com^
@@ -124,6 +124,7 @@
 ||1377x.is^
 ||141jav.com^
 ||147job.com^
+||107.182.30.76.16clouds.com^
 ||freedom.1776.ga^
 ||1bt.ru^
 ||1clickdown.com^
@@ -1140,6 +1141,7 @@
 ||cestrm.xyz^
 ||dev.tracker.cf-identity-wallet.metadata.dev.cf-deployments.org^
 ||cgpeers.com^
+||ch3oh.ru^
 ||chanakancloud.net^
 ||chayachobi.net^
 ||chdbits.org^
@@ -1261,6 +1263,7 @@
 ||fst.omnilounge.co.uk^
 ||p2pworlds.co.uk^
 ||piratebae.co.uk^
+||ts.populargamers.co.za^
 ||psychocydd.co.uk^
 ||www.smithstorrents.co.uk^
 ||supremetorrents.co.uk^
@@ -1328,6 +1331,7 @@
 ||comandotorrents.org^
 ||comandotorrentshd.net^
 ||mywebpages.comcast.net^
+||c-71-227-163-17.hsd1.wa.comcast.net^
 ||comcentral.com^
 ||comebackdownload.com^
 ||comicat.org^
@@ -3175,6 +3179,7 @@
 ||linkr.top^
 ||linkseed.net^
 ||li1406-230.members.linode.com^
+||li2021-95.members.linode.com^
 ||tracker.lintk.me^
 ||linux23.com^
 ||linuxmafia.net^
@@ -3471,6 +3476,7 @@
 ||mooslo.com^
 ||tracker.morethantv.me^
 ||morpheustvhd.com^
+||wg.mortis.me^
 ||motivationalhacks.com^
 ||motorworld.net^
 ||motv.top^
@@ -4532,7 +4538,7 @@
 ||pxnet.ru^
 ||qbittorrent.org^
 ||qiq.ws^
-||tracker.qu.ax^
+||qu.ax^
 ||quebec-partage.com^
 ||quebec-team.net^
 ||quetelbd.net^
@@ -4823,6 +4829,7 @@
 ||seehd.uno^
 ||seeingblind.net^
 ||seekasong.com^
+||mail.segso.net^
 ||bigfoot1942.sektori.org^
 ||sendit.cloud^
 ||sendspace.com^
@@ -5141,7 +5148,6 @@
 ||ssonlinebd.com^
 ||ssrmovies.win^
 ||stadium-live.biz^
-||stafaband.info^
 ||stanthecaddy.com^
 ||star4m.com^
 ||starflixbd.com^
@@ -5410,8 +5416,6 @@
 ||thepiratebay2.to^
 ||thepiratebay3.org^
 ||thepiratebay3.to^
-||thepiratebay9.info^
-||thepiratebay9.net^
 ||thepiratebaya.com^
 ||thepiratebayorg.org^
 ||thepiratebayproxylist.se^
@@ -5513,7 +5517,6 @@
 ||topmoviesonline.org^
 ||topnet.in^
 ||topnow.se^
-||toppmovies.com^
 ||topseda.ir^
 ||topstreamfilm.com^
 ||topstreamfilm.org^
@@ -5578,7 +5581,6 @@
 ||torrent9.to^
 ||torrent9.uno^
 ||torrent9cz.fr^
-||torrentai.net^
 ||torrentarsivi.com^
 ||torrentazos.com^
 ||torrentbay.to^
@@ -5643,7 +5645,6 @@
 ||torrentgalaxy.to^
 ||torrentgirls.com^
 ||torrenthaja.com^
-||torrenthajo.com^
 ||torrenthashes.com^
 ||torrenthound.com^
 ||torrenthounds.com^
@@ -5675,7 +5676,6 @@
 ||torrentmaniacs.org^
 ||torrentmas.com^
 ||torrentmatrix.com^
-||torrentmax.gg^
 ||torrentmax15.com^
 ||torrentmegafilmes.tv^
 ||torrentmind.com^
@@ -5689,7 +5689,6 @@
 ||torrentonly.com^
 ||torrentor.pro^
 ||torrentoyunindir.com^
-||torrentparadise.cl^
 ||torrentparadise.to^
 ||tracker.torrentparty.com^
 ||torrentpond.com^
@@ -5711,8 +5710,6 @@
 ||torrentqq51.com^
 ||torrentqq52.com^
 ||torrentqq53.com^
-||torrentqq71.com^
-||torrentqq72.com^
 ||torrentqq74.com^
 ||torrentquest.com^
 ||torrentreactor.net^
@@ -5742,8 +5739,6 @@
 ||torrentscan.com^
 ||torrentsearch.com^
 ||torrentsee23.com^
-||torrentsee24.com^
-||torrentseed.org^
 ||tracker.torrentseeds.org^
 ||torrentseeker.com^
 ||torrentsfilmeshd.tv^
@@ -5846,7 +5841,6 @@
 ||tranceroute.com^
 ||trancetraffic.com^
 ||transamrit.net^
-||transfer-tracker.eu^
 ||transmissionbt.com^
 ||trantor.is^
 ||trec.to^
@@ -5913,8 +5907,6 @@
 ||tvtorrentz.org^
 ||tvzion.com^
 ||twilightsporn.com^
-||twilighttorrents.net^
-||twins-torrents.com^
 ||twist.moe^
 ||twistedtorrents.com^
 ||two-movies.org^
@@ -5983,95 +5975,9 @@
 ||unblocked.to^
 ||unblocked.tw^
 ||unblocked.win^
-||1337x.unblocked.llc^
-||2ddl.unblocked.llc^
-||apnaview.unblocked.llc^
-||avxhome.unblocked.llc^
-||awesomedl.unblocked.llc^
-||axxomovies.unblocked.llc^
-||batmanstream.unblocked.llc^
-||beemp3.unblocked.llc^
-||btdb.unblocked.llc^
-||btscene.unblocked.llc^
-||couchtuner.unblocked.llc^
-||cricfree.unblocked.best^
-||ddlvalley.unblocked.llc^
-||demonoid.unblocked.llc^
-||dl4all.unblocked.llc^
-||downloadbooks.unblocked.llc^
-||ebookee.unblocked.llc^
-||eztv.unblocked.llc^
-||fmovies.unblocked.llc^
-||freebookspot.unblocked.llc^
-||freemags.unblocked.llc^
-||freemagspot.unblocked.llc^
-||ganool.unblocked.llc^
-||gfxxtra.unblocked.llc^
-||glotorrents.unblocked.llc^
-||gosong.unblocked.llc^
-||hdonline.unblocked.llc^
-||icefilms.unblocked.llc^
-||idope.unblocked.llc^
-||itorrent.unblocked.llc^
-||iwatchonline.unblocked.llc^
-||kat.unblocked.llc^
-||libgen.unblocked.llc^
-||limetorrents.unblocked.llc^
-||magnetdl.unblocked.llc^
 ||mamahd.unblocked.name^
-||megafiletube.unblocked.llc^
-||megasearch.unblocked.llc^
-||monova.unblocked.llc^
-||movie25.unblocked.llc^
-||movie4k.unblocked.llc^
-||movie4u.unblocked.llc^
-||moviemagnet.unblocked.llc^
-||mp3clan.unblocked.llc^
-||mp3juices.unblocked.llc^
-||newalbumreleases.unblocked.llc^
-||otorrents.unblocked.llc^
-||pdfgiant.unblocked.llc^
-||pirateiro.unblocked.llc^
-||popcorntime.unblocked.llc^
-||primewire.unblocked.llc^
-||projectfreetv.unblocked.llc^
 ||putlocker.unblocked.ist^
-||putlockerseries.unblocked.llc^
-||rapidmoviez.unblocked.llc^
-||rarbg.unblocked.llc^
-||rlsbb.unblocked.llc^
-||rlslog.unblocked.llc^
-||rnbxclusive.unblocked.llc^
-||rojadirecta.unblocked.llc^
-||sceper.unblocked.llc^
-||scihub.unblocked.llc^
-||scnlog.unblocked.llc^
-||scnsrc.unblocked.llc^
-||seedpeer.unblocked.llc^
-||seventorrents.unblocked.llc^
-||skytorrents.unblocked.llc^
-||softarchive.unblocked.llc^
-||solarmovie.unblocked.llc^
-||streamwoop.unblocked.llc^
-||torlock.unblocked.llc^
-||torrentbit.unblocked.llc^
-||torrentbutler.unblocked.llc^
-||torrentcd.unblocked.llc^
-||torrentdownload.unblocked.llc^
-||torrentdownloads.unblocked.llc^
-||torrentfunk.unblocked.llc^
-||torrentking.unblocked.llc^
-||tvbox.unblocked.llc^
-||vidics.unblocked.llc^
-||vodly.unblocked.llc^
-||watchepisodes.unblocked.llc^
 ||watchepisodeseries.unblocked.nu^
-||watchfree.unblocked.llc^
-||watchfreemovies.unblocked.llc^
-||watchseries.unblocked.llc^
-||worldwidetorrents.unblocked.llc^
-||yts.unblocked.llc^
-||zooqle.unblocked.llc^
 ||unblockedpiratebay.com^
 ||unblocker.cc^
 ||unblocker.win^
@@ -6126,6 +6032,7 @@
 ||uniteam.co^
 ||universalmediaserver.com^
 ||univisionbd.net^
+||unknownsite.de^
 ||unlimited-tracker.net^
 ||unlimitedserials.com^
 ||unlimitz.com^
@@ -6225,7 +6132,6 @@
 ||vertor.com^
 ||vexmovies.org^
 ||vf-stream.org^
-||vgmtorrents.net^
 ||vhmovies.net^
 ||bt.viachicago.org^
 ||viatorrents.com^
@@ -6262,7 +6168,6 @@
 ||vidto.me^
 ||vidtodo.com^
 ||viduplayer.com^
-||viettorrent.vn^
 ||viewsportstv.com^
 ||vigorish.ru^
 ||vikv.net^
