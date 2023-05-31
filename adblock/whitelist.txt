@@ -3885,3 +3885,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1096
 @@|livechat.ivpn.net^
 
+! CNAMEs for volkswagen.de and others
+@@||lighthouselabs.eu^
+
