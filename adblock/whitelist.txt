@@ -72,7 +72,7 @@
 ! Amazon Video
 @@||aiv-cdn.net^
 @@||aiv-cdn.net.c.footprint.net^
-@@||aiv-delivery.net^
+!*.aiv-delivery.net
 @@||amazonvideo.com^
 @@||atv-ext*.amazon.com^
 @@||atv-ps.amazon.com^
@@ -3887,4 +3887,7 @@
 
 ! CNAMEs for volkswagen.de and others
 @@||lighthouselabs.eu^
+
+! Smartify app on iPhonw
+@@|api.smartify.org^
 
