@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 May 2023 21:10 UTC
-# Version: 2023.0528.2110.35
+# Last modified: 31 May 2023 21:15 UTC
+# Version: 2023.0531.2115.23
 # Syntax: DNSMasq
-# Number of entries: 1885
+# Number of entries: 1887
 #
 address=/000a.de/#
 address=/000space.com/#
@@ -229,6 +229,7 @@ address=/an-erster-stelle.de/#
 address=/anchor-blog.com/#
 address=/and-friends.de/#
 address=/and-you.de/#
+address=/andharban.com/#
 address=/anfliegen.de/#
 address=/angelcities.com/#
 address=/angelfire.com/#
@@ -1671,6 +1672,7 @@ address=/ultimatefreehost.in/#
 address=/umbler.net/#
 address=/unaux.com/#
 address=/unblog.fr/#
+address=/undonet.com/#
 address=/untergrund.net/#
 address=/uphero.com/#
 address=/uploader.eu/#
@@ -1708,6 +1710,7 @@ address=/voten.in/#
 address=/vpswala.org/#
 address=/vxub.com/#
 address=/vz.lc/#
+address=/wallinside.blog/#
 address=/wallinside.com/#
 address=/wallst.ru/#
 address=/wapka.club/#
@@ -1795,7 +1798,6 @@ address=/website.at/#
 address=/website.org/#
 address=/website-home.ws/#
 address=/website2.me/#
-address=/websitehostfree.com/#
 address=/webspawner.com/#
 address=/webstarts.com/#
 address=/webuda.com/#

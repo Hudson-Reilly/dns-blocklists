@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1685308200 86400 3600 604800 30
+@ SOA rpz.hagezi.hoster. hostmaster.hagezi.hoster. 1685567700 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Badware Hoster DNS Blocklist
@@ -8,10 +8,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 28 May 2023 21:10 UTC
-; Version: 2023.0528.2110.35
+; Last modified: 31 May 2023 21:15 UTC
+; Version: 2023.0531.2115.23
 ; Syntax: RPZ
-; Number of entries: 3770
+; Number of entries: 3774
 ;
 download.ac CNAME .
 *.download.ac CNAME .
@@ -147,6 +147,8 @@ xp3.biz CNAME .
 *.xp3.biz CNAME .
 zensurfrei.biz CNAME .
 *.zensurfrei.biz CNAME .
+wallinside.blog CNAME .
+*.wallinside.blog CNAME .
 webnode.bo CNAME .
 *.webnode.bo CNAME .
 blogger.com.br CNAME .
@@ -445,6 +447,8 @@ ampedpages.com CNAME .
 *.ampedpages.com CNAME .
 anchor-blog.com CNAME .
 *.anchor-blog.com CNAME .
+andharban.com CNAME .
+*.andharban.com CNAME .
 angelcities.com CNAME .
 *.angelcities.com CNAME .
 angelfire.com CNAME .
@@ -1611,6 +1615,8 @@ ultim-blog.com CNAME .
 *.ultim-blog.com CNAME .
 unaux.com CNAME .
 *.unaux.com CNAME .
+undonet.com CNAME .
+*.undonet.com CNAME .
 uphero.com CNAME .
 *.uphero.com CNAME .
 usafreespace.com CNAME .
@@ -1667,8 +1673,6 @@ webs.com CNAME .
 *.webs.com CNAME .
 websimages.com CNAME .
 *.websimages.com CNAME .
-websitehostfree.com CNAME .
-*.websitehostfree.com CNAME .
 webspawner.com CNAME .
 *.webspawner.com CNAME .
 webstarts.com CNAME .
