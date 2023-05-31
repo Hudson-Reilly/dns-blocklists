@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1685308140 86400 3600 604800 30
+@ SOA rpz.hagezi.dyndns. hostmaster.hagezi.dyndns. 1685567640 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's DynDNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 28 May 2023 21:09 UTC
-; Version: 2023.0528.2109.16
+; Last modified: 31 May 2023 21:14 UTC
+; Version: 2023.0531.2114.15
 ; Syntax: RPZ
-; Number of entries: 3110
+; Number of entries: 3120
 ;
 120v.ac CNAME .
 *.120v.ac CNAME .
@@ -1094,6 +1094,8 @@ marieblazek.com CNAME .
 *.marieblazek.com CNAME .
 maurinfor.com CNAME .
 *.maurinfor.com CNAME .
+mecalco.com CNAME .
+*.mecalco.com CNAME .
 medbury.com CNAME .
 *.medbury.com CNAME .
 medittech.com CNAME .
@@ -1184,6 +1186,8 @@ ndcg.com CNAME .
 *.ndcg.com CNAME .
 neat-url.com CNAME .
 *.neat-url.com CNAME .
+nellopy.com CNAME .
+*.nellopy.com CNAME .
 net-freaks.com CNAME .
 *.net-freaks.com CNAME .
 netdorm.com CNAME .
@@ -1526,6 +1530,8 @@ upperrealm.com CNAME .
 *.upperrealm.com CNAME .
 v13clan.com CNAME .
 *.v13clan.com CNAME .
+vast-consulting.com CNAME .
+*.vast-consulting.com CNAME .
 vaughngass.com CNAME .
 *.vaughngass.com CNAME .
 vctel.com CNAME .
@@ -1752,6 +1758,8 @@ govt.hu CNAME .
 *.govt.hu CNAME .
 t-online.hu CNAME .
 *.t-online.hu CNAME .
+dnshome.icu CNAME .
+*.dnshome.icu CNAME .
 dyndns.icu CNAME .
 *.dyndns.icu CNAME .
 nav.co.id CNAME .
@@ -1856,6 +1864,8 @@ zelslonik.info CNAME .
 *.zelslonik.info CNAME .
 dedyn.io CNAME .
 *.dedyn.io CNAME .
+sly.io CNAME .
+*.sly.io CNAME .
 tru.io CNAME .
 *.tru.io CNAME .
 star.is CNAME .
@@ -2416,8 +2426,6 @@ afraid.org CNAME .
 *.afraid.org CNAME .
 ahoeab.org CNAME .
 *.ahoeab.org CNAME .
-airdns.org CNAME .
-*.airdns.org CNAME .
 allisons.org CNAME .
 *.allisons.org CNAME .
 allowed.org CNAME .
@@ -2522,6 +2530,8 @@ dyndns.org CNAME .
 *.dyndns.org CNAME .
 dynip.org CNAME .
 *.dynip.org CNAME .
+dynserv.org CNAME .
+*.dynserv.org CNAME .
 e-m-a-i-l.org CNAME .
 *.e-m-a-i-l.org CNAME .
 easydns.org CNAME .

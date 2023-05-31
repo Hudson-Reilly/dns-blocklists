@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 28 May 2023 21:09 UTC
-# Version: 2023.0528.2109.16
+# Last modified: 31 May 2023 21:14 UTC
+# Version: 2023.0531.2114.15
 # Syntax: DNSMasq
-# Number of entries: 1555
+# Number of entries: 1560
 #
 address=/0000000000000000000000.com/#
 address=/0rg.us/#
@@ -72,7 +72,6 @@ address=/adresedemail.com/#
 address=/afraid.org/#
 address=/ahoeab.org/#
 address=/aintno.info/#
-address=/airdns.org/#
 address=/airlinemeals.net/#
 address=/albertn.ru/#
 address=/allez.la/#
@@ -340,6 +339,7 @@ address=/dnsfailover.net/#
 address=/dnsfor.me/#
 address=/dnsget.org/#
 address=/dnshome.de/#
+address=/dnshome.icu/#
 address=/dnsis.us/#
 address=/dnsiskinky.com/#
 address=/dnsking.ch/#
@@ -451,6 +451,7 @@ address=/dynns.com/#
 address=/dyns.be/#
 address=/dyns.cx/#
 address=/dyns.net/#
+address=/dynserv.org/#
 address=/dynssl.com/#
 address=/dynu.com/#
 address=/dynu.net/#
@@ -950,6 +951,7 @@ address=/mcsoft.org/#
 address=/mcwrite.net/#
 address=/ddns.me.uk/#
 address=/dynamicdns.me.uk/#
+address=/mecalco.com/#
 address=/medbury.com/#
 address=/medittech.com/#
 address=/mefound.com/#
@@ -1062,6 +1064,7 @@ address=/natrofa.com/#
 address=/ndcg.com/#
 address=/neat-url.com/#
 address=/nedvighimost-sochi.ru/#
+address=/nellopy.com/#
 address=/nerdcamp.net/#
 address=/nerdpol.ovh/#
 address=/net-freaks.com/#
@@ -1345,6 +1348,7 @@ address=/skies.tw/#
 address=/slasdot.com/#
 address=/sleepless.hk/#
 address=/sline.net/#
+address=/sly.io/#
 address=/slyip.com/#
 address=/slyip.net/#
 address=/smelly.cc/#
@@ -1471,6 +1475,7 @@ address=/usa.cc/#
 address=/uzhi.ru/#
 address=/v13clan.com/#
 address=/vankin.de/#
+address=/vast-consulting.com/#
 address=/vaughngass.com/#
 address=/vctel.com/#
 address=/ve3.info/#

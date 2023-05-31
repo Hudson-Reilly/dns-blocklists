@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 28 May 2023 21:09 UTC
-# Version: 2023.0528.2109.16
+# Last modified: 31 May 2023 21:14 UTC
+# Version: 2023.0531.2114.15
 # Syntax: Domains (without subdomains)
-# Number of entries: 1555
+# Number of entries: 1560
 #
 0000000000000000000000.com
 0rg.us
@@ -72,7 +72,6 @@ adresedemail.com
 afraid.org
 ahoeab.org
 aintno.info
-airdns.org
 airlinemeals.net
 albertn.ru
 allez.la
@@ -340,6 +339,7 @@ dnsfailover.net
 dnsfor.me
 dnsget.org
 dnshome.de
+dnshome.icu
 dnsis.us
 dnsiskinky.com
 dnsking.ch
@@ -451,6 +451,7 @@ dynns.com
 dyns.be
 dyns.cx
 dyns.net
+dynserv.org
 dynssl.com
 dynu.com
 dynu.net
@@ -950,6 +951,7 @@ mcsoft.org
 mcwrite.net
 ddns.me.uk
 dynamicdns.me.uk
+mecalco.com
 medbury.com
 medittech.com
 mefound.com
@@ -1062,6 +1064,7 @@ natrofa.com
 ndcg.com
 neat-url.com
 nedvighimost-sochi.ru
+nellopy.com
 nerdcamp.net
 nerdpol.ovh
 net-freaks.com
@@ -1345,6 +1348,7 @@ skies.tw
 slasdot.com
 sleepless.hk
 sline.net
+sly.io
 slyip.com
 slyip.net
 smelly.cc
@@ -1471,6 +1475,7 @@ usa.cc
 uzhi.ru
 v13clan.com
 vankin.de
+vast-consulting.com
 vaughngass.com
 vctel.com
 ve3.info
