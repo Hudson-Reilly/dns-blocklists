@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.native.winoffice. hostmaster.hagezi.native.winoffice. 1684791480 86400 3600 604800 30
+@ SOA rpz.hagezi.native.winoffice. hostmaster.hagezi.native.winoffice. 1685534400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Windows/Office Tracker DNS Blocklist
@@ -8,15 +8,17 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 22 May 2023 21:38 UTC
-; Version: 2023.0522.2138.25
+; Last modified: 31 May 2023 12:00 UTC
+; Version: 2023.0531.1200.16
 ; Syntax: RPZ
-; Number of entries: 154
+; Number of entries: 162
 ;
 events.data.msn.cn CNAME .
 *.events.data.msn.cn CNAME .
 nexusrules.live.com CNAME .
 *.nexusrules.live.com CNAME .
+cac-visio-telemetry.officeapps.live.com CNAME .
+*.cac-visio-telemetry.officeapps.live.com CNAME .
 euc-excel-telemetry.officeapps.live.com CNAME .
 *.euc-excel-telemetry.officeapps.live.com CNAME .
 euc-powerpoint-telemetry.officeapps.live.com CNAME .
@@ -35,12 +37,18 @@ powerpoint-telemetry.officeapps.live.com CNAME .
 *.powerpoint-telemetry.officeapps.live.com CNAME .
 ppc-excel-telemetry.officeapps.live.com CNAME .
 *.ppc-excel-telemetry.officeapps.live.com CNAME .
+ppc-onenote-telemetry.officeapps.live.com CNAME .
+*.ppc-onenote-telemetry.officeapps.live.com CNAME .
 ppc-powerpoint-telemetry.officeapps.live.com CNAME .
 *.ppc-powerpoint-telemetry.officeapps.live.com CNAME .
+ppc-word-telemetry.officeapps.live.com CNAME .
+*.ppc-word-telemetry.officeapps.live.com CNAME .
 ukc-visio-telemetry.officeapps.live.com CNAME .
 *.ukc-visio-telemetry.officeapps.live.com CNAME .
 usc-visio-telemetry.officeapps.live.com CNAME .
 *.usc-visio-telemetry.officeapps.live.com CNAME .
+visio-telemetry.officeapps.live.com CNAME .
+*.visio-telemetry.officeapps.live.com CNAME .
 word-telemetry.officeapps.live.com CNAME .
 *.word-telemetry.officeapps.live.com CNAME .
 adhs.events.data.microsoft.com CNAME .
