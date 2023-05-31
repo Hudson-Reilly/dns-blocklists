@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: Updated regularly
-! Last modified: 30 May 2023 21:06 UTC
-! Version: 2023.0530.2106.34
+! Last modified: 31 May 2023 21:10 UTC
+! Version: 2023.0531.2110.53
 ! Syntax: AdBlock
-! Number of entries: 136
+! Number of entries: 140
 !
 ||search.0xcb.dev^
 ||searx.32bitflo.at^
@@ -63,6 +63,7 @@
 ||haku.lelux.fi^
 ||searx.lelux.fi^
 ||search.lgbtq.cool^
+||searx.lnode.net^
 ||searx.louifox.house^
 ||lukol.com^
 ||searx.lwhr.xyz^
@@ -91,6 +92,7 @@
 ||searx.nixnet.services^
 ||timdor.noip.me^
 ||null.media^
+||searx.openhoofd.nl^
 ||searx.openpandora.org^
 ||search.opentunisia.org^
 ||openworlds.info^
@@ -119,10 +121,12 @@
 ||searx.ro^
 ||searx.ru^
 ||searx.run^
+||searx.xyz^
 ||a.searx.space^
 ||searxs.eu^
 ||search.seds.nl^
 ||searx.semipvt.com^
+||searx.simonoener.com^
 ||skyn3t.in^
 ||searx.solusar.de^
 ||searx.sp-codes.de^

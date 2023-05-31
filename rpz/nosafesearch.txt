@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1685480760 86400 3600 604800 30
+@ SOA rpz.hagezi.nosafesearch. hostmaster.hagezi.nosafesearch. 1685567400 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's safesearch not supported DNS Blocklist
@@ -7,10 +7,10 @@ $TTL 30
 ; Homepage: https://github.com/hagezi/dns-blocklists
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; Expires: Updated regularly
-; Last modified: 30 May 2023 21:06 UTC
-; Version: 2023.0530.2106.34
+; Last modified: 31 May 2023 21:10 UTC
+; Version: 2023.0531.2110.53
 ; Syntax: RPZ
-; Number of entries: 272
+; Number of entries: 280
 ;
 searx.32bitflo.at CNAME .
 *.searx.32bitflo.at CNAME .
@@ -80,6 +80,8 @@ searchencrypt.com CNAME .
 *.searchencrypt.com CNAME .
 searx.semipvt.com CNAME .
 *.searx.semipvt.com CNAME .
+searx.simonoener.com CNAME .
+*.searx.simonoener.com CNAME .
 startpage.com CNAME .
 *.startpage.com CNAME .
 webcrawler.com CNAME .
@@ -196,6 +198,8 @@ searchx.mobi CNAME .
 *.searchx.mobi CNAME .
 search.azkware.net CNAME .
 *.search.azkware.net CNAME .
+searx.lnode.net CNAME .
+*.searx.lnode.net CNAME .
 searx.nakhan.net CNAME .
 *.searx.nakhan.net CNAME .
 search.nebulacentre.net CNAME .
@@ -210,6 +214,8 @@ searx.ninja CNAME .
 *.searx.ninja CNAME .
 metasearch.nl CNAME .
 *.metasearch.nl CNAME .
+searx.openhoofd.nl CNAME .
+*.searx.openhoofd.nl CNAME .
 search.seds.nl CNAME .
 *.search.seds.nl CNAME .
 search.bluelock.org CNAME .
@@ -284,3 +290,5 @@ searx.fmac.xyz CNAME .
 *.searx.fmac.xyz CNAME .
 searx.lwhr.xyz CNAME .
 *.searx.lwhr.xyz CNAME .
+searx.xyz CNAME .
+*.searx.xyz CNAME .

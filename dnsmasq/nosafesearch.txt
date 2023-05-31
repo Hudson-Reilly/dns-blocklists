@@ -3,10 +3,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 30 May 2023 21:06 UTC
-# Version: 2023.0530.2106.34
+# Last modified: 31 May 2023 21:10 UTC
+# Version: 2023.0531.2110.53
 # Syntax: DNSMasq
-# Number of entries: 136
+# Number of entries: 140
 #
 address=/search.0xcb.dev/#
 address=/searx.32bitflo.at/#
@@ -63,6 +63,7 @@ address=/searx.lavatech.top/#
 address=/haku.lelux.fi/#
 address=/searx.lelux.fi/#
 address=/search.lgbtq.cool/#
+address=/searx.lnode.net/#
 address=/searx.louifox.house/#
 address=/lukol.com/#
 address=/searx.lwhr.xyz/#
@@ -91,6 +92,7 @@ address=/nigma.eu/#
 address=/searx.nixnet.services/#
 address=/timdor.noip.me/#
 address=/null.media/#
+address=/searx.openhoofd.nl/#
 address=/searx.openpandora.org/#
 address=/search.opentunisia.org/#
 address=/openworlds.info/#
@@ -119,10 +121,12 @@ address=/searx.org/#
 address=/searx.ro/#
 address=/searx.ru/#
 address=/searx.run/#
+address=/searx.xyz/#
 address=/a.searx.space/#
 address=/searxs.eu/#
 address=/search.seds.nl/#
 address=/searx.semipvt.com/#
+address=/searx.simonoener.com/#
 address=/skyn3t.in/#
 address=/searx.solusar.de/#
 address=/searx.sp-codes.de/#
