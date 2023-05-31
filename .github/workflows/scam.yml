@@ -14,4 +14,4 @@ jobs:
         uses: peter-evans/close-issue@v3
         with:
           issue-number: ${{ github.event.issue.number }}
-          comment: Thanks, ping @durablenapkin and @jarelllama for adding to the scam list.
+          comment: Thanks, ping @durablenapkin @jarelllama @iam-py-test for adding to the scam list.
