@@ -1,5 +1,5 @@
 $TTL 30
-@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1685308020 86400 3600 604800 30
+@ SOA rpz.hagezi.doh. hostmaster.hagezi.doh. 1685567580 86400 3600 604800 30
  NS localhost.
 ;
 ; Title: HaGeZi's Encrypted DNS Bypass DNS Blocklist
@@ -9,10 +9,10 @@ $TTL 30
 ; Issues: https://github.com/hagezi/dns-blocklists/issues
 ; License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 ; Expires: Updated regularly
-; Last modified: 28 May 2023 21:07 UTC
-; Version: 2023.0528.2107.58
+; Last modified: 31 May 2023 21:13 UTC
+; Version: 2023.0531.2113.10
 ; Syntax: RPZ
-; Number of entries: 1516
+; Number of entries: 1524
 ;
 shield.afixer.app CNAME .
 *.shield.afixer.app CNAME .
@@ -1006,6 +1006,12 @@ syd.adfilter.net CNAME .
 *.syd.adfilter.net CNAME .
 ahadns.net CNAME .
 *.ahadns.net CNAME .
+dns.alekberg.net CNAME .
+*.dns.alekberg.net CNAME .
+dns2.alekberg.net CNAME .
+*.dns2.alekberg.net CNAME .
+dnses.alekberg.net CNAME .
+*.dnses.alekberg.net CNAME .
 dnsnl.alekberg.net CNAME .
 *.dnsnl.alekberg.net CNAME .
 dnsnl-noads.alekberg.net CNAME .
@@ -1520,10 +1526,12 @@ lv1.nixnet.xyz CNAME .
 *.lv1.nixnet.xyz CNAME .
 ny1.nixnet.xyz CNAME .
 *.ny1.nixnet.xyz CNAME .
+a.passcloud.xyz CNAME .
+*.a.passcloud.xyz CNAME .
+i.passcloud.xyz CNAME .
+*.i.passcloud.xyz CNAME .
 ag.ssrahul96.xyz CNAME .
 *.ag.ssrahul96.xyz CNAME .
-securedns.vendorvista.xyz CNAME .
-*.securedns.vendorvista.xyz CNAME .
 dns.vinnyp.xyz CNAME .
 *.dns.vinnyp.xyz CNAME .
 pihole.datamatter.co.za CNAME .

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 May 2023 21:07 UTC
-# Version: 2023.0528.2107.58
+# Last modified: 31 May 2023 21:13 UTC
+# Version: 2023.0531.2113.10
 # Syntax: DNSMasq
-# Number of entries: 758
+# Number of entries: 762
 #
 address=/ns.00dani.me/#
 address=/dns.0ooo.icu/#
@@ -59,6 +59,9 @@ address=/ahadns.net/#
 address=/blitz.ahadns.com/#
 address=/blitz-setup.ahadns.com/#
 address=/aihe.app/#
+address=/dns.alekberg.net/#
+address=/dns2.alekberg.net/#
+address=/dnses.alekberg.net/#
 address=/dnsnl.alekberg.net/#
 address=/dnsnl-noads.alekberg.net/#
 address=/dnsse.alekberg.net/#
@@ -570,6 +573,8 @@ address=/2.dnscrypt-cert.oszx.co/#
 address=/1a.ns.ozer.im/#
 address=/dns.paesa.es/#
 address=/dns.panszelescik.pl/#
+address=/a.passcloud.xyz/#
+address=/i.passcloud.xyz/#
 address=/doh.gcp.pathofgrace.com/#
 address=/rpz-public-resolver1.rrdns.pch.net/#
 address=/fuchur.pentament.de/#
@@ -734,7 +739,6 @@ address=/adfree.usableprivacy.net/#
 address=/use-application-dns.net/#
 address=/neatdns.ustclug.org/#
 address=/tor.vasi.li/#
-address=/securedns.vendorvista.xyz/#
 address=/dns.vinnyp.xyz/#
 address=/dns.vinokurov.tk/#
 address=/darkness.is.my.waifu.cz/#

@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 28 May 2023 21:07 UTC
-# Version: 2023.0528.2107.58
+# Last modified: 31 May 2023 21:13 UTC
+# Version: 2023.0531.2113.10
 # Syntax: Domains (without subdomains)
-# Number of entries: 758
+# Number of entries: 762
 #
 ns.00dani.me
 dns.0ooo.icu
@@ -59,6 +59,9 @@ ahadns.net
 blitz.ahadns.com
 blitz-setup.ahadns.com
 aihe.app
+dns.alekberg.net
+dns2.alekberg.net
+dnses.alekberg.net
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -570,6 +573,8 @@ dns.oszx.co
 1a.ns.ozer.im
 dns.paesa.es
 dns.panszelescik.pl
+a.passcloud.xyz
+i.passcloud.xyz
 doh.gcp.pathofgrace.com
 rpz-public-resolver1.rrdns.pch.net
 fuchur.pentament.de
@@ -734,7 +739,6 @@ adfree.usableprivacy.net
 use-application-dns.net
 neatdns.ustclug.org
 tor.vasi.li
-securedns.vendorvista.xyz
 dns.vinnyp.xyz
 dns.vinokurov.tk
 darkness.is.my.waifu.cz
