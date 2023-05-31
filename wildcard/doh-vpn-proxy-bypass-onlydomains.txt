@@ -4,10 +4,10 @@
 # Homepage: https://github.com/hagezi/dns-blocklists
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: Updated regularly
-# Last modified: 30 May 2023 21:07 UTC
-# Version: 2023.0530.2107.45
+# Last modified: 31 May 2023 21:11 UTC
+# Version: 2023.0531.2111.47
 # Syntax: Domains (without subdomains)
-# Number of entries: 2114
+# Number of entries: 2131
 #
 0000a-fast-proxy.de
 ns.00dani.me
@@ -27,6 +27,7 @@ dns.0ooo.icu
 t2c.240130034.xyz
 24tunnel.com
 doh003.280blocker.net
+2999.info
 2anonymousproxy.com
 2fastsurfer.com
 2fastsurfer.eu
@@ -102,6 +103,9 @@ aihe.app
 airdns.org
 airvpn.org
 akunssh.net
+dns.alekberg.net
+dns2.alekberg.net
+dnses.alekberg.net
 dnsnl.alekberg.net
 dnsnl-noads.alekberg.net
 dnsse.alekberg.net
@@ -404,6 +408,7 @@ vpnoffice.co.cc
 cocoombr.com
 cocoproxy.com
 coinsite.info
+coinweb.info
 jpdns.cola16.app
 dns.colorfreedom.org
 dns.7sec.com.br
@@ -452,6 +457,7 @@ criarssh.com
 crownproxy.com
 croxyproxy.com
 croxyproxy.rocks
+crushus.com
 crypticvpn.com
 crypto.sx
 cryptohippie.com
@@ -577,6 +583,7 @@ resolver1.dyndnsinternetguide.com
 resolver2.dyndnsinternetguide.com
 gustamadh.dynv6.net
 dzhot.us
+vpngermany.dzzz.info
 dnscache.e-utp.net
 earthvpn.com
 easyhandshake.com
@@ -603,6 +610,7 @@ proxy.eti.pw
 arashi.eu.org
 armorrush.eu.org
 eurproxy.com
+evantbyrne.info
 everyproxies.info
 evpn.net
 evyy.net
@@ -946,6 +954,7 @@ ispvpn.com
 dns.itdept.pro
 itopvpn.com
 ivacy.com
+ivpn.info
 ivpn.net
 iweb365.net
 jabber-germany.de
@@ -994,6 +1003,7 @@ xray.krnl.eu
 doh.lacontrevoie.fr
 lagometer.de
 lalal.info
+vpninuk.lant.info
 largero.com
 dns.lars-lehmann.net
 lastentarvike.fi
@@ -1201,6 +1211,7 @@ onion.link
 onion.lt
 onion.lu
 onion.ly
+onion.nu
 onion.pet
 onion.rip
 onion.sh
@@ -1271,6 +1282,8 @@ dns.panszelescik.pl
 pantavv.xyz
 pantoto.xyz
 parrotsec.org
+a.passcloud.xyz
+i.passcloud.xyz
 doh.gcp.pathofgrace.com
 rpz-public-resolver1.rrdns.pch.net
 peekatwork.com
@@ -1432,6 +1445,7 @@ proxyfree.org
 proxygogo.info
 proxyhash.net
 proxyhub.in
+proxyinternet.info
 proxyisp.com
 proxyist.com
 proxylistpro.com
@@ -1463,6 +1477,7 @@ proxysite.top
 proxysite.video
 proxysneak.com
 proxysurfing.org
+proxythis.info
 proxyturbo.com
 proxyunblock.site
 proxyunblocker.org
@@ -1498,6 +1513,7 @@ tiger.dns.qwer.pw
 resolver.r0cket.net
 r1bnc.com
 ra4wvpn.com
+rabbithole.site
 racevpn.com
 dns.api.rackspacecloud.com
 radmin-vpn.com
@@ -1579,6 +1595,7 @@ do.shimul.me
 doh.sidnlabs.nl
 dns.silen.org
 dns.silentlybren.com
+silversurf.info
 simplevpn.info
 dnsovertls.sinodun.com
 dnsovertls1.sinodun.com
@@ -1593,6 +1610,7 @@ sitenable.org
 sitescrack.host
 siteunblock.org
 dns.skrep.eu
+skynetwork.info
 skyssh.co
 skyvpn.net
 slickvpn.com
@@ -1698,6 +1716,7 @@ surfshell.io
 surfsjark.com
 surfsneaker.com
 surfsuark.com
+surfwithease.com
 surt.ml
 surtshark.com
 swapip.com
@@ -1771,6 +1790,7 @@ tor2web.it
 tor2web.org
 tor2web.ru
 tor2web.su
+tor2web.to
 tor4pay.com
 torguard.net
 nsc.torgues.net
@@ -1910,7 +1930,6 @@ uvpn.me
 tor.vasi.li
 vectroproxy.com
 veepn.com
-securedns.vendorvista.xyz
 veripn.com
 videounblock.com
 videounblocked.com
@@ -1951,8 +1970,6 @@ vpndock.com
 vpndog.com
 proxy.vpner.com
 vpnfan.com
-vpnfast.pw
-vpnfree.in
 vpnfree.info
 vpngame.com
 vpngate.net
@@ -1994,6 +2011,7 @@ vpnsuper.app
 vpntraffic.com
 vpntunnel.com
 vpntunnel.net
+vpntunnel.se
 vpnudp.com
 vpnunlimited.com
 vpnunlimitedapp.com
@@ -2010,7 +2028,6 @@ walln.com
 wantaquddin.com
 abel.waringer-atg.de
 dns.warpnine.de
-warpproxy.com
 watchproxy.com
 kswro.web.id
 doh.this.web.id
@@ -2045,6 +2062,7 @@ whiskergalaxy.com
 whoer.net
 whoisping.com
 whonix.org
+whyproxy.com
 wiksa.com
 windscribe.com
 adguard.wirimij.nl
@@ -2095,7 +2113,6 @@ yourvpn.info
 youtube-unblocker.com
 youtubebyclick.com
 youtubefreeproxy.net
-youtubeproxy.co
 youtubeunblocked.live
 youtubez.com
 yovbak.com
