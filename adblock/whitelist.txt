@@ -3882,3 +3882,6 @@
 ! https://github.com/hagezi/dns-blocklists/issues/1094 
 @@|skymedia.co.uk^
 
+! https://github.com/hagezi/dns-blocklists/issues/1096
+@@|livechat.ivpn.net^
+
