@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE.md
 # Expires: Updated regularly
-# Last modified: 30 May 2023 21:14 UTC
-# Version: 2023.0530.2114.03
+# Last modified: 31 May 2023 21:18 UTC
+# Version: 2023.0531.2118.27
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 104519
+# Number of entries: 104408
 #
 *.000000tyc.com
 *.00000178.com
@@ -23531,7 +23531,6 @@
 *.3656ii.net
 *.3656ii.vip
 *.3656iii.com
-*.3656j.net
 *.3656jj.com
 *.3656jj.net
 *.3656jj.vip
@@ -63524,6 +63523,7 @@
 *.cotedazurpalace.com
 *.cotgon.com
 *.cottonclub-texasholdem.it
+*.counterluck.com
 *.cowboycasino.net
 *.cozino.com
 *.cp.partners
@@ -63727,6 +63727,7 @@
 *.csgopoker.com
 *.csgopot.win
 *.csgopull.com
+*.csgoput.com
 *.csgoraffling.com
 *.csgorage.com
 *.csgorambopot.com
@@ -67077,6 +67078,7 @@
 *.favoritecasinos.com
 *.favourit.com
 *.fayuan04.com
+*.fazobetai.com
 *.fb88.com
 *.fb88.company
 *.fb88.link
@@ -91244,6 +91246,7 @@
 *.skinarena.com
 *.skinbet.com
 *.skinduel.com
+*.skinhell.com
 *.skinhunt.com
 *.skinprofit.com
 *.skinsdream.com
@@ -96173,7 +96176,6 @@
 *.vns0209.com
 *.vns0622.org
 *.vns0622ccc.com
-*.vns0622dd.com
 *.vns0884.com
 *.vns1884.com
 *.vns188s.com
@@ -96727,7 +96729,6 @@
 *.w43dwv0l93mkb9g8.net
 *.w464646.com
 *.w5354.com
-*.w5359.com
 *.w5461.com
 *.w556688.com
 *.w56933.com
@@ -97201,11 +97202,7 @@
 *.wanboyul.com
 *.wanbw88.com
 *.wandn.net
-*.wanfa-bo.com
 *.wanfa3.com
-*.wanfa6.com
-*.wanfa666.com
-*.wanfa8.vip
 *.wanfun88.com
 *.wang.vet
 *.wang-sc.com
@@ -97691,7 +97688,6 @@
 *.wfb688.net
 *.wfb688.vip
 *.wfb6888.com
-*.wfcs.one
 *.wfdlq0er.com
 *.wff140.com
 *.wff141.com
@@ -97709,7 +97705,6 @@
 *.wfj710.vip
 *.wfmye4qr.com
 *.wfun88.com
-*.wfzt.one
 *.wgh.ag
 *.wgwwlg.xyz
 *.wh-time.com
@@ -97892,7 +97887,6 @@
 *.winclub688.com
 *.winclub788.com
 *.wincph.com
-*.wind768.vip
 *.windph.com
 *.winds.moe
 *.windve.xyz
@@ -98084,7 +98078,6 @@
 *.wns55.net
 *.wns570570.com
 *.wns666-app.com
-*.wns6661.com
 *.wns6662.com
 *.wns6665.com
 *.wns666a.com
@@ -98397,8 +98390,6 @@
 *.ww-88852.com
 *.ww-dy37.com
 *.ww-zebet.com
-*.ww1113.com
-*.ww1116.com
 *.ww1288.com
 *.ww138.com
 *.ww19789.com
@@ -98471,7 +98462,6 @@
 *.www-38929.com
 *.www-38979.com
 *.www-38989.com
-*.www-5359.com
 *.www-5414.com
 *.www-5424.com
 *.www-559222.com
@@ -98503,7 +98493,6 @@
 *.www-dy37b.com
 *.www-dyjcp.app
 *.www-ee88.com
-*.www-ek88.com
 *.www-h100.club
 *.www-jixiangfang.com
 *.www-lswjs.app
@@ -98519,7 +98508,6 @@
 *.www100789.com
 *.www11110880.com
 *.www11330880.com
-*.www12898.com
 *.www12898app.com
 *.www14055.com
 *.www14055.net
@@ -98599,7 +98587,6 @@
 *.www891001.com
 *.www891002.com
 *.www891003.com
-*.www90898.com
 *.www910987.com
 *.www959049.com
 *.www9810088.com
@@ -99114,7 +99101,6 @@
 *.x18853.com
 *.x18862.com
 *.x18863.com
-*.x18883.com
 *.x188xbetxkor.com
 *.x188xj.com
 *.x1894.com
@@ -100129,11 +100115,6 @@
 *.x8858.com
 *.x88618.com
 *.x88767.com
-*.x888812.vip
-*.x888813.vip
-*.x888815.vip
-*.x888817.vip
-*.x888818.vip
 *.x88888887.com
 *.x88uu.com
 *.x88x20.com
@@ -100344,7 +100325,6 @@
 *.xg8555.com
 *.xg9555.com
 *.ag.xge125.net
-*.xglift.com
 *.xgrmxvv.xyz
 *.xh6866.com
 *.xh8966.com
@@ -100357,12 +100337,7 @@
 *.xhdh6.com
 *.xhdh7.com
 *.xhjnzzos.cfd
-*.xhtd003.com
-*.xhtd004.com
-*.xhtd006.com
 *.xhtd008.com
-*.xhtd009.com
-*.xhtd0110.com
 *.xi0808.com
 *.xi3344.com
 *.xi5456.com
@@ -100451,7 +100426,6 @@
 *.xinyu267.com
 *.xinyuan-lottery-2012.xyz
 *.xiucaizzz.vip
-*.xj-bo.com
 *.xj033.com
 *.xj055.com
 *.xj077.com
@@ -100467,19 +100441,14 @@
 *.xj662.com
 *.xj778.com
 *.xj84006.com
-*.xj8661.com
-*.xj8667.com
-*.xj8899.vip
 *.xjbo520.com
 *.xjbzfc.com
 *.xjc2356.com
 *.xjc28f.com
 *.xjc598.com
 *.xjc89s.com
-*.xjcs.vip
 *.xjia8.com
 *.xjs680.com
-*.xjtydoc.com
 *.xjxeuyh.xyz
 *.xjzp1.com
 *.xjzq666.com
@@ -101109,37 +101078,9 @@
 *.xpj19978.com
 *.xpj2033.com
 *.xpj211.xyz
-*.xpj225.xyz
-*.xpj227.xyz
-*.xpj228.xyz
-*.xpj229.xyz
-*.xpj231.xyz
-*.xpj232.xyz
-*.xpj233.xyz
-*.xpj235.xyz
 *.xpj2358.com
-*.xpj236.xyz
 *.xpj2388.com
-*.xpj2421an.xyz
-*.xpj2421ang.xyz
-*.xpj2421en.xyz
-*.xpj2421eng.xyz
-*.xpj2421er.xyz
-*.xpj2421in.xyz
-*.xpj2421ing.xyz
-*.xpj2421ong.xyz
-*.xpj2421un.xyz
-*.xpj2421vn.xyz
-*.xpj263.xyz
-*.xpj265.xyz
 *.xpj2658.com
-*.xpj266.xyz
-*.xpj268.xyz
-*.xpj269.xyz
-*.xpj271.xyz
-*.xpj272.xyz
-*.xpj273.xyz
-*.xpj275.xyz
 *.xpj2758.com
 *.xpj2900.com
 *.xpj2958.com
@@ -101348,12 +101289,7 @@
 *.xv635.com
 *.xv637.com
 *.xv660.com
-*.xv661.com
-*.xv662.com
-*.xv664.com
 *.xv666888.com
-*.xv667.com
-*.xv669.com
 *.xv683.com
 *.xv686.com
 *.xv68605.com
@@ -101782,6 +101718,7 @@
 *.y68shengji.com
 *.y6f2.com
 *.y6p8.com
+*.y6top.com
 *.y6vip.app
 *.y7003.com
 *.y7154.com
@@ -102373,7 +102310,6 @@
 *.yabo370.net
 *.yabo371.net
 *.yabo372.net
-*.yabo3721.com
 *.yabo373.net
 *.yabo376.vip
 *.yabo377.vip
@@ -102562,7 +102498,6 @@
 *.yabo775.com
 *.yabo7755.com
 *.yabo7766.com
-*.yabo777.cn
 *.yabo7777.com
 *.yabo778.com
 *.yabo7788.com
@@ -102656,7 +102591,6 @@
 *.ybbbet.asia
 *.ybbetway.com
 *.ybbway.com
-*.ybh1.vip
 *.ybh111vip.com
 *.ybh222vip.com
 *.ybh33333.vip
@@ -102679,9 +102613,7 @@
 *.ybh8825.com
 *.ybh888vip.com
 *.ybh99999.vip
-*.ybhcs.one
 *.ybhvip0.com
-*.ybhzt.one
 *.ybith.com
 *.ybvip90.app
 *.ybvip91.app
@@ -102775,7 +102707,6 @@
 *.yh-1888.com
 *.yh-2288.com
 *.yh-3388.com
-*.yh-bo.com
 *.yh1082.com
 *.yh1548.com
 *.yh1552.com
@@ -102814,7 +102745,6 @@
 *.yh1681.com
 *.yh1687.com
 *.yh1727.com
-*.yh18.vip
 *.yh1889.vip
 *.yh1906.com
 *.yh1940.com
@@ -102902,7 +102832,6 @@
 *.yh5896.com
 *.yh6621.com
 *.yh6629.com
-*.yh8.fun
 *.yh8188.com
 *.yh8388.com
 *.yh86666.com
@@ -102962,12 +102891,6 @@
 *.yhs23.com
 *.yht600.com
 *.yhtouzhu.com
-*.yhw0011.com
-*.yhw0033.com
-*.yhw0044.com
-*.yhw0055.com
-*.yhw0077.com
-*.yhw0099.com
 *.yhw1111.com
 *.yhw2222.com
 *.yhwbet.com
@@ -102991,7 +102914,6 @@
 *.yhykf25836944.com
 *.yhykf369333.com
 *.yhykf951357.com
-*.yhzt.one
 *.yhzzz.com
 *.yi77b.com
 *.yi77e.com
@@ -103032,7 +102954,6 @@
 *.yiwanbaba.com
 *.yiwangyu.com
 *.yiyuanluyungou.com
-*.yj-zn.com
 *.yj4831.com
 *.yjborfd.xyz
 *.yjjmvm.xyz
@@ -103087,32 +103008,13 @@
 *.yl13588.com
 *.yl1366.com
 *.yl13688.com
-*.yl152.xyz
-*.yl153.xyz
-*.yl155.xyz
-*.yl156.xyz
 *.yl1567.com
-*.yl157.xyz
-*.yl158.xyz
-*.yl161.xyz
-*.yl162.xyz
-*.yl163.xyz
 *.yl169.vip
 *.yl1699.com
 *.yl1766.com
 *.yl17777.com
 *.yl1799.com
 *.yl1990.com
-*.yl1i8.xyz
-*.yl1i9.xyz
-*.yl1j1.xyz
-*.yl1j2.xyz
-*.yl1j3.xyz
-*.yl1j5.xyz
-*.yl1j6.xyz
-*.yl1j7.xyz
-*.yl1j8.xyz
-*.yl1j9.xyz
 *.yl200.vip
 *.yl2099.com
 *.yl2109.vip
@@ -103205,7 +103107,6 @@
 *.yl65555.com
 *.yl656.com
 *.yl6678.com
-*.yl6688.vip
 *.yl67777.com
 *.yl6781.xyz
 *.yl6782.xyz
@@ -103297,7 +103198,6 @@
 *.yldh22.com
 *.ylgj105.com
 *.ylgj106.com
-*.ylhpcl.com
 *.ylkph2a.com
 *.ylwjjug.xyz
 *.ylxfm.com
@@ -103313,7 +103213,6 @@
 *.ylzqxg.xyz
 *.ylzqxz.xyz
 *.ylzqyn.xyz
-*.ylzt.one
 *.ylzz0055.com
 *.ylzz0066.com
 *.ylzz0077.com
@@ -103502,7 +103401,6 @@
 *.ym76960.com
 *.ym79027.com
 *.ym80180.com
-*.ym866.com
 *.ym96012.com
 *.ym966.net
 *.ymm08.com
@@ -103581,7 +103479,6 @@
 *.yq8226.com
 *.yq9293.com
 *.yqillw.com
-*.yqlxc.com
 *.yqmid.com
 *.yqryt.com
 *.yr89.fun
@@ -103603,7 +103500,6 @@
 *.ys71886.com
 *.ys8go.net
 *.ys9017.com
-*.ys9026.com
 *.ysb1020.com
 *.ysb1023.com
 *.ysb1024.com
@@ -103770,7 +103666,6 @@
 *.yw59.com
 *.yw681.com
 *.yw788.com
-*.ywfbw736.com
 *.ywoooo.xyz
 *.ywqtrbdatxh976.com
 *.yx06.com
@@ -103884,7 +103779,6 @@
 *.z464646.com
 *.z5002.com
 *.z51234.com
-*.z5359.com
 *.z5668.com
 *.z5agk50d.com
 *.z6.app
@@ -104334,7 +104228,6 @@
 *.zm72d7wd.com
 *.zm8900.com
 *.zmbpa.com
-*.zmdfyjd.com
 *.zmgb194hvxweey.com
 *.zmkohgbh83.com
 *.zmm2i0io.xyz
@@ -104470,7 +104363,6 @@
 *.zxkf016.xyz
 *.zxkf017.xyz
 *.zxkf018.xyz
-*.zxmsj.net
 *.zxmv.vip
 *.zxq123456.vip
 *.zxtcw.tel
@@ -104485,7 +104377,6 @@
 *.zy63.vip
 *.zyam645.com
 *.zyapi.org
-*.zyc326326.vip
 *.zydear.xyz
 *.zyg6268.com
 *.zyhoney.xyz
@@ -104495,9 +104386,7 @@
 *.zysvofuv.cfd
 *.zz-99.com
 *.zz0622.com
-*.zz1112.com
 *.zz11aa.com
-*.zz1222.com
 *.zz19789.com
 *.zz1999.com
 *.zz2698.com
